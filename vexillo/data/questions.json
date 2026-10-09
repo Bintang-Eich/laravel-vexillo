@@ -1,0 +1,8402 @@
+[
+  {
+    "id": 1,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Papua New Guinea?",
+    "answer": "Tok Pisin",
+    "options": [
+      "Hausa",
+      "Tetum",
+      "Arab",
+      "Tok Pisin"
+    ],
+    "country": "pg",
+    "flag": null
+  },
+  {
+    "id": 2,
+    "type": "capital",
+    "question": "Apa ibu kota Sierra Leone?",
+    "answer": "Freetown",
+    "options": [
+      "Ljubljana",
+      "Sri Jayawardenepura Kotte",
+      "Freetown",
+      "Guatemala City"
+    ],
+    "country": "sl",
+    "flag": null
+  },
+  {
+    "id": 3,
+    "type": "continent",
+    "question": "Negara Sweden berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Amerika Selatan",
+      "Asia",
+      "Eropa",
+      "Amerika Utara"
+    ],
+    "country": "se",
+    "flag": null
+  },
+  {
+    "id": 4,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Madagascar?",
+    "answer": "Antananarivo",
+    "options": [
+      "Sarajevo",
+      "Mexico City",
+      "Antananarivo",
+      "Paris"
+    ],
+    "country": "mg",
+    "flag": null
+  },
+  {
+    "id": 5,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Dominica?",
+    "answer": "Roseau",
+    "options": [
+      "Amsterdam",
+      "Harare",
+      "Roseau",
+      "Malé"
+    ],
+    "country": "dm",
+    "flag": null
+  },
+  {
+    "id": 6,
+    "type": "language",
+    "question": "Penduduk Croatia umumnya menggunakan bahasa...",
+    "answer": "Kroasia",
+    "options": [
+      "Kroasia",
+      "Belanda",
+      "Jerman",
+      "Mandarin"
+    ],
+    "country": "hr",
+    "flag": null
+  },
+  {
+    "id": 7,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Fiji",
+    "options": [
+      "Fiji",
+      "Panama",
+      "Venezuela",
+      "Greece"
+    ],
+    "country": "fj",
+    "flag": "https://flagcdn.com/w640/fj.png"
+  },
+  {
+    "id": 8,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Nepal",
+    "options": [
+      "Nepal",
+      "Turkmenistan",
+      "Russia",
+      "Ghana"
+    ],
+    "country": "np",
+    "flag": "https://flagcdn.com/w640/np.png"
+  },
+  {
+    "id": 9,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Australia",
+    "options": [
+      "Armenia",
+      "Vanuatu",
+      "Australia",
+      "Haiti"
+    ],
+    "country": "au",
+    "flag": "https://flagcdn.com/w640/au.png"
+  },
+  {
+    "id": 10,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Cuba?",
+    "answer": "Havana",
+    "options": [
+      "Vientiane",
+      "Havana",
+      "St. George's",
+      "Juba"
+    ],
+    "country": "cu",
+    "flag": null
+  },
+  {
+    "id": 11,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Cameroon?",
+    "answer": "Yaoundé",
+    "options": [
+      "Yaoundé",
+      "Hanoi",
+      "Gitega",
+      "Bern"
+    ],
+    "country": "cm",
+    "flag": null
+  },
+  {
+    "id": 12,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Belarus",
+    "options": [
+      "San Marino",
+      "Paraguay",
+      "Belarus",
+      "Saint Lucia"
+    ],
+    "country": "by",
+    "flag": "https://flagcdn.com/w640/by.png"
+  },
+  {
+    "id": 13,
+    "type": "continent",
+    "question": "Iraq terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Afrika",
+      "Asia",
+      "Amerika Utara",
+      "Oseania"
+    ],
+    "country": "iq",
+    "flag": null
+  },
+  {
+    "id": 14,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Cabo Verde?",
+    "answer": "Kreol Tanjung Verde",
+    "options": [
+      "Polandia",
+      "Nepali",
+      "Latvia",
+      "Kreol Tanjung Verde"
+    ],
+    "country": "cv",
+    "flag": null
+  },
+  {
+    "id": 15,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Austria?",
+    "answer": "Euro",
+    "options": [
+      "Rufiyaa",
+      "Yen",
+      "Euro",
+      "Som"
+    ],
+    "country": "at",
+    "flag": null
+  },
+  {
+    "id": 16,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota United Kingdom?",
+    "answer": "London",
+    "options": [
+      "Basseterre",
+      "Tegucigalpa",
+      "Islamabad",
+      "London"
+    ],
+    "country": "gb",
+    "flag": null
+  },
+  {
+    "id": 17,
+    "type": "continent",
+    "question": "Venezuela terletak di benua apa?",
+    "answer": "Amerika Selatan",
+    "options": [
+      "Amerika Selatan",
+      "Eropa",
+      "Asia",
+      "Amerika Utara"
+    ],
+    "country": "ve",
+    "flag": null
+  },
+  {
+    "id": 18,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "United Kingdom",
+    "options": [
+      "Belize",
+      "United Kingdom",
+      "Azerbaijan",
+      "Colombia"
+    ],
+    "country": "gb",
+    "flag": "https://flagcdn.com/w640/gb.png"
+  },
+  {
+    "id": 19,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Cameroon?",
+    "answer": "Franc CFA (XAF)",
+    "options": [
+      "Franc CFA (XAF)",
+      "Lira",
+      "Franc CFA (XOF)",
+      "Guarani"
+    ],
+    "country": "cm",
+    "flag": null
+  },
+  {
+    "id": 20,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Cabo Verde?",
+    "answer": "Praia",
+    "options": [
+      "Valletta",
+      "Tripoli",
+      "Praia",
+      "Athens"
+    ],
+    "country": "cv",
+    "flag": null
+  },
+  {
+    "id": 21,
+    "type": "language",
+    "question": "Penduduk Uruguay umumnya menggunakan bahasa...",
+    "answer": "Spanyol",
+    "options": [
+      "Tamil",
+      "Rusia",
+      "Spanyol",
+      "Melayu"
+    ],
+    "country": "uy",
+    "flag": null
+  },
+  {
+    "id": 22,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Panama",
+    "options": [
+      "Madagascar",
+      "Germany",
+      "Myanmar",
+      "Panama"
+    ],
+    "country": "pa",
+    "flag": "https://flagcdn.com/w640/pa.png"
+  },
+  {
+    "id": 23,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Cambodia?",
+    "answer": "Khmer",
+    "options": [
+      "Nauru",
+      "Kyrgyz",
+      "Berber",
+      "Khmer"
+    ],
+    "country": "kh",
+    "flag": null
+  },
+  {
+    "id": 24,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Japan?",
+    "answer": "Yen",
+    "options": [
+      "Somoni",
+      "Lev",
+      "Rufiyaa",
+      "Yen"
+    ],
+    "country": "jp",
+    "flag": null
+  },
+  {
+    "id": 25,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Germany?",
+    "answer": "Euro",
+    "options": [
+      "Kwanza",
+      "Dolar",
+      "Euro",
+      "Zloty"
+    ],
+    "country": "de",
+    "flag": null
+  },
+  {
+    "id": 26,
+    "type": "continent",
+    "question": "Finland terletak di benua apa?",
+    "answer": "Eropa",
+    "options": [
+      "Eropa",
+      "Amerika Selatan",
+      "Oseania",
+      "Afrika"
+    ],
+    "country": "fi",
+    "flag": null
+  },
+  {
+    "id": 27,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Eritrea",
+    "options": [
+      "Eritrea",
+      "France",
+      "Georgia",
+      "Saint Kitts and Nevis"
+    ],
+    "country": "er",
+    "flag": "https://flagcdn.com/w640/er.png"
+  },
+  {
+    "id": 28,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Iran",
+    "options": [
+      "Malawi",
+      "Bulgaria",
+      "Syria",
+      "Iran"
+    ],
+    "country": "ir",
+    "flag": "https://flagcdn.com/w640/ir.png"
+  },
+  {
+    "id": 29,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Salah satu eksportir fosfat terbesar di dunia\"",
+    "answer": "Morocco",
+    "options": [
+      "Guinea-Bissau",
+      "Morocco",
+      "Myanmar",
+      "Tuvalu"
+    ],
+    "country": "ma",
+    "flag": null
+  },
+  {
+    "id": 30,
+    "type": "capital",
+    "question": "Ibu kota dari negara Slovakia adalah...",
+    "answer": "Bratislava",
+    "options": [
+      "Windhoek",
+      "Bratislava",
+      "Niamey",
+      "Vilnius"
+    ],
+    "country": "sk",
+    "flag": null
+  },
+  {
+    "id": 31,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Hungary",
+    "options": [
+      "Belize",
+      "Austria",
+      "Sao Tome and Principe",
+      "Hungary"
+    ],
+    "country": "hu",
+    "flag": "https://flagcdn.com/w640/hu.png"
+  },
+  {
+    "id": 32,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Saint Vincent and the Grenadines",
+    "options": [
+      "Algeria",
+      "Qatar",
+      "Saint Vincent and the Grenadines",
+      "Bolivia"
+    ],
+    "country": "vc",
+    "flag": "https://flagcdn.com/w640/vc.png"
+  },
+  {
+    "id": 33,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Saint Lucia",
+    "options": [
+      "Guyana",
+      "Mauritius",
+      "Eritrea",
+      "Saint Lucia"
+    ],
+    "country": "lc",
+    "flag": "https://flagcdn.com/w640/lc.png"
+  },
+  {
+    "id": 34,
+    "type": "currency",
+    "question": "Negara Marshall Islands menggunakan mata uang apa?",
+    "answer": "Dolar AS",
+    "options": [
+      "Rupee",
+      "Shekel",
+      "Franc",
+      "Dolar AS"
+    ],
+    "country": "mh",
+    "flag": null
+  },
+  {
+    "id": 35,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Uganda?",
+    "answer": "Inggris",
+    "options": [
+      "Fiji",
+      "Somali",
+      "Finlandia",
+      "Inggris"
+    ],
+    "country": "ug",
+    "flag": null
+  },
+  {
+    "id": 36,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "DR Congo",
+    "options": [
+      "DR Congo",
+      "Indonesia",
+      "Argentina",
+      "Montenegro"
+    ],
+    "country": "cd",
+    "flag": "https://flagcdn.com/w640/cd.png"
+  },
+  {
+    "id": 37,
+    "type": "continent",
+    "question": "Brazil terletak di benua apa?",
+    "answer": "Amerika Selatan",
+    "options": [
+      "Asia",
+      "Amerika Selatan",
+      "Afrika",
+      "Amerika Utara"
+    ],
+    "country": "br",
+    "flag": null
+  },
+  {
+    "id": 38,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Syria",
+    "options": [
+      "Saint Vincent and the Grenadines",
+      "Marshall Islands",
+      "Papua New Guinea",
+      "Syria"
+    ],
+    "country": "sy",
+    "flag": "https://flagcdn.com/w640/sy.png"
+  },
+  {
+    "id": 39,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Lesotho?",
+    "answer": "Maseru",
+    "options": [
+      "Dili",
+      "Sarajevo",
+      "Maseru",
+      "Tegucigalpa"
+    ],
+    "country": "ls",
+    "flag": null
+  },
+  {
+    "id": 40,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Haiti?",
+    "answer": "Port-au-Prince",
+    "options": [
+      "Warsaw",
+      "Moscow",
+      "Sri Jayawardenepura Kotte",
+      "Port-au-Prince"
+    ],
+    "country": "ht",
+    "flag": null
+  },
+  {
+    "id": 41,
+    "type": "fact",
+    "question": "\"Budaya campuran Inggris-Karibia\" adalah fakta menarik tentang negara apa?",
+    "answer": "Barbados",
+    "options": [
+      "Turkey",
+      "Japan",
+      "Barbados",
+      "Tonga"
+    ],
+    "country": "bb",
+    "flag": null
+  },
+  {
+    "id": 42,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Latvia?",
+    "answer": "Riga",
+    "options": [
+      "Dhaka",
+      "Riga",
+      "Roseau",
+      "Santiago"
+    ],
+    "country": "lv",
+    "flag": null
+  },
+  {
+    "id": 43,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Lebanon?",
+    "answer": "Prancis",
+    "options": [
+      "Serbia",
+      "Prancis",
+      "Bislama",
+      "Azerbaijan"
+    ],
+    "country": "lb",
+    "flag": null
+  },
+  {
+    "id": 44,
+    "type": "currency",
+    "question": "Negara Greece menggunakan mata uang apa?",
+    "answer": "Euro",
+    "options": [
+      "Euro",
+      "Dolar",
+      "Kyat",
+      "Shilling"
+    ],
+    "country": "gr",
+    "flag": null
+  },
+  {
+    "id": 45,
+    "type": "continent",
+    "question": "Negara Denmark berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Amerika Utara",
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan"
+    ],
+    "country": "dk",
+    "flag": null
+  },
+  {
+    "id": 46,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Burundi",
+    "options": [
+      "Ivory Coast",
+      "Burundi",
+      "Argentina",
+      "Micronesia"
+    ],
+    "country": "bi",
+    "flag": "https://flagcdn.com/w640/bi.png"
+  },
+  {
+    "id": 47,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Dominica",
+    "options": [
+      "Algeria",
+      "Dominica",
+      "Eritrea",
+      "Netherlands"
+    ],
+    "country": "dm",
+    "flag": "https://flagcdn.com/w640/dm.png"
+  },
+  {
+    "id": 48,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Albania",
+    "options": [
+      "Iran",
+      "Niger",
+      "Albania",
+      "Kazakhstan"
+    ],
+    "country": "al",
+    "flag": "https://flagcdn.com/w640/al.png"
+  },
+  {
+    "id": 49,
+    "type": "fact",
+    "question": "\"Salah satu eksportir beras terbesar di dunia\" adalah fakta menarik tentang negara apa?",
+    "answer": "Vietnam",
+    "options": [
+      "Ghana",
+      "Vietnam",
+      "France",
+      "Yemen"
+    ],
+    "country": "vn",
+    "flag": null
+  },
+  {
+    "id": 50,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Sao Tome and Principe?",
+    "answer": "São Tomé",
+    "options": [
+      "Hanoi",
+      "São Tomé",
+      "Kigali",
+      "N'Djamena"
+    ],
+    "country": "st",
+    "flag": null
+  },
+  {
+    "id": 51,
+    "type": "language",
+    "question": "Penduduk Venezuela umumnya menggunakan bahasa...",
+    "answer": "Spanyol",
+    "options": [
+      "Jerman",
+      "Belanda",
+      "Spanyol",
+      "Fiji"
+    ],
+    "country": "ve",
+    "flag": null
+  },
+  {
+    "id": 52,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Geyser asli bernama Geysir\"",
+    "answer": "Iceland",
+    "options": [
+      "Kiribati",
+      "Brazil",
+      "Cabo Verde",
+      "Iceland"
+    ],
+    "country": "is",
+    "flag": null
+  },
+  {
+    "id": 53,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Somalia",
+    "options": [
+      "Haiti",
+      "Latvia",
+      "Somalia",
+      "Belize"
+    ],
+    "country": "so",
+    "flag": "https://flagcdn.com/w640/so.png"
+  },
+  {
+    "id": 54,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Nicaragua?",
+    "answer": "Managua",
+    "options": [
+      "Managua",
+      "Mogadishu",
+      "Niamey",
+      "Bangkok"
+    ],
+    "country": "ni",
+    "flag": null
+  },
+  {
+    "id": 55,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Taiwan?",
+    "answer": "Taipei",
+    "options": [
+      "Taipei",
+      "Ljubljana",
+      "Athens",
+      "Oslo"
+    ],
+    "country": "tw",
+    "flag": null
+  },
+  {
+    "id": 56,
+    "type": "currency",
+    "question": "Mata uang resmi Laos adalah...",
+    "answer": "Kip",
+    "options": [
+      "Baht",
+      "Metical",
+      "Cedi",
+      "Kip"
+    ],
+    "country": "la",
+    "flag": null
+  },
+  {
+    "id": 57,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Portugal",
+    "options": [
+      "Bulgaria",
+      "Cabo Verde",
+      "Botswana",
+      "Portugal"
+    ],
+    "country": "pt",
+    "flag": "https://flagcdn.com/w640/pt.png"
+  },
+  {
+    "id": 58,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Burundi?",
+    "answer": "Franc",
+    "options": [
+      "Somoni",
+      "Shilling",
+      "Franc",
+      "Lek"
+    ],
+    "country": "bi",
+    "flag": null
+  },
+  {
+    "id": 59,
+    "type": "capital",
+    "question": "Ibu kota dari negara Canada adalah...",
+    "answer": "Ottawa",
+    "options": [
+      "Ottawa",
+      "Algiers",
+      "Monrovia",
+      "Pretoria"
+    ],
+    "country": "ca",
+    "flag": null
+  },
+  {
+    "id": 60,
+    "type": "capital",
+    "question": "Ibu kota dari negara Serbia adalah...",
+    "answer": "Belgrade",
+    "options": [
+      "Vientiane",
+      "Pretoria",
+      "Belgrade",
+      "Accra"
+    ],
+    "country": "rs",
+    "flag": null
+  },
+  {
+    "id": 61,
+    "type": "capital",
+    "question": "Apa ibu kota Azerbaijan?",
+    "answer": "Baku",
+    "options": [
+      "Tehran",
+      "Bangkok",
+      "Algiers",
+      "Baku"
+    ],
+    "country": "az",
+    "flag": null
+  },
+  {
+    "id": 62,
+    "type": "continent",
+    "question": "Negara Fiji berada di benua...",
+    "answer": "Oseania",
+    "options": [
+      "Oseania",
+      "Amerika Selatan",
+      "Eropa",
+      "Amerika Utara"
+    ],
+    "country": "fj",
+    "flag": null
+  },
+  {
+    "id": 63,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Brunei?",
+    "answer": "Melayu",
+    "options": [
+      "Nepali",
+      "Amharik",
+      "Bulgaria",
+      "Melayu"
+    ],
+    "country": "bn",
+    "flag": null
+  },
+  {
+    "id": 64,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Greece?",
+    "answer": "Yunani",
+    "options": [
+      "Bengali",
+      "Yunani",
+      "Hindi",
+      "Kazakh"
+    ],
+    "country": "gr",
+    "flag": null
+  },
+  {
+    "id": 65,
+    "type": "capital",
+    "question": "Ibu kota dari negara South Korea adalah...",
+    "answer": "Seoul",
+    "options": [
+      "Seoul",
+      "Oslo",
+      "Kingstown",
+      "Canberra"
+    ],
+    "country": "kr",
+    "flag": null
+  },
+  {
+    "id": 66,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "United Arab Emirates",
+    "options": [
+      "United Arab Emirates",
+      "Guatemala",
+      "Senegal",
+      "Uruguay"
+    ],
+    "country": "ae",
+    "flag": "https://flagcdn.com/w640/ae.png"
+  },
+  {
+    "id": 67,
+    "type": "capital",
+    "question": "Apa ibu kota Jordan?",
+    "answer": "Amman",
+    "options": [
+      "Amman",
+      "Baghdad",
+      "Basseterre",
+      "Harare"
+    ],
+    "country": "jo",
+    "flag": null
+  },
+  {
+    "id": 68,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Belgium",
+    "options": [
+      "Belgium",
+      "Angola",
+      "Guinea",
+      "Mauritania"
+    ],
+    "country": "be",
+    "flag": "https://flagcdn.com/w640/be.png"
+  },
+  {
+    "id": 69,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Sao Tome and Principe",
+    "options": [
+      "Uzbekistan",
+      "Sao Tome and Principe",
+      "Libya",
+      "Saudi Arabia"
+    ],
+    "country": "st",
+    "flag": "https://flagcdn.com/w640/st.png"
+  },
+  {
+    "id": 70,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Singapore?",
+    "answer": "Asia",
+    "options": [
+      "Eropa",
+      "Afrika",
+      "Asia",
+      "Oseania"
+    ],
+    "country": "sg",
+    "flag": null
+  },
+  {
+    "id": 71,
+    "type": "continent",
+    "question": "Negara Iceland berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Amerika Utara",
+      "Oseania",
+      "Amerika Selatan",
+      "Eropa"
+    ],
+    "country": "is",
+    "flag": null
+  },
+  {
+    "id": 72,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Kazakhstan?",
+    "answer": "Astana",
+    "options": [
+      "Bangui",
+      "Astana",
+      "Copenhagen",
+      "Bratislava"
+    ],
+    "country": "kz",
+    "flag": null
+  },
+  {
+    "id": 73,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Yemen?",
+    "answer": "Arab",
+    "options": [
+      "Tonga",
+      "Arab",
+      "Prancis",
+      "Swahili"
+    ],
+    "country": "ye",
+    "flag": null
+  },
+  {
+    "id": 74,
+    "type": "capital",
+    "question": "Ibu kota dari negara Samoa adalah...",
+    "answer": "Apia",
+    "options": [
+      "Port Vila",
+      "Santiago",
+      "Apia",
+      "Taipei"
+    ],
+    "country": "ws",
+    "flag": null
+  },
+  {
+    "id": 75,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Argentina?",
+    "answer": "Buenos Aires",
+    "options": [
+      "Bridgetown",
+      "Baku",
+      "Riyadh",
+      "Buenos Aires"
+    ],
+    "country": "ar",
+    "flag": null
+  },
+  {
+    "id": 76,
+    "type": "capital",
+    "question": "Apa ibu kota Lithuania?",
+    "answer": "Vilnius",
+    "options": [
+      "London",
+      "Vilnius",
+      "Port-au-Prince",
+      "Sucre"
+    ],
+    "country": "lt",
+    "flag": null
+  },
+  {
+    "id": 77,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Pakistan?",
+    "answer": "Rupee (PKR)",
+    "options": [
+      "Pound",
+      "Peso",
+      "Rupee (PKR)",
+      "Rupee (MUR)"
+    ],
+    "country": "pk",
+    "flag": null
+  },
+  {
+    "id": 78,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Belgium?",
+    "answer": "Brussels",
+    "options": [
+      "Panama City",
+      "Lomé",
+      "Brussels",
+      "Naypyidaw"
+    ],
+    "country": "be",
+    "flag": null
+  },
+  {
+    "id": 79,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Senegal",
+    "options": [
+      "Senegal",
+      "Botswana",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "country": "sn",
+    "flag": "https://flagcdn.com/w640/sn.png"
+  },
+  {
+    "id": 80,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Japan?",
+    "answer": "Tokyo",
+    "options": [
+      "Taipei",
+      "Wellington",
+      "Abuja",
+      "Tokyo"
+    ],
+    "country": "jp",
+    "flag": null
+  },
+  {
+    "id": 81,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Canada",
+    "options": [
+      "Nauru",
+      "Canada",
+      "Guatemala",
+      "Jordan"
+    ],
+    "country": "ca",
+    "flag": "https://flagcdn.com/w640/ca.png"
+  },
+  {
+    "id": 82,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Afghanistan",
+    "options": [
+      "Japan",
+      "Afghanistan",
+      "France",
+      "Central African Republic"
+    ],
+    "country": "af",
+    "flag": "https://flagcdn.com/w640/af.png"
+  },
+  {
+    "id": 83,
+    "type": "fact",
+    "question": "\"Salah satu mata uang tertinggi di dunia\" adalah fakta menarik tentang negara apa?",
+    "answer": "Kuwait",
+    "options": [
+      "Dominica",
+      "Paraguay",
+      "Cabo Verde",
+      "Kuwait"
+    ],
+    "country": "kw",
+    "flag": null
+  },
+  {
+    "id": 84,
+    "type": "language",
+    "question": "Penduduk Austria umumnya menggunakan bahasa...",
+    "answer": "Jerman",
+    "options": [
+      "Rusia",
+      "Jerman",
+      "Yunani",
+      "Kurdi"
+    ],
+    "country": "at",
+    "flag": null
+  },
+  {
+    "id": 85,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Cambodia",
+    "options": [
+      "Cambodia",
+      "Peru",
+      "Liberia",
+      "Lesotho"
+    ],
+    "country": "kh",
+    "flag": "https://flagcdn.com/w640/kh.png"
+  },
+  {
+    "id": 86,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Qatar",
+    "options": [
+      "Portugal",
+      "Andorra",
+      "South Sudan",
+      "Qatar"
+    ],
+    "country": "qa",
+    "flag": "https://flagcdn.com/w640/qa.png"
+  },
+  {
+    "id": 87,
+    "type": "capital",
+    "question": "Ibu kota dari negara Jamaica adalah...",
+    "answer": "Kingston",
+    "options": [
+      "Suva",
+      "Port of Spain",
+      "Kingston",
+      "Bangui"
+    ],
+    "country": "jm",
+    "flag": null
+  },
+  {
+    "id": 88,
+    "type": "capital",
+    "question": "Ibu kota dari negara Saint Lucia adalah...",
+    "answer": "Castries",
+    "options": [
+      "Moscow",
+      "Ottawa",
+      "Ashgabat",
+      "Castries"
+    ],
+    "country": "lc",
+    "flag": null
+  },
+  {
+    "id": 89,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Angola",
+    "options": [
+      "Jordan",
+      "Angola",
+      "Uruguay",
+      "Cabo Verde"
+    ],
+    "country": "ao",
+    "flag": "https://flagcdn.com/w640/ao.png"
+  },
+  {
+    "id": 90,
+    "type": "capital",
+    "question": "Ibu kota dari negara Namibia adalah...",
+    "answer": "Windhoek",
+    "options": [
+      "Dili",
+      "Windhoek",
+      "Stockholm",
+      "Khartoum"
+    ],
+    "country": "na",
+    "flag": null
+  },
+  {
+    "id": 91,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "France",
+    "options": [
+      "Chad",
+      "France",
+      "Nepal",
+      "Ethiopia"
+    ],
+    "country": "fr",
+    "flag": "https://flagcdn.com/w640/fr.png"
+  },
+  {
+    "id": 92,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Cambodia?",
+    "answer": "Phnom Penh",
+    "options": [
+      "Phnom Penh",
+      "Bamako",
+      "Bishkek",
+      "Doha"
+    ],
+    "country": "kh",
+    "flag": null
+  },
+  {
+    "id": 93,
+    "type": "language",
+    "question": "Penduduk San Marino umumnya menggunakan bahasa...",
+    "answer": "Italia",
+    "options": [
+      "Aymara",
+      "Vietnam",
+      "Sesotho",
+      "Italia"
+    ],
+    "country": "sm",
+    "flag": null
+  },
+  {
+    "id": 94,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Terumbu karang dan pantai Atlantik\"",
+    "answer": "Angola",
+    "options": [
+      "Colombia",
+      "Cambodia",
+      "Suriname",
+      "Angola"
+    ],
+    "country": "ao",
+    "flag": null
+  },
+  {
+    "id": 95,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Belarus?",
+    "answer": "Minsk",
+    "options": [
+      "Amman",
+      "Beijing",
+      "Minsk",
+      "Conakry"
+    ],
+    "country": "by",
+    "flag": null
+  },
+  {
+    "id": 96,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Situs Warisan Dunia Butrint\". Negara manakah itu?",
+    "answer": "Albania",
+    "options": [
+      "Bangladesh",
+      "Oman",
+      "Algeria",
+      "Albania"
+    ],
+    "country": "al",
+    "flag": null
+  },
+  {
+    "id": 97,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Guinea?",
+    "answer": "Prancis",
+    "options": [
+      "Italia",
+      "Chichewa",
+      "Prancis",
+      "Belanda"
+    ],
+    "country": "gn",
+    "flag": null
+  },
+  {
+    "id": 98,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Salah satu negara termiskin di dunia\". Negara manakah itu?",
+    "answer": "Somalia",
+    "options": [
+      "Grenada",
+      "Somalia",
+      "Qatar",
+      "Tunisia"
+    ],
+    "country": "so",
+    "flag": null
+  },
+  {
+    "id": 99,
+    "type": "language",
+    "question": "Penduduk Israel umumnya menggunakan bahasa...",
+    "answer": "Ibrani",
+    "options": [
+      "Montenegro",
+      "Malta",
+      "Ibrani",
+      "Kreol Mauritius"
+    ],
+    "country": "il",
+    "flag": null
+  },
+  {
+    "id": 100,
+    "type": "continent",
+    "question": "Ecuador terletak di benua apa?",
+    "answer": "Amerika Selatan",
+    "options": [
+      "Amerika Selatan",
+      "Amerika Utara",
+      "Oseania",
+      "Eropa"
+    ],
+    "country": "ec",
+    "flag": null
+  },
+  {
+    "id": 101,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Liberia?",
+    "answer": "Monrovia",
+    "options": [
+      "Quito",
+      "Monrovia",
+      "Vientiane",
+      "Kairo"
+    ],
+    "country": "lr",
+    "flag": null
+  },
+  {
+    "id": 102,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Chile?",
+    "answer": "Santiago",
+    "options": [
+      "Pyongyang",
+      "Santiago",
+      "Tripoli",
+      "Manila"
+    ],
+    "country": "cl",
+    "flag": null
+  },
+  {
+    "id": 103,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Uzbekistan",
+    "options": [
+      "United States",
+      "Fiji",
+      "Canada",
+      "Uzbekistan"
+    ],
+    "country": "uz",
+    "flag": "https://flagcdn.com/w640/uz.png"
+  },
+  {
+    "id": 104,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Kenya",
+    "options": [
+      "Singapore",
+      "Kenya",
+      "Greece",
+      "Japan"
+    ],
+    "country": "ke",
+    "flag": "https://flagcdn.com/w640/ke.png"
+  },
+  {
+    "id": 105,
+    "type": "capital",
+    "question": "Apa ibu kota Uruguay?",
+    "answer": "Montevideo",
+    "options": [
+      "Montevideo",
+      "Ashgabat",
+      "Malé",
+      "Kinshasa"
+    ],
+    "country": "uy",
+    "flag": null
+  },
+  {
+    "id": 106,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Belize",
+    "options": [
+      "Bangladesh",
+      "Belize",
+      "Russia",
+      "Honduras"
+    ],
+    "country": "bz",
+    "flag": "https://flagcdn.com/w640/bz.png"
+  },
+  {
+    "id": 107,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Montenegro?",
+    "answer": "Podgorica",
+    "options": [
+      "Bogotá",
+      "Juba",
+      "Podgorica",
+      "Bishkek"
+    ],
+    "country": "me",
+    "flag": null
+  },
+  {
+    "id": 108,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Madagascar?",
+    "answer": "Ariary",
+    "options": [
+      "Dolar",
+      "Tenge",
+      "Ariary",
+      "Pound"
+    ],
+    "country": "mg",
+    "flag": null
+  },
+  {
+    "id": 109,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Sri Lanka?",
+    "answer": "Sri Jayawardenepura Kotte",
+    "options": [
+      "Kampala",
+      "Kigali",
+      "Jerusalem",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "country": "lk",
+    "flag": null
+  },
+  {
+    "id": 110,
+    "type": "continent",
+    "question": "Manakah benua tempat Burundi berada?",
+    "answer": "Afrika",
+    "options": [
+      "Amerika Selatan",
+      "Oseania",
+      "Afrika",
+      "Amerika Utara"
+    ],
+    "country": "bi",
+    "flag": null
+  },
+  {
+    "id": 111,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Lesotho",
+    "options": [
+      "Germany",
+      "Lesotho",
+      "Qatar",
+      "Eritrea"
+    ],
+    "country": "ls",
+    "flag": "https://flagcdn.com/w640/ls.png"
+  },
+  {
+    "id": 112,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Fenomena aurora borealis di Lapland\". Negara manakah itu?",
+    "answer": "Finland",
+    "options": [
+      "United Arab Emirates",
+      "Finland",
+      "Peru",
+      "Marshall Islands"
+    ],
+    "country": "fi",
+    "flag": null
+  },
+  {
+    "id": 113,
+    "type": "capital",
+    "question": "Ibu kota dari negara Gabon adalah...",
+    "answer": "Libreville",
+    "options": [
+      "Niamey",
+      "Libreville",
+      "Seoul",
+      "Doha"
+    ],
+    "country": "ga",
+    "flag": null
+  },
+  {
+    "id": 114,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Ukraine?",
+    "answer": "Ukraina",
+    "options": [
+      "Slovakia",
+      "Pijin Solomon",
+      "Ukraina",
+      "Katalan"
+    ],
+    "country": "ua",
+    "flag": null
+  },
+  {
+    "id": 115,
+    "type": "continent",
+    "question": "Manakah benua tempat Thailand berada?",
+    "answer": "Asia",
+    "options": [
+      "Eropa",
+      "Asia",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "th",
+    "flag": null
+  },
+  {
+    "id": 116,
+    "type": "capital",
+    "question": "Apa ibu kota Armenia?",
+    "answer": "Yerevan",
+    "options": [
+      "Jerusalem",
+      "Yerevan",
+      "Lisboa",
+      "Vienna"
+    ],
+    "country": "am",
+    "flag": null
+  },
+  {
+    "id": 117,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Singapore?",
+    "answer": "Tamil",
+    "options": [
+      "Bambara",
+      "Georgia",
+      "Tamil",
+      "Kroasia"
+    ],
+    "country": "sg",
+    "flag": null
+  },
+  {
+    "id": 118,
+    "type": "currency",
+    "question": "Mata uang resmi Uruguay adalah...",
+    "answer": "Peso",
+    "options": [
+      "Dolar",
+      "Peso",
+      "Yen",
+      "Franc"
+    ],
+    "country": "uy",
+    "flag": null
+  },
+  {
+    "id": 119,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Liberia",
+    "options": [
+      "Liberia",
+      "Niger",
+      "Ecuador",
+      "China"
+    ],
+    "country": "lr",
+    "flag": "https://flagcdn.com/w640/lr.png"
+  },
+  {
+    "id": 120,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Chad",
+    "options": [
+      "Croatia",
+      "Chad",
+      "Philippines",
+      "Moldova"
+    ],
+    "country": "td",
+    "flag": "https://flagcdn.com/w640/td.png"
+  },
+  {
+    "id": 121,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Yemen?",
+    "answer": "Sana'a",
+    "options": [
+      "Paris",
+      "Nuku'alofa",
+      "Sana'a",
+      "Ankara"
+    ],
+    "country": "ye",
+    "flag": null
+  },
+  {
+    "id": 122,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Qatar?",
+    "answer": "Arab",
+    "options": [
+      "Norwegia",
+      "Somali",
+      "Arab",
+      "Romansh"
+    ],
+    "country": "qa",
+    "flag": null
+  },
+  {
+    "id": 123,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Burundi?",
+    "answer": "Kirundi",
+    "options": [
+      "Tok Pisin",
+      "Kirundi",
+      "Uzbek",
+      "Korea"
+    ],
+    "country": "bi",
+    "flag": null
+  },
+  {
+    "id": 124,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Japan",
+    "options": [
+      "Lithuania",
+      "Belarus",
+      "Italy",
+      "Japan"
+    ],
+    "country": "jp",
+    "flag": "https://flagcdn.com/w640/jp.png"
+  },
+  {
+    "id": 125,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota South Africa?",
+    "answer": "Pretoria",
+    "options": [
+      "Pretoria",
+      "Washington, D.C.",
+      "Sarajevo",
+      "Luanda"
+    ],
+    "country": "za",
+    "flag": null
+  },
+  {
+    "id": 126,
+    "type": "capital",
+    "question": "Ibu kota dari negara Cyprus adalah...",
+    "answer": "Nicosia",
+    "options": [
+      "Dakar",
+      "Warsaw",
+      "Nicosia",
+      "Nairobi"
+    ],
+    "country": "cy",
+    "flag": null
+  },
+  {
+    "id": 127,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota China?",
+    "answer": "Beijing",
+    "options": [
+      "Rabat",
+      "Monaco",
+      "Praia",
+      "Beijing"
+    ],
+    "country": "cn",
+    "flag": null
+  },
+  {
+    "id": 128,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Maldives",
+    "options": [
+      "Maldives",
+      "Namibia",
+      "Ukraine",
+      "Laos"
+    ],
+    "country": "mv",
+    "flag": "https://flagcdn.com/w640/mv.png"
+  },
+  {
+    "id": 129,
+    "type": "capital",
+    "question": "Ibu kota dari negara Guyana adalah...",
+    "answer": "Georgetown",
+    "options": [
+      "Georgetown",
+      "Dili",
+      "Bangui",
+      "Kairo"
+    ],
+    "country": "gy",
+    "flag": null
+  },
+  {
+    "id": 130,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Vanuatu",
+    "options": [
+      "Bolivia",
+      "Norway",
+      "Haiti",
+      "Vanuatu"
+    ],
+    "country": "vu",
+    "flag": "https://flagcdn.com/w640/vu.png"
+  },
+  {
+    "id": 131,
+    "type": "language",
+    "question": "Penduduk Iran umumnya menggunakan bahasa...",
+    "answer": "Persia",
+    "options": [
+      "Persia",
+      "Mongolia",
+      "Albania",
+      "Turki"
+    ],
+    "country": "ir",
+    "flag": null
+  },
+  {
+    "id": 132,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Rwanda",
+    "options": [
+      "Italy",
+      "Rwanda",
+      "Chile",
+      "Papua New Guinea"
+    ],
+    "country": "rw",
+    "flag": "https://flagcdn.com/w640/rw.png"
+  },
+  {
+    "id": 133,
+    "type": "capital",
+    "question": "Ibu kota dari negara Greece adalah...",
+    "answer": "Athens",
+    "options": [
+      "Doha",
+      "São Tomé",
+      "Damascus",
+      "Athens"
+    ],
+    "country": "gr",
+    "flag": null
+  },
+  {
+    "id": 134,
+    "type": "capital",
+    "question": "Ibu kota dari negara Bosnia and Herzegovina adalah...",
+    "answer": "Sarajevo",
+    "options": [
+      "Kampala",
+      "Algiers",
+      "Stockholm",
+      "Sarajevo"
+    ],
+    "country": "ba",
+    "flag": null
+  },
+  {
+    "id": 135,
+    "type": "language",
+    "question": "Penduduk Curaçao umumnya menggunakan bahasa...",
+    "answer": "Papiamento",
+    "options": [
+      "Samoa",
+      "Papiamento",
+      "Kikongo",
+      "Mandarin"
+    ],
+    "country": "cw",
+    "flag": null
+  },
+  {
+    "id": 136,
+    "type": "capital",
+    "question": "Ibu kota dari negara Mexico adalah...",
+    "answer": "Mexico City",
+    "options": [
+      "Tarawa",
+      "Mexico City",
+      "Helsinki",
+      "Chisinau"
+    ],
+    "country": "mx",
+    "flag": null
+  },
+  {
+    "id": 137,
+    "type": "language",
+    "question": "Penduduk Tunisia umumnya menggunakan bahasa...",
+    "answer": "Prancis",
+    "options": [
+      "Jepang",
+      "Samoa",
+      "Prancis",
+      "Tswana"
+    ],
+    "country": "tn",
+    "flag": null
+  },
+  {
+    "id": 138,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Mauritania",
+    "options": [
+      "Lithuania",
+      "Uzbekistan",
+      "Botswana",
+      "Mauritania"
+    ],
+    "country": "mr",
+    "flag": "https://flagcdn.com/w640/mr.png"
+  },
+  {
+    "id": 139,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Malaysia",
+    "options": [
+      "Micronesia",
+      "Malaysia",
+      "Marshall Islands",
+      "Guinea"
+    ],
+    "country": "my",
+    "flag": "https://flagcdn.com/w640/my.png"
+  },
+  {
+    "id": 140,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Egypt",
+    "options": [
+      "Iran",
+      "France",
+      "Saint Kitts and Nevis",
+      "Egypt"
+    ],
+    "country": "eg",
+    "flag": "https://flagcdn.com/w640/eg.png"
+  },
+  {
+    "id": 141,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Rumah bagi Colosseum dan Vatikan\"",
+    "answer": "Italy",
+    "options": [
+      "Bulgaria",
+      "Italy",
+      "Nauru",
+      "Pakistan"
+    ],
+    "country": "it",
+    "flag": null
+  },
+  {
+    "id": 142,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Barbados?",
+    "answer": "Bridgetown",
+    "options": [
+      "Bridgetown",
+      "Guatemala City",
+      "Astana",
+      "Tirana"
+    ],
+    "country": "bb",
+    "flag": null
+  },
+  {
+    "id": 143,
+    "type": "capital",
+    "question": "Ibu kota dari negara Sweden adalah...",
+    "answer": "Stockholm",
+    "options": [
+      "Tirana",
+      "Niamey",
+      "Kingstown",
+      "Stockholm"
+    ],
+    "country": "se",
+    "flag": null
+  },
+  {
+    "id": 144,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Djibouti",
+    "options": [
+      "Djibouti",
+      "Afghanistan",
+      "Jordan",
+      "Ireland"
+    ],
+    "country": "dj",
+    "flag": "https://flagcdn.com/w640/dj.png"
+  },
+  {
+    "id": 145,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Guinea",
+    "options": [
+      "Brunei",
+      "Kuwait",
+      "Nepal",
+      "Guinea"
+    ],
+    "country": "gn",
+    "flag": "https://flagcdn.com/w640/gn.png"
+  },
+  {
+    "id": 146,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "South Korea",
+    "options": [
+      "Sri Lanka",
+      "Cambodia",
+      "South Korea",
+      "Norway"
+    ],
+    "country": "kr",
+    "flag": "https://flagcdn.com/w640/kr.png"
+  },
+  {
+    "id": 147,
+    "type": "capital",
+    "question": "Apa ibu kota Libya?",
+    "answer": "Tripoli",
+    "options": [
+      "Maputo",
+      "Tripoli",
+      "Windhoek",
+      "Gitega"
+    ],
+    "country": "ly",
+    "flag": null
+  },
+  {
+    "id": 148,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Lithuania?",
+    "answer": "Lithuania",
+    "options": [
+      "Chichewa",
+      "Sesotho",
+      "Lithuania",
+      "Rumania"
+    ],
+    "country": "lt",
+    "flag": null
+  },
+  {
+    "id": 149,
+    "type": "capital",
+    "question": "Apa ibu kota Vietnam?",
+    "answer": "Hanoi",
+    "options": [
+      "Belgrade",
+      "Dakar",
+      "Bogotá",
+      "Hanoi"
+    ],
+    "country": "vn",
+    "flag": null
+  },
+  {
+    "id": 150,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Ecuador",
+    "options": [
+      "Serbia",
+      "Ecuador",
+      "Kyrgyzstan",
+      "Cook Islands"
+    ],
+    "country": "ec",
+    "flag": "https://flagcdn.com/w640/ec.png"
+  },
+  {
+    "id": 151,
+    "type": "continent",
+    "question": "Syria terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Asia",
+      "Amerika Selatan",
+      "Afrika",
+      "Oseania"
+    ],
+    "country": "sy",
+    "flag": null
+  },
+  {
+    "id": 152,
+    "type": "continent",
+    "question": "Manakah benua tempat Germany berada?",
+    "answer": "Eropa",
+    "options": [
+      "Eropa",
+      "Amerika Utara",
+      "Oseania",
+      "Asia"
+    ],
+    "country": "de",
+    "flag": null
+  },
+  {
+    "id": 153,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Venezuela?",
+    "answer": "Caracas",
+    "options": [
+      "Caracas",
+      "Canberra",
+      "Hanoi",
+      "Apia"
+    ],
+    "country": "ve",
+    "flag": null
+  },
+  {
+    "id": 154,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Salah satu tingkat urbanisasi tertinggi di Afrika\"",
+    "answer": "Gabon",
+    "options": [
+      "Finland",
+      "Italy",
+      "Germany",
+      "Gabon"
+    ],
+    "country": "ga",
+    "flag": null
+  },
+  {
+    "id": 155,
+    "type": "capital",
+    "question": "Apa ibu kota Slovenia?",
+    "answer": "Ljubljana",
+    "options": [
+      "Kingstown",
+      "Basseterre",
+      "Ljubljana",
+      "Astana"
+    ],
+    "country": "si",
+    "flag": null
+  },
+  {
+    "id": 156,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Malawi",
+    "options": [
+      "Malawi",
+      "Montenegro",
+      "Poland",
+      "South Sudan"
+    ],
+    "country": "mw",
+    "flag": "https://flagcdn.com/w640/mw.png"
+  },
+  {
+    "id": 157,
+    "type": "currency",
+    "question": "Negara Lesotho menggunakan mata uang apa?",
+    "answer": "Loti",
+    "options": [
+      "Colón",
+      "Kyat",
+      "Dobra",
+      "Loti"
+    ],
+    "country": "ls",
+    "flag": null
+  },
+  {
+    "id": 158,
+    "type": "capital",
+    "question": "Ibu kota dari negara Egypt adalah...",
+    "answer": "Kairo",
+    "options": [
+      "Athens",
+      "Kairo",
+      "Yaoundé",
+      "Quito"
+    ],
+    "country": "eg",
+    "flag": null
+  },
+  {
+    "id": 159,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Turkey",
+    "options": [
+      "Turkey",
+      "Zimbabwe",
+      "Somalia",
+      "Laos"
+    ],
+    "country": "tr",
+    "flag": "https://flagcdn.com/w640/tr.png"
+  },
+  {
+    "id": 160,
+    "type": "capital",
+    "question": "Ibu kota dari negara Nigeria adalah...",
+    "answer": "Abuja",
+    "options": [
+      "Abuja",
+      "Harare",
+      "Kairo",
+      "Paramaribo"
+    ],
+    "country": "ng",
+    "flag": null
+  },
+  {
+    "id": 161,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Terumbu karang yang kaya\". Negara manakah itu?",
+    "answer": "Palau",
+    "options": [
+      "Japan",
+      "Palau",
+      "Mauritius",
+      "Slovakia"
+    ],
+    "country": "pw",
+    "flag": null
+  },
+  {
+    "id": 162,
+    "type": "fact",
+    "question": "\"Salah satu tujuan bulan madu terpopuler\" adalah fakta menarik tentang negara apa?",
+    "answer": "Maldives",
+    "options": [
+      "Turkey",
+      "Timor-Leste",
+      "Guyana",
+      "Maldives"
+    ],
+    "country": "mv",
+    "flag": null
+  },
+  {
+    "id": 163,
+    "type": "currency",
+    "question": "Mata uang resmi Serbia adalah...",
+    "answer": "Dinar",
+    "options": [
+      "Dinar",
+      "Euro",
+      "Pound",
+      "Kwanza"
+    ],
+    "country": "rs",
+    "flag": null
+  },
+  {
+    "id": 164,
+    "type": "continent",
+    "question": "Manakah benua tempat Mauritania berada?",
+    "answer": "Afrika",
+    "options": [
+      "Asia",
+      "Amerika Utara",
+      "Afrika",
+      "Oseania"
+    ],
+    "country": "mr",
+    "flag": null
+  },
+  {
+    "id": 165,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Ethiopia",
+    "options": [
+      "Eritrea",
+      "Tajikistan",
+      "Ukraine",
+      "Ethiopia"
+    ],
+    "country": "et",
+    "flag": "https://flagcdn.com/w640/et.png"
+  },
+  {
+    "id": 166,
+    "type": "capital",
+    "question": "Apa ibu kota Russia?",
+    "answer": "Moscow",
+    "options": [
+      "Santo Domingo",
+      "Moscow",
+      "Honiara",
+      "Pyongyang"
+    ],
+    "country": "ru",
+    "flag": null
+  },
+  {
+    "id": 167,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Dominican Republic",
+    "options": [
+      "Vanuatu",
+      "Turkey",
+      "Dominican Republic",
+      "Netherlands"
+    ],
+    "country": "do",
+    "flag": "https://flagcdn.com/w640/do.png"
+  },
+  {
+    "id": 168,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Bangladesh?",
+    "answer": "Dhaka",
+    "options": [
+      "Dhaka",
+      "Tokyo",
+      "Bamako",
+      "Brussels"
+    ],
+    "country": "bd",
+    "flag": null
+  },
+  {
+    "id": 169,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Gambia",
+    "options": [
+      "Myanmar",
+      "Gambia",
+      "Malta",
+      "Kenya"
+    ],
+    "country": "gm",
+    "flag": "https://flagcdn.com/w640/gm.png"
+  },
+  {
+    "id": 170,
+    "type": "currency",
+    "question": "Mata uang resmi China adalah...",
+    "answer": "Yuan",
+    "options": [
+      "Euro",
+      "Naira",
+      "Yuan",
+      "Dong"
+    ],
+    "country": "cn",
+    "flag": null
+  },
+  {
+    "id": 171,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Angola?",
+    "answer": "Luanda",
+    "options": [
+      "Niamey",
+      "Tbilisi",
+      "Ottawa",
+      "Luanda"
+    ],
+    "country": "ao",
+    "flag": null
+  },
+  {
+    "id": 172,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Germany",
+    "options": [
+      "Trinidad and Tobago",
+      "Marshall Islands",
+      "Germany",
+      "Samoa"
+    ],
+    "country": "de",
+    "flag": "https://flagcdn.com/w640/de.png"
+  },
+  {
+    "id": 173,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Bahamas",
+    "options": [
+      "Afghanistan",
+      "Bahamas",
+      "Grenada",
+      "Monaco"
+    ],
+    "country": "bs",
+    "flag": "https://flagcdn.com/w640/bs.png"
+  },
+  {
+    "id": 174,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Nigeria",
+    "options": [
+      "Sweden",
+      "Albania",
+      "Japan",
+      "Nigeria"
+    ],
+    "country": "ng",
+    "flag": "https://flagcdn.com/w640/ng.png"
+  },
+  {
+    "id": 175,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Kiribati?",
+    "answer": "Tarawa",
+    "options": [
+      "Tirana",
+      "Stockholm",
+      "Tunis",
+      "Tarawa"
+    ],
+    "country": "ki",
+    "flag": null
+  },
+  {
+    "id": 176,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Norway?",
+    "answer": "Oslo",
+    "options": [
+      "Damascus",
+      "Port of Spain",
+      "Baghdad",
+      "Oslo"
+    ],
+    "country": "no",
+    "flag": null
+  },
+  {
+    "id": 177,
+    "type": "capital",
+    "question": "Ibu kota dari negara Indonesia adalah...",
+    "answer": "Jakarta",
+    "options": [
+      "Jakarta",
+      "Maputo",
+      "Praia",
+      "Berlin"
+    ],
+    "country": "id",
+    "flag": null
+  },
+  {
+    "id": 178,
+    "type": "language",
+    "question": "Penduduk Laos umumnya menggunakan bahasa...",
+    "answer": "Lao",
+    "options": [
+      "Kazakh",
+      "Romansh",
+      "Kreol Tanjung Verde",
+      "Lao"
+    ],
+    "country": "la",
+    "flag": null
+  },
+  {
+    "id": 179,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Garis pantai terpanjang di dunia\". Negara manakah itu?",
+    "answer": "Canada",
+    "options": [
+      "Saint Lucia",
+      "Canada",
+      "Libya",
+      "Qatar"
+    ],
+    "country": "ca",
+    "flag": null
+  },
+  {
+    "id": 180,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Turkmenistan",
+    "options": [
+      "Paraguay",
+      "Uzbekistan",
+      "Turkmenistan",
+      "Norway"
+    ],
+    "country": "tm",
+    "flag": "https://flagcdn.com/w640/tm.png"
+  },
+  {
+    "id": 181,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Oman",
+    "options": [
+      "Oman",
+      "Peru",
+      "Cuba",
+      "Poland"
+    ],
+    "country": "om",
+    "flag": "https://flagcdn.com/w640/om.png"
+  },
+  {
+    "id": 182,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Morocco?",
+    "answer": "Berber",
+    "options": [
+      "Dioula",
+      "Denmark",
+      "Berber",
+      "Hindi"
+    ],
+    "country": "ma",
+    "flag": null
+  },
+  {
+    "id": 183,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Hutan hujan tropis yang luas\"",
+    "answer": "Central African Republic",
+    "options": [
+      "Dominica",
+      "Algeria",
+      "Timor-Leste",
+      "Central African Republic"
+    ],
+    "country": "cf",
+    "flag": null
+  },
+  {
+    "id": 184,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Ireland?",
+    "answer": "Dublin",
+    "options": [
+      "Rabat",
+      "Astana",
+      "Dublin",
+      "Mexico City"
+    ],
+    "country": "ie",
+    "flag": null
+  },
+  {
+    "id": 185,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Belize?",
+    "answer": "Dolar",
+    "options": [
+      "Riyal",
+      "Dinar",
+      "Dolar",
+      "Euro"
+    ],
+    "country": "bz",
+    "flag": null
+  },
+  {
+    "id": 186,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Colombia",
+    "options": [
+      "Namibia",
+      "Colombia",
+      "Ukraine",
+      "Mexico"
+    ],
+    "country": "co",
+    "flag": "https://flagcdn.com/w640/co.png"
+  },
+  {
+    "id": 187,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Nigeria?",
+    "answer": "Inggris",
+    "options": [
+      "Korea",
+      "Tigrinya",
+      "Inggris",
+      "Ibrani"
+    ],
+    "country": "ng",
+    "flag": null
+  },
+  {
+    "id": 188,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Guinea-Bissau",
+    "options": [
+      "Libya",
+      "Guinea-Bissau",
+      "Kuwait",
+      "South Korea"
+    ],
+    "country": "gw",
+    "flag": "https://flagcdn.com/w640/gw.png"
+  },
+  {
+    "id": 189,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Turkmenistan?",
+    "answer": "Ashgabat",
+    "options": [
+      "Doha",
+      "Conakry",
+      "Vientiane",
+      "Ashgabat"
+    ],
+    "country": "tm",
+    "flag": null
+  },
+  {
+    "id": 190,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Georgia?",
+    "answer": "Tbilisi",
+    "options": [
+      "Tbilisi",
+      "Tokyo",
+      "Bishkek",
+      "Jerusalem"
+    ],
+    "country": "ge",
+    "flag": null
+  },
+  {
+    "id": 191,
+    "type": "capital",
+    "question": "Ibu kota dari negara Uzbekistan adalah...",
+    "answer": "Tashkent",
+    "options": [
+      "San Marino",
+      "Dushanbe",
+      "Tashkent",
+      "Yaren"
+    ],
+    "country": "uz",
+    "flag": null
+  },
+  {
+    "id": 192,
+    "type": "continent",
+    "question": "Manakah benua tempat Guinea berada?",
+    "answer": "Afrika",
+    "options": [
+      "Afrika",
+      "Amerika Selatan",
+      "Amerika Utara",
+      "Eropa"
+    ],
+    "country": "gn",
+    "flag": null
+  },
+  {
+    "id": 193,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Bolivia?",
+    "answer": "Sucre",
+    "options": [
+      "Canberra",
+      "Sucre",
+      "Bamako",
+      "Malabo"
+    ],
+    "country": "bo",
+    "flag": null
+  },
+  {
+    "id": 194,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Croatia",
+    "options": [
+      "Burundi",
+      "Croatia",
+      "Trinidad and Tobago",
+      "Oman"
+    ],
+    "country": "hr",
+    "flag": "https://flagcdn.com/w640/hr.png"
+  },
+  {
+    "id": 195,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Togo",
+    "options": [
+      "Germany",
+      "Gabon",
+      "Togo",
+      "Haiti"
+    ],
+    "country": "tg",
+    "flag": "https://flagcdn.com/w640/tg.png"
+  },
+  {
+    "id": 196,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Cuba",
+    "options": [
+      "Cuba",
+      "Tuvalu",
+      "Malawi",
+      "Kyrgyzstan"
+    ],
+    "country": "cu",
+    "flag": "https://flagcdn.com/w640/cu.png"
+  },
+  {
+    "id": 197,
+    "type": "capital",
+    "question": "Apa ibu kota Monaco?",
+    "answer": "Monaco",
+    "options": [
+      "Montevideo",
+      "Paris",
+      "Madrid",
+      "Monaco"
+    ],
+    "country": "mc",
+    "flag": null
+  },
+  {
+    "id": 198,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "South Africa",
+    "options": [
+      "Indonesia",
+      "Trinidad and Tobago",
+      "South Africa",
+      "Cabo Verde"
+    ],
+    "country": "za",
+    "flag": "https://flagcdn.com/w640/za.png"
+  },
+  {
+    "id": 199,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Micronesia?",
+    "answer": "Palikir",
+    "options": [
+      "Palikir",
+      "Riyadh",
+      "Lima",
+      "Canberra"
+    ],
+    "country": "fm",
+    "flag": null
+  },
+  {
+    "id": 200,
+    "type": "continent",
+    "question": "Manakah benua tempat Cyprus berada?",
+    "answer": "Eropa",
+    "options": [
+      "Eropa",
+      "Oseania",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "cy",
+    "flag": null
+  },
+  {
+    "id": 201,
+    "type": "currency",
+    "question": "Mata uang resmi Vietnam adalah...",
+    "answer": "Dong",
+    "options": [
+      "Kwacha",
+      "Denar",
+      "Pound",
+      "Dong"
+    ],
+    "country": "vn",
+    "flag": null
+  },
+  {
+    "id": 202,
+    "type": "continent",
+    "question": "Negara Jordan berada di benua...",
+    "answer": "Asia",
+    "options": [
+      "Oseania",
+      "Asia",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "jo",
+    "flag": null
+  },
+  {
+    "id": 203,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "North Korea",
+    "options": [
+      "Belize",
+      "North Korea",
+      "Senegal",
+      "Grenada"
+    ],
+    "country": "kp",
+    "flag": "https://flagcdn.com/w640/kp.png"
+  },
+  {
+    "id": 204,
+    "type": "continent",
+    "question": "Manakah benua tempat Ukraine berada?",
+    "answer": "Eropa",
+    "options": [
+      "Afrika",
+      "Eropa",
+      "Amerika Utara",
+      "Amerika Selatan"
+    ],
+    "country": "ua",
+    "flag": null
+  },
+  {
+    "id": 205,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Denmark?",
+    "answer": "Copenhagen",
+    "options": [
+      "Bangkok",
+      "Nouakchott",
+      "Harare",
+      "Copenhagen"
+    ],
+    "country": "dk",
+    "flag": null
+  },
+  {
+    "id": 206,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Produsen semikonduktor terbesar di dunia\". Negara manakah itu?",
+    "answer": "Taiwan",
+    "options": [
+      "Honduras",
+      "Djibouti",
+      "Sudan",
+      "Taiwan"
+    ],
+    "country": "tw",
+    "flag": null
+  },
+  {
+    "id": 207,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Spain",
+    "options": [
+      "Marshall Islands",
+      "Cambodia",
+      "Spain",
+      "United States"
+    ],
+    "country": "es",
+    "flag": "https://flagcdn.com/w640/es.png"
+  },
+  {
+    "id": 208,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Bratislava berbatasan dengan Austria dan Hungaria\"",
+    "answer": "Slovakia",
+    "options": [
+      "Samoa",
+      "Armenia",
+      "Saint Kitts and Nevis",
+      "Slovakia"
+    ],
+    "country": "sk",
+    "flag": null
+  },
+  {
+    "id": 209,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Beirut dijuluki Paris dari Timur\"",
+    "answer": "Lebanon",
+    "options": [
+      "Lebanon",
+      "Madagascar",
+      "Malawi",
+      "Ecuador"
+    ],
+    "country": "lb",
+    "flag": null
+  },
+  {
+    "id": 210,
+    "type": "currency",
+    "question": "Mata uang resmi Guatemala adalah...",
+    "answer": "Quetzal",
+    "options": [
+      "Dolar",
+      "Sol",
+      "Bolívar",
+      "Quetzal"
+    ],
+    "country": "gt",
+    "flag": null
+  },
+  {
+    "id": 211,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Jordan?",
+    "answer": "Dinar",
+    "options": [
+      "Dinar",
+      "Hryvnia",
+      "Birr",
+      "Krona"
+    ],
+    "country": "jo",
+    "flag": null
+  },
+  {
+    "id": 212,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Mauritius",
+    "options": [
+      "Mozambique",
+      "Oman",
+      "Mauritius",
+      "Myanmar"
+    ],
+    "country": "mu",
+    "flag": "https://flagcdn.com/w640/mu.png"
+  },
+  {
+    "id": 213,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Lebanon",
+    "options": [
+      "Paraguay",
+      "Brunei",
+      "Grenada",
+      "Lebanon"
+    ],
+    "country": "lb",
+    "flag": "https://flagcdn.com/w640/lb.png"
+  },
+  {
+    "id": 214,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Moldova?",
+    "answer": "Rumania",
+    "options": [
+      "Rumania",
+      "Kreol Seychelles",
+      "Hausa",
+      "Xhosa"
+    ],
+    "country": "md",
+    "flag": null
+  },
+  {
+    "id": 215,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Togo?",
+    "answer": "Lomé",
+    "options": [
+      "Lomé",
+      "Willemstad",
+      "Dodoma",
+      "Andorra la Vella"
+    ],
+    "country": "tg",
+    "flag": null
+  },
+  {
+    "id": 216,
+    "type": "currency",
+    "question": "Mata uang resmi Czech Republic adalah...",
+    "answer": "Koruna",
+    "options": [
+      "Koruna",
+      "Rupee (SCR)",
+      "Rufiyaa",
+      "Rupee (NPR)"
+    ],
+    "country": "cz",
+    "flag": null
+  },
+  {
+    "id": 217,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Andorra",
+    "options": [
+      "Ghana",
+      "Vietnam",
+      "Luxembourg",
+      "Andorra"
+    ],
+    "country": "ad",
+    "flag": "https://flagcdn.com/w640/ad.png"
+  },
+  {
+    "id": 218,
+    "type": "currency",
+    "question": "Mata uang resmi San Marino adalah...",
+    "answer": "Euro",
+    "options": [
+      "Riyal",
+      "Euro",
+      "Dram",
+      "Pound"
+    ],
+    "country": "sm",
+    "flag": null
+  },
+  {
+    "id": 219,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Tonga",
+    "options": [
+      "Fiji",
+      "Tonga",
+      "Rwanda",
+      "Japan"
+    ],
+    "country": "to",
+    "flag": "https://flagcdn.com/w640/to.png"
+  },
+  {
+    "id": 220,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Guinea-Bissau?",
+    "answer": "Bissau",
+    "options": [
+      "Kuwait City",
+      "Bissau",
+      "Skopje",
+      "Sarajevo"
+    ],
+    "country": "gw",
+    "flag": null
+  },
+  {
+    "id": 221,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Saint Kitts and Nevis",
+    "options": [
+      "Saint Kitts and Nevis",
+      "Cameroon",
+      "Argentina",
+      "Thailand"
+    ],
+    "country": "kn",
+    "flag": "https://flagcdn.com/w640/kn.png"
+  },
+  {
+    "id": 222,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Micronesia",
+    "options": [
+      "Cook Islands",
+      "Micronesia",
+      "Oman",
+      "Bolivia"
+    ],
+    "country": "fm",
+    "flag": "https://flagcdn.com/w640/fm.png"
+  },
+  {
+    "id": 223,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Situs Peradaban Lembah Indus\"",
+    "answer": "Pakistan",
+    "options": [
+      "Equatorial Guinea",
+      "Kazakhstan",
+      "Saint Vincent and the Grenadines",
+      "Pakistan"
+    ],
+    "country": "pk",
+    "flag": null
+  },
+  {
+    "id": 224,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Israel?",
+    "answer": "Jerusalem",
+    "options": [
+      "Jerusalem",
+      "Freetown",
+      "Paramaribo",
+      "Kabul"
+    ],
+    "country": "il",
+    "flag": null
+  },
+  {
+    "id": 225,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Kiribati",
+    "options": [
+      "Kiribati",
+      "Russia",
+      "India",
+      "Philippines"
+    ],
+    "country": "ki",
+    "flag": "https://flagcdn.com/w640/ki.png"
+  },
+  {
+    "id": 226,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Suriname",
+    "options": [
+      "Equatorial Guinea",
+      "Malta",
+      "Zimbabwe",
+      "Suriname"
+    ],
+    "country": "sr",
+    "flag": "https://flagcdn.com/w640/sr.png"
+  },
+  {
+    "id": 227,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Mexico",
+    "options": [
+      "Tonga",
+      "Ecuador",
+      "Mexico",
+      "Cameroon"
+    ],
+    "country": "mx",
+    "flag": "https://flagcdn.com/w640/mx.png"
+  },
+  {
+    "id": 228,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Bahamas?",
+    "answer": "Nassau",
+    "options": [
+      "Nassau",
+      "Apia",
+      "Bucharest",
+      "Moscow"
+    ],
+    "country": "bs",
+    "flag": null
+  },
+  {
+    "id": 229,
+    "type": "capital",
+    "question": "Apa ibu kota Lebanon?",
+    "answer": "Beirut",
+    "options": [
+      "Antananarivo",
+      "Beirut",
+      "Nassau",
+      "Kampala"
+    ],
+    "country": "lb",
+    "flag": null
+  },
+  {
+    "id": 230,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Mozambique?",
+    "answer": "Maputo",
+    "options": [
+      "Oslo",
+      "Belgrade",
+      "Maputo",
+      "Nouakchott"
+    ],
+    "country": "mz",
+    "flag": null
+  },
+  {
+    "id": 231,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Algeria",
+    "options": [
+      "Algeria",
+      "Tunisia",
+      "Iran",
+      "Ivory Coast"
+    ],
+    "country": "dz",
+    "flag": "https://flagcdn.com/w640/dz.png"
+  },
+  {
+    "id": 232,
+    "type": "capital",
+    "question": "Apa ibu kota Peru?",
+    "answer": "Lima",
+    "options": [
+      "N'Djamena",
+      "Bandar Seri Begawan",
+      "Lima",
+      "Buenos Aires"
+    ],
+    "country": "pe",
+    "flag": null
+  },
+  {
+    "id": 233,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Gunung berapi aktif La Soufrière\"",
+    "answer": "Saint Vincent and the Grenadines",
+    "options": [
+      "Guinea",
+      "Myanmar",
+      "Palau",
+      "Saint Vincent and the Grenadines"
+    ],
+    "country": "vc",
+    "flag": null
+  },
+  {
+    "id": 234,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "San Marino",
+    "options": [
+      "Guatemala",
+      "Costa Rica",
+      "Andorra",
+      "San Marino"
+    ],
+    "country": "sm",
+    "flag": "https://flagcdn.com/w640/sm.png"
+  },
+  {
+    "id": 235,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Kazakhstan?",
+    "answer": "Rusia",
+    "options": [
+      "Rusia",
+      "Belarus",
+      "Armenia",
+      "Myanmar"
+    ],
+    "country": "kz",
+    "flag": null
+  },
+  {
+    "id": 236,
+    "type": "capital",
+    "question": "Apa ibu kota DR Congo?",
+    "answer": "Kinshasa",
+    "options": [
+      "Kinshasa",
+      "Tehran",
+      "Madrid",
+      "Vienna"
+    ],
+    "country": "cd",
+    "flag": null
+  },
+  {
+    "id": 237,
+    "type": "continent",
+    "question": "Negara Guatemala berada di benua...",
+    "answer": "Amerika Utara",
+    "options": [
+      "Asia",
+      "Eropa",
+      "Amerika Utara",
+      "Afrika"
+    ],
+    "country": "gt",
+    "flag": null
+  },
+  {
+    "id": 238,
+    "type": "continent",
+    "question": "Manakah benua tempat Myanmar berada?",
+    "answer": "Asia",
+    "options": [
+      "Eropa",
+      "Afrika",
+      "Amerika Utara",
+      "Asia"
+    ],
+    "country": "mm",
+    "flag": null
+  },
+  {
+    "id": 239,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Slovakia",
+    "options": [
+      "Slovakia",
+      "Syria",
+      "Burundi",
+      "China"
+    ],
+    "country": "sk",
+    "flag": "https://flagcdn.com/w640/sk.png"
+  },
+  {
+    "id": 240,
+    "type": "continent",
+    "question": "Negara Zimbabwe berada di benua...",
+    "answer": "Afrika",
+    "options": [
+      "Eropa",
+      "Afrika",
+      "Amerika Utara",
+      "Amerika Selatan"
+    ],
+    "country": "zw",
+    "flag": null
+  },
+  {
+    "id": 241,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Libya",
+    "options": [
+      "Sri Lanka",
+      "Libya",
+      "Guinea-Bissau",
+      "India"
+    ],
+    "country": "ly",
+    "flag": "https://flagcdn.com/w640/ly.png"
+  },
+  {
+    "id": 242,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Tuvalu",
+    "options": [
+      "Equatorial Guinea",
+      "Tuvalu",
+      "Haiti",
+      "Palau"
+    ],
+    "country": "tv",
+    "flag": "https://flagcdn.com/w640/tv.png"
+  },
+  {
+    "id": 243,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Bolivia",
+    "options": [
+      "Bolivia",
+      "Cameroon",
+      "Dominican Republic",
+      "Libya"
+    ],
+    "country": "bo",
+    "flag": "https://flagcdn.com/w640/bo.png"
+  },
+  {
+    "id": 244,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Philippines",
+    "options": [
+      "Kyrgyzstan",
+      "Algeria",
+      "Philippines",
+      "Kazakhstan"
+    ],
+    "country": "ph",
+    "flag": "https://flagcdn.com/w640/ph.png"
+  },
+  {
+    "id": 245,
+    "type": "continent",
+    "question": "Japan terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Asia",
+      "Eropa",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "jp",
+    "flag": null
+  },
+  {
+    "id": 246,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Paraguay?",
+    "answer": "Guarani",
+    "options": [
+      "Cedi",
+      "Yen",
+      "Birr",
+      "Guarani"
+    ],
+    "country": "py",
+    "flag": null
+  },
+  {
+    "id": 247,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Salah satu negara paling maju di Asia Tengah\". Negara manakah itu?",
+    "answer": "Kazakhstan",
+    "options": [
+      "Kazakhstan",
+      "Qatar",
+      "Luxembourg",
+      "Cameroon"
+    ],
+    "country": "kz",
+    "flag": null
+  },
+  {
+    "id": 248,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Uganda?",
+    "answer": "Kampala",
+    "options": [
+      "Nicosia",
+      "Pretoria",
+      "Brussels",
+      "Kampala"
+    ],
+    "country": "ug",
+    "flag": null
+  },
+  {
+    "id": 249,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Nicaragua",
+    "options": [
+      "Slovenia",
+      "Nicaragua",
+      "Russia",
+      "Zimbabwe"
+    ],
+    "country": "ni",
+    "flag": "https://flagcdn.com/w640/ni.png"
+  },
+  {
+    "id": 250,
+    "type": "fact",
+    "question": "\"Taman Nasional Liwonde kaya satwa\" adalah fakta menarik tentang negara apa?",
+    "answer": "Malawi",
+    "options": [
+      "Finland",
+      "United Kingdom",
+      "Albania",
+      "Malawi"
+    ],
+    "country": "mw",
+    "flag": null
+  },
+  {
+    "id": 251,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota South Sudan?",
+    "answer": "Juba",
+    "options": [
+      "Port Moresby",
+      "Accra",
+      "Juba",
+      "Asmara"
+    ],
+    "country": "ss",
+    "flag": null
+  },
+  {
+    "id": 252,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Cuba?",
+    "answer": "Amerika Utara",
+    "options": [
+      "Amerika Utara",
+      "Oseania",
+      "Asia",
+      "Amerika Selatan"
+    ],
+    "country": "cu",
+    "flag": null
+  },
+  {
+    "id": 253,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Austria",
+    "options": [
+      "Austria",
+      "Australia",
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "country": "at",
+    "flag": "https://flagcdn.com/w640/at.png"
+  },
+  {
+    "id": 254,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Tanzania",
+    "options": [
+      "Ethiopia",
+      "Saint Kitts and Nevis",
+      "Tanzania",
+      "Mongolia"
+    ],
+    "country": "tz",
+    "flag": "https://flagcdn.com/w640/tz.png"
+  },
+  {
+    "id": 255,
+    "type": "capital",
+    "question": "Apa ibu kota Panama?",
+    "answer": "Panama City",
+    "options": [
+      "Praia",
+      "Santo Domingo",
+      "Panama City",
+      "Quito"
+    ],
+    "country": "pa",
+    "flag": null
+  },
+  {
+    "id": 256,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Singapore?",
+    "answer": "Singapore",
+    "options": [
+      "Singapore",
+      "Bucharest",
+      "Dili",
+      "Tunis"
+    ],
+    "country": "sg",
+    "flag": null
+  },
+  {
+    "id": 257,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Togo?",
+    "answer": "Franc CFA",
+    "options": [
+      "Koruna",
+      "Rufiyaa",
+      "Dinar",
+      "Franc CFA"
+    ],
+    "country": "tg",
+    "flag": null
+  },
+  {
+    "id": 258,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Finland?",
+    "answer": "Helsinki",
+    "options": [
+      "Helsinki",
+      "Yerevan",
+      "Mexico City",
+      "Jakarta"
+    ],
+    "country": "fi",
+    "flag": null
+  },
+  {
+    "id": 259,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Switzerland",
+    "options": [
+      "Switzerland",
+      "Belarus",
+      "Venezuela",
+      "South Africa"
+    ],
+    "country": "ch",
+    "flag": "https://flagcdn.com/w640/ch.png"
+  },
+  {
+    "id": 260,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Kuwait?",
+    "answer": "Kuwait City",
+    "options": [
+      "Kuwait City",
+      "Bridgetown",
+      "Libreville",
+      "Kuala Lumpur"
+    ],
+    "country": "kw",
+    "flag": null
+  },
+  {
+    "id": 261,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Peru",
+    "options": [
+      "Peru",
+      "Sri Lanka",
+      "Mozambique",
+      "San Marino"
+    ],
+    "country": "pe",
+    "flag": "https://flagcdn.com/w640/pe.png"
+  },
+  {
+    "id": 262,
+    "type": "continent",
+    "question": "Manakah benua tempat Dominica berada?",
+    "answer": "Amerika Utara",
+    "options": [
+      "Oseania",
+      "Amerika Utara",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "dm",
+    "flag": null
+  },
+  {
+    "id": 263,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Marshall Islands",
+    "options": [
+      "Marshall Islands",
+      "Philippines",
+      "Zambia",
+      "Fiji"
+    ],
+    "country": "mh",
+    "flag": "https://flagcdn.com/w640/mh.png"
+  },
+  {
+    "id": 264,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Costa Rica",
+    "options": [
+      "Bangladesh",
+      "Chile",
+      "Ecuador",
+      "Costa Rica"
+    ],
+    "country": "cr",
+    "flag": "https://flagcdn.com/w640/cr.png"
+  },
+  {
+    "id": 265,
+    "type": "capital",
+    "question": "Apa ibu kota Italy?",
+    "answer": "Roma",
+    "options": [
+      "Roma",
+      "Chisinau",
+      "Bern",
+      "Belgrade"
+    ],
+    "country": "it",
+    "flag": null
+  },
+  {
+    "id": 266,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Thailand?",
+    "answer": "Bangkok",
+    "options": [
+      "St. George's",
+      "Warsaw",
+      "Bangkok",
+      "Kigali"
+    ],
+    "country": "th",
+    "flag": null
+  },
+  {
+    "id": 267,
+    "type": "currency",
+    "question": "Mata uang resmi Namibia adalah...",
+    "answer": "Dolar (NAD)",
+    "options": [
+      "Shekel",
+      "Dolar (NAD)",
+      "Dolar (CAD)",
+      "Bolívar"
+    ],
+    "country": "na",
+    "flag": null
+  },
+  {
+    "id": 268,
+    "type": "continent",
+    "question": "Ivory Coast terletak di benua apa?",
+    "answer": "Afrika",
+    "options": [
+      "Oseania",
+      "Amerika Utara",
+      "Eropa",
+      "Afrika"
+    ],
+    "country": "ci",
+    "flag": null
+  },
+  {
+    "id": 269,
+    "type": "capital",
+    "question": "Ibu kota dari negara Equatorial Guinea adalah...",
+    "answer": "Malabo",
+    "options": [
+      "Kabul",
+      "Malabo",
+      "San Marino",
+      "Beijing"
+    ],
+    "country": "gq",
+    "flag": null
+  },
+  {
+    "id": 270,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Paraguay",
+    "options": [
+      "Morocco",
+      "Paraguay",
+      "Moldova",
+      "Gambia"
+    ],
+    "country": "py",
+    "flag": "https://flagcdn.com/w640/py.png"
+  },
+  {
+    "id": 271,
+    "type": "currency",
+    "question": "Mata uang resmi Iraq adalah...",
+    "answer": "Dinar",
+    "options": [
+      "Dolar",
+      "Gourde",
+      "Peso",
+      "Dinar"
+    ],
+    "country": "iq",
+    "flag": null
+  },
+  {
+    "id": 272,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Azerbaijan",
+    "options": [
+      "Sao Tome and Principe",
+      "Montenegro",
+      "Burundi",
+      "Azerbaijan"
+    ],
+    "country": "az",
+    "flag": "https://flagcdn.com/w640/az.png"
+  },
+  {
+    "id": 273,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Mali",
+    "options": [
+      "Mali",
+      "Ukraine",
+      "Greece",
+      "DR Congo"
+    ],
+    "country": "ml",
+    "flag": "https://flagcdn.com/w640/ml.png"
+  },
+  {
+    "id": 274,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Oman?",
+    "answer": "Arab",
+    "options": [
+      "Hiri Motu",
+      "Luxembourg",
+      "Arab",
+      "Dioula"
+    ],
+    "country": "om",
+    "flag": null
+  },
+  {
+    "id": 275,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Taiwan",
+    "options": [
+      "Solomon Islands",
+      "Taiwan",
+      "Eritrea",
+      "Nigeria"
+    ],
+    "country": "tw",
+    "flag": "https://flagcdn.com/w640/tw.png"
+  },
+  {
+    "id": 276,
+    "type": "language",
+    "question": "Penduduk Latvia umumnya menggunakan bahasa...",
+    "answer": "Latvia",
+    "options": [
+      "Serbia",
+      "Nauru",
+      "Latvia",
+      "Amharik"
+    ],
+    "country": "lv",
+    "flag": null
+  },
+  {
+    "id": 277,
+    "type": "capital",
+    "question": "Apa ibu kota Turkey?",
+    "answer": "Ankara",
+    "options": [
+      "Ankara",
+      "Accra",
+      "Reykjavik",
+      "Tokyo"
+    ],
+    "country": "tr",
+    "flag": null
+  },
+  {
+    "id": 278,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Jamaica",
+    "options": [
+      "Portugal",
+      "Jamaica",
+      "Guyana",
+      "Netherlands"
+    ],
+    "country": "jm",
+    "flag": "https://flagcdn.com/w640/jm.png"
+  },
+  {
+    "id": 279,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Salah satu negara terkecil di dunia\"",
+    "answer": "Monaco",
+    "options": [
+      "Marshall Islands",
+      "Oman",
+      "Mozambique",
+      "Monaco"
+    ],
+    "country": "mc",
+    "flag": null
+  },
+  {
+    "id": 280,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Honduras?",
+    "answer": "Tegucigalpa",
+    "options": [
+      "Tegucigalpa",
+      "Guatemala City",
+      "Bogotá",
+      "Basseterre"
+    ],
+    "country": "hn",
+    "flag": null
+  },
+  {
+    "id": 281,
+    "type": "continent",
+    "question": "Manakah benua tempat Australia berada?",
+    "answer": "Oseania",
+    "options": [
+      "Oseania",
+      "Eropa",
+      "Afrika",
+      "Amerika Selatan"
+    ],
+    "country": "au",
+    "flag": null
+  },
+  {
+    "id": 282,
+    "type": "capital",
+    "question": "Apa ibu kota North Korea?",
+    "answer": "Pyongyang",
+    "options": [
+      "Tegucigalpa",
+      "Willemstad",
+      "Baghdad",
+      "Pyongyang"
+    ],
+    "country": "kp",
+    "flag": null
+  },
+  {
+    "id": 283,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "North Macedonia",
+    "options": [
+      "North Macedonia",
+      "Colombia",
+      "Syria",
+      "Tanzania"
+    ],
+    "country": "mk",
+    "flag": "https://flagcdn.com/w640/mk.png"
+  },
+  {
+    "id": 284,
+    "type": "continent",
+    "question": "Manakah benua tempat Laos berada?",
+    "answer": "Asia",
+    "options": [
+      "Amerika Selatan",
+      "Afrika",
+      "Oseania",
+      "Asia"
+    ],
+    "country": "la",
+    "flag": null
+  },
+  {
+    "id": 285,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Trinidad and Tobago?",
+    "answer": "Port of Spain",
+    "options": [
+      "Wellington",
+      "Belgrade",
+      "Warsaw",
+      "Port of Spain"
+    ],
+    "country": "tt",
+    "flag": null
+  },
+  {
+    "id": 286,
+    "type": "continent",
+    "question": "Sierra Leone terletak di benua apa?",
+    "answer": "Afrika",
+    "options": [
+      "Afrika",
+      "Eropa",
+      "Asia",
+      "Oseania"
+    ],
+    "country": "sl",
+    "flag": null
+  },
+  {
+    "id": 287,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Gabon",
+    "options": [
+      "Gabon",
+      "Nicaragua",
+      "Gambia",
+      "Namibia"
+    ],
+    "country": "ga",
+    "flag": "https://flagcdn.com/w640/ga.png"
+  },
+  {
+    "id": 288,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Malaysia?",
+    "answer": "Asia",
+    "options": [
+      "Afrika",
+      "Asia",
+      "Amerika Utara",
+      "Amerika Selatan"
+    ],
+    "country": "my",
+    "flag": null
+  },
+  {
+    "id": 289,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Czech Republic",
+    "options": [
+      "South Korea",
+      "San Marino",
+      "Czech Republic",
+      "Bosnia and Herzegovina"
+    ],
+    "country": "cz",
+    "flag": "https://flagcdn.com/w640/cz.png"
+  },
+  {
+    "id": 290,
+    "type": "capital",
+    "question": "Ibu kota dari negara Philippines adalah...",
+    "answer": "Manila",
+    "options": [
+      "Manila",
+      "Dili",
+      "Pretoria",
+      "Riga"
+    ],
+    "country": "ph",
+    "flag": null
+  },
+  {
+    "id": 291,
+    "type": "continent",
+    "question": "Azerbaijan terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Amerika Utara",
+      "Asia",
+      "Eropa",
+      "Amerika Selatan"
+    ],
+    "country": "az",
+    "flag": null
+  },
+  {
+    "id": 292,
+    "type": "capital",
+    "question": "Apa ibu kota Germany?",
+    "answer": "Berlin",
+    "options": [
+      "Canberra",
+      "Yamoussoukro",
+      "Berlin",
+      "Baghdad"
+    ],
+    "country": "de",
+    "flag": null
+  },
+  {
+    "id": 293,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Timor-Leste",
+    "options": [
+      "Botswana",
+      "Timor-Leste",
+      "Namibia",
+      "Cook Islands"
+    ],
+    "country": "tl",
+    "flag": "https://flagcdn.com/w640/tl.png"
+  },
+  {
+    "id": 294,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Suriname?",
+    "answer": "Paramaribo",
+    "options": [
+      "Tashkent",
+      "Paramaribo",
+      "Georgetown",
+      "Malé"
+    ],
+    "country": "sr",
+    "flag": null
+  },
+  {
+    "id": 295,
+    "type": "currency",
+    "question": "Negara Chile menggunakan mata uang apa?",
+    "answer": "Peso (CLP)",
+    "options": [
+      "Peso (CLP)",
+      "Rial",
+      "Peso (ARS)",
+      "Franc"
+    ],
+    "country": "cl",
+    "flag": null
+  },
+  {
+    "id": 296,
+    "type": "capital",
+    "question": "Apa ibu kota Nepal?",
+    "answer": "Kathmandu",
+    "options": [
+      "Kathmandu",
+      "Pyongyang",
+      "Dublin",
+      "Kuala Lumpur"
+    ],
+    "country": "np",
+    "flag": null
+  },
+  {
+    "id": 297,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Albania?",
+    "answer": "Tirana",
+    "options": [
+      "Gitega",
+      "Tirana",
+      "Kingstown",
+      "Belmopan"
+    ],
+    "country": "al",
+    "flag": null
+  },
+  {
+    "id": 298,
+    "type": "capital",
+    "question": "Ibu kota dari negara Gambia adalah...",
+    "answer": "Banjul",
+    "options": [
+      "Dublin",
+      "Seoul",
+      "Banjul",
+      "Stockholm"
+    ],
+    "country": "gm",
+    "flag": null
+  },
+  {
+    "id": 299,
+    "type": "capital",
+    "question": "Ibu kota dari negara Rwanda adalah...",
+    "answer": "Kigali",
+    "options": [
+      "Oslo",
+      "Kigali",
+      "Yaoundé",
+      "Bucharest"
+    ],
+    "country": "rw",
+    "flag": null
+  },
+  {
+    "id": 300,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Mongolia?",
+    "answer": "Ulaanbaatar",
+    "options": [
+      "Khartoum",
+      "Ulaanbaatar",
+      "Monaco",
+      "Ankara"
+    ],
+    "country": "mn",
+    "flag": null
+  },
+  {
+    "id": 301,
+    "type": "currency",
+    "question": "Negara Mozambique menggunakan mata uang apa?",
+    "answer": "Metical",
+    "options": [
+      "Colón",
+      "Nakfa",
+      "Metical",
+      "Ariary"
+    ],
+    "country": "mz",
+    "flag": null
+  },
+  {
+    "id": 302,
+    "type": "capital",
+    "question": "Ibu kota dari negara Somalia adalah...",
+    "answer": "Mogadishu",
+    "options": [
+      "Rabat",
+      "Kinshasa",
+      "Mogadishu",
+      "Sana'a"
+    ],
+    "country": "so",
+    "flag": null
+  },
+  {
+    "id": 303,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Ireland",
+    "options": [
+      "Sudan",
+      "Ireland",
+      "Namibia",
+      "Andorra"
+    ],
+    "country": "ie",
+    "flag": "https://flagcdn.com/w640/ie.png"
+  },
+  {
+    "id": 304,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Tajikistan",
+    "options": [
+      "Cuba",
+      "Kenya",
+      "Singapore",
+      "Tajikistan"
+    ],
+    "country": "tj",
+    "flag": "https://flagcdn.com/w640/tj.png"
+  },
+  {
+    "id": 305,
+    "type": "language",
+    "question": "Penduduk Bahamas umumnya menggunakan bahasa...",
+    "answer": "Inggris",
+    "options": [
+      "Inggris",
+      "Bengali",
+      "Tamil",
+      "Zulu"
+    ],
+    "country": "bs",
+    "flag": null
+  },
+  {
+    "id": 306,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Malta?",
+    "answer": "Valletta",
+    "options": [
+      "Beijing",
+      "Funafuti",
+      "Monrovia",
+      "Valletta"
+    ],
+    "country": "mt",
+    "flag": null
+  },
+  {
+    "id": 307,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Brazil",
+    "options": [
+      "Australia",
+      "Brazil",
+      "Chile",
+      "Slovenia"
+    ],
+    "country": "br",
+    "flag": "https://flagcdn.com/w640/br.png"
+  },
+  {
+    "id": 308,
+    "type": "fact",
+    "question": "\"Pantai Karibia dan Pasifik\" adalah fakta menarik tentang negara apa?",
+    "answer": "Costa Rica",
+    "options": [
+      "Guatemala",
+      "Myanmar",
+      "Costa Rica",
+      "Hungary"
+    ],
+    "country": "cr",
+    "flag": null
+  },
+  {
+    "id": 309,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Equatorial Guinea",
+    "options": [
+      "Equatorial Guinea",
+      "Bahamas",
+      "Rwanda",
+      "Guinea-Bissau"
+    ],
+    "country": "gq",
+    "flag": "https://flagcdn.com/w640/gq.png"
+  },
+  {
+    "id": 310,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Bentang alam dari Andes hingga pantai Karibia\". Negara manakah itu?",
+    "answer": "Venezuela",
+    "options": [
+      "Japan",
+      "Venezuela",
+      "Syria",
+      "Togo"
+    ],
+    "country": "ve",
+    "flag": null
+  },
+  {
+    "id": 311,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Ivory Coast?",
+    "answer": "Yamoussoukro",
+    "options": [
+      "Avarua",
+      "Yamoussoukro",
+      "Djibouti City",
+      "Yaoundé"
+    ],
+    "country": "ci",
+    "flag": null
+  },
+  {
+    "id": 312,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Zambia",
+    "options": [
+      "Costa Rica",
+      "Zambia",
+      "Malaysia",
+      "Saudi Arabia"
+    ],
+    "country": "zm",
+    "flag": "https://flagcdn.com/w640/zm.png"
+  },
+  {
+    "id": 313,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Mozambique",
+    "options": [
+      "Mozambique",
+      "Chile",
+      "Guinea-Bissau",
+      "South Sudan"
+    ],
+    "country": "mz",
+    "flag": "https://flagcdn.com/w640/mz.png"
+  },
+  {
+    "id": 314,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Salah satu negara pertama merdeka di Pasifik\"",
+    "answer": "Samoa",
+    "options": [
+      "Saudi Arabia",
+      "Costa Rica",
+      "Samoa",
+      "Mongolia"
+    ],
+    "country": "ws",
+    "flag": null
+  },
+  {
+    "id": 315,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Norway?",
+    "answer": "Norwegia",
+    "options": [
+      "Norwegia",
+      "Hindi Fiji",
+      "Khmer",
+      "Chichewa"
+    ],
+    "country": "no",
+    "flag": null
+  },
+  {
+    "id": 316,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Nauru",
+    "options": [
+      "Ivory Coast",
+      "Nauru",
+      "Andorra",
+      "Switzerland"
+    ],
+    "country": "nr",
+    "flag": "https://flagcdn.com/w640/nr.png"
+  },
+  {
+    "id": 317,
+    "type": "capital",
+    "question": "Ibu kota dari negara Belize adalah...",
+    "answer": "Belmopan",
+    "options": [
+      "Prague",
+      "Belmopan",
+      "Bucharest",
+      "Ashgabat"
+    ],
+    "country": "bz",
+    "flag": null
+  },
+  {
+    "id": 318,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Maldives?",
+    "answer": "Malé",
+    "options": [
+      "Malé",
+      "Santiago",
+      "Astana",
+      "Lisboa"
+    ],
+    "country": "mv",
+    "flag": null
+  },
+  {
+    "id": 319,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Dominican Republic?",
+    "answer": "Santo Domingo",
+    "options": [
+      "Santo Domingo",
+      "Vienna",
+      "London",
+      "Yaoundé"
+    ],
+    "country": "do",
+    "flag": null
+  },
+  {
+    "id": 320,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Seychelles?",
+    "answer": "Prancis",
+    "options": [
+      "Sango",
+      "Divehi",
+      "Khmer",
+      "Prancis"
+    ],
+    "country": "sc",
+    "flag": null
+  },
+  {
+    "id": 321,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Samoa",
+    "options": [
+      "San Marino",
+      "Samoa",
+      "Vietnam",
+      "Cyprus"
+    ],
+    "country": "ws",
+    "flag": "https://flagcdn.com/w640/ws.png"
+  },
+  {
+    "id": 322,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Uganda",
+    "options": [
+      "Italy",
+      "Samoa",
+      "Uganda",
+      "Syria"
+    ],
+    "country": "ug",
+    "flag": "https://flagcdn.com/w640/ug.png"
+  },
+  {
+    "id": 323,
+    "type": "continent",
+    "question": "North Korea terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Asia",
+      "Amerika Selatan",
+      "Oseania",
+      "Afrika"
+    ],
+    "country": "kp",
+    "flag": null
+  },
+  {
+    "id": 324,
+    "type": "capital",
+    "question": "Ibu kota dari negara Colombia adalah...",
+    "answer": "Bogotá",
+    "options": [
+      "Bogotá",
+      "Muscat",
+      "Oslo",
+      "Libreville"
+    ],
+    "country": "co",
+    "flag": null
+  },
+  {
+    "id": 325,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Norway",
+    "options": [
+      "Nigeria",
+      "Kyrgyzstan",
+      "Belgium",
+      "Norway"
+    ],
+    "country": "no",
+    "flag": "https://flagcdn.com/w640/no.png"
+  },
+  {
+    "id": 326,
+    "type": "fact",
+    "question": "\"Keanekaragaman hayati yang unik\" adalah fakta menarik tentang negara apa?",
+    "answer": "Madagascar",
+    "options": [
+      "Belarus",
+      "Guinea",
+      "San Marino",
+      "Madagascar"
+    ],
+    "country": "mg",
+    "flag": null
+  },
+  {
+    "id": 327,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Portugal?",
+    "answer": "Portugis",
+    "options": [
+      "Bulgaria",
+      "Xhosa",
+      "Portugis",
+      "Kirundi"
+    ],
+    "country": "pt",
+    "flag": null
+  },
+  {
+    "id": 328,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Laos?",
+    "answer": "Vientiane",
+    "options": [
+      "Banjul",
+      "Abu Dhabi",
+      "Damascus",
+      "Vientiane"
+    ],
+    "country": "la",
+    "flag": null
+  },
+  {
+    "id": 329,
+    "type": "continent",
+    "question": "Barbados terletak di benua apa?",
+    "answer": "Amerika Utara",
+    "options": [
+      "Amerika Utara",
+      "Amerika Selatan",
+      "Eropa",
+      "Oseania"
+    ],
+    "country": "bb",
+    "flag": null
+  },
+  {
+    "id": 330,
+    "type": "continent",
+    "question": "Tonga terletak di benua apa?",
+    "answer": "Oseania",
+    "options": [
+      "Amerika Utara",
+      "Afrika",
+      "Oseania",
+      "Amerika Selatan"
+    ],
+    "country": "to",
+    "flag": null
+  },
+  {
+    "id": 331,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Lithuania",
+    "options": [
+      "North Korea",
+      "Palau",
+      "Lithuania",
+      "Australia"
+    ],
+    "country": "lt",
+    "flag": "https://flagcdn.com/w640/lt.png"
+  },
+  {
+    "id": 332,
+    "type": "currency",
+    "question": "Mata uang resmi Algeria adalah...",
+    "answer": "Dinar",
+    "options": [
+      "Leu",
+      "Dolar",
+      "Dinar",
+      "Córdoba"
+    ],
+    "country": "dz",
+    "flag": null
+  },
+  {
+    "id": 333,
+    "type": "continent",
+    "question": "Negara Central African Republic berada di benua...",
+    "answer": "Afrika",
+    "options": [
+      "Eropa",
+      "Asia",
+      "Amerika Selatan",
+      "Afrika"
+    ],
+    "country": "cf",
+    "flag": null
+  },
+  {
+    "id": 334,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Sudan",
+    "options": [
+      "Togo",
+      "Myanmar",
+      "Madagascar",
+      "Sudan"
+    ],
+    "country": "sd",
+    "flag": "https://flagcdn.com/w640/sd.png"
+  },
+  {
+    "id": 335,
+    "type": "currency",
+    "question": "Mata uang resmi Somalia adalah...",
+    "answer": "Shilling",
+    "options": [
+      "Dinar",
+      "Dolar",
+      "Rial",
+      "Shilling"
+    ],
+    "country": "so",
+    "flag": null
+  },
+  {
+    "id": 336,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Guatemala",
+    "options": [
+      "Guatemala",
+      "Nepal",
+      "Sierra Leone",
+      "Tajikistan"
+    ],
+    "country": "gt",
+    "flag": "https://flagcdn.com/w640/gt.png"
+  },
+  {
+    "id": 337,
+    "type": "continent",
+    "question": "Negara United Kingdom berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Oseania",
+      "Eropa",
+      "Afrika",
+      "Amerika Selatan"
+    ],
+    "country": "gb",
+    "flag": null
+  },
+  {
+    "id": 338,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Bulgaria",
+    "options": [
+      "Suriname",
+      "Albania",
+      "Palau",
+      "Bulgaria"
+    ],
+    "country": "bg",
+    "flag": "https://flagcdn.com/w640/bg.png"
+  },
+  {
+    "id": 339,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Rumah bagi Hadiah Nobel\". Negara manakah itu?",
+    "answer": "Sweden",
+    "options": [
+      "Iran",
+      "Sweden",
+      "Kiribati",
+      "Suriname"
+    ],
+    "country": "se",
+    "flag": null
+  },
+  {
+    "id": 340,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Niger?",
+    "answer": "Niamey",
+    "options": [
+      "Khartoum",
+      "Santiago",
+      "Seoul",
+      "Niamey"
+    ],
+    "country": "ne",
+    "flag": null
+  },
+  {
+    "id": 341,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Indonesia",
+    "options": [
+      "Iran",
+      "Indonesia",
+      "Turkmenistan",
+      "South Africa"
+    ],
+    "country": "id",
+    "flag": "https://flagcdn.com/w640/id.png"
+  },
+  {
+    "id": 342,
+    "type": "language",
+    "question": "Penduduk Argentina umumnya menggunakan bahasa...",
+    "answer": "Spanyol",
+    "options": [
+      "Prancis",
+      "Ndebele",
+      "Quechua",
+      "Spanyol"
+    ],
+    "country": "ar",
+    "flag": null
+  },
+  {
+    "id": 343,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Latvia",
+    "options": [
+      "Bahamas",
+      "South Africa",
+      "Latvia",
+      "Tanzania"
+    ],
+    "country": "lv",
+    "flag": "https://flagcdn.com/w640/lv.png"
+  },
+  {
+    "id": 344,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "South Sudan",
+    "options": [
+      "Turkmenistan",
+      "Timor-Leste",
+      "South Sudan",
+      "Malaysia"
+    ],
+    "country": "ss",
+    "flag": "https://flagcdn.com/w640/ss.png"
+  },
+  {
+    "id": 345,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Salah satu negara paling stabil di Afrika Barat\"",
+    "answer": "Cabo Verde",
+    "options": [
+      "Cabo Verde",
+      "Equatorial Guinea",
+      "Uruguay",
+      "Monaco"
+    ],
+    "country": "cv",
+    "flag": null
+  },
+  {
+    "id": 346,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Sungai Amu Darya menjadi perbatasan\"",
+    "answer": "Tajikistan",
+    "options": [
+      "Russia",
+      "Ecuador",
+      "Kuwait",
+      "Tajikistan"
+    ],
+    "country": "tj",
+    "flag": null
+  },
+  {
+    "id": 347,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Gambia?",
+    "answer": "Inggris",
+    "options": [
+      "Ceko",
+      "Bahasa Indonesia",
+      "Bengali",
+      "Inggris"
+    ],
+    "country": "gm",
+    "flag": null
+  },
+  {
+    "id": 348,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Curaçao",
+    "options": [
+      "Vanuatu",
+      "Russia",
+      "Curaçao",
+      "Sri Lanka"
+    ],
+    "country": "cw",
+    "flag": "https://flagcdn.com/w640/cw.png"
+  },
+  {
+    "id": 349,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota United Arab Emirates?",
+    "answer": "Abu Dhabi",
+    "options": [
+      "London",
+      "Abu Dhabi",
+      "Abuja",
+      "Quito"
+    ],
+    "country": "ae",
+    "flag": null
+  },
+  {
+    "id": 350,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Chile?",
+    "answer": "Spanyol",
+    "options": [
+      "Jepang",
+      "Prancis",
+      "Fiji",
+      "Spanyol"
+    ],
+    "country": "cl",
+    "flag": null
+  },
+  {
+    "id": 351,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Cook Islands",
+    "options": [
+      "Peru",
+      "Moldova",
+      "Nigeria",
+      "Cook Islands"
+    ],
+    "country": "ck",
+    "flag": "https://flagcdn.com/w640/ck.png"
+  },
+  {
+    "id": 352,
+    "type": "capital",
+    "question": "Apa ibu kota Marshall Islands?",
+    "answer": "Majuro",
+    "options": [
+      "Santo Domingo",
+      "Majuro",
+      "Moscow",
+      "Dakar"
+    ],
+    "country": "mh",
+    "flag": null
+  },
+  {
+    "id": 353,
+    "type": "capital",
+    "question": "Ibu kota dari negara Chad adalah...",
+    "answer": "N'Djamena",
+    "options": [
+      "N'Djamena",
+      "Kabul",
+      "Bamako",
+      "Belmopan"
+    ],
+    "country": "td",
+    "flag": null
+  },
+  {
+    "id": 354,
+    "type": "capital",
+    "question": "Apa ibu kota Iraq?",
+    "answer": "Baghdad",
+    "options": [
+      "São Tomé",
+      "Belgrade",
+      "Baghdad",
+      "Santiago"
+    ],
+    "country": "iq",
+    "flag": null
+  },
+  {
+    "id": 355,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Papua New Guinea",
+    "options": [
+      "Papua New Guinea",
+      "Slovakia",
+      "Uzbekistan",
+      "Panama"
+    ],
+    "country": "pg",
+    "flag": "https://flagcdn.com/w640/pg.png"
+  },
+  {
+    "id": 356,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Poland",
+    "options": [
+      "Poland",
+      "Algeria",
+      "Dominican Republic",
+      "Nigeria"
+    ],
+    "country": "pl",
+    "flag": "https://flagcdn.com/w640/pl.png"
+  },
+  {
+    "id": 357,
+    "type": "capital",
+    "question": "Ibu kota dari negara Zimbabwe adalah...",
+    "answer": "Harare",
+    "options": [
+      "Monrovia",
+      "Harare",
+      "Sri Jayawardenepura Kotte",
+      "Ottawa"
+    ],
+    "country": "zw",
+    "flag": null
+  },
+  {
+    "id": 358,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Sierra Leone",
+    "options": [
+      "Ethiopia",
+      "Sierra Leone",
+      "Mozambique",
+      "Laos"
+    ],
+    "country": "sl",
+    "flag": "https://flagcdn.com/w640/sl.png"
+  },
+  {
+    "id": 359,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Seychelles?",
+    "answer": "Victoria",
+    "options": [
+      "Paramaribo",
+      "Beijing",
+      "Victoria",
+      "Nassau"
+    ],
+    "country": "sc",
+    "flag": null
+  },
+  {
+    "id": 360,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Somalia?",
+    "answer": "Arab",
+    "options": [
+      "Shona",
+      "Arab",
+      "Nauru",
+      "Lao"
+    ],
+    "country": "so",
+    "flag": null
+  },
+  {
+    "id": 361,
+    "type": "fact",
+    "question": "\"Tidak pernah dijajah oleh kekuatan Eropa\" adalah fakta menarik tentang negara apa?",
+    "answer": "Thailand",
+    "options": [
+      "Thailand",
+      "Belarus",
+      "Vanuatu",
+      "Netherlands"
+    ],
+    "country": "th",
+    "flag": null
+  },
+  {
+    "id": 362,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Nauru?",
+    "answer": "Dolar",
+    "options": [
+      "Won",
+      "Rupiah",
+      "Dolar",
+      "Leone"
+    ],
+    "country": "nr",
+    "flag": null
+  },
+  {
+    "id": 363,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Serbia?",
+    "answer": "Serbia",
+    "options": [
+      "Nyanja",
+      "Serbia",
+      "Tuvalu",
+      "Hiri Motu"
+    ],
+    "country": "rs",
+    "flag": null
+  },
+  {
+    "id": 364,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Kazakhstan",
+    "options": [
+      "Afghanistan",
+      "Syria",
+      "Serbia",
+      "Kazakhstan"
+    ],
+    "country": "kz",
+    "flag": "https://flagcdn.com/w640/kz.png"
+  },
+  {
+    "id": 365,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Slovenia",
+    "options": [
+      "Madagascar",
+      "Thailand",
+      "Slovenia",
+      "Spain"
+    ],
+    "country": "si",
+    "flag": "https://flagcdn.com/w640/si.png"
+  },
+  {
+    "id": 366,
+    "type": "currency",
+    "question": "Negara Armenia menggunakan mata uang apa?",
+    "answer": "Dram",
+    "options": [
+      "Ringgit",
+      "Dram",
+      "Dolar (TWD)",
+      "Dolar (NZD)"
+    ],
+    "country": "am",
+    "flag": null
+  },
+  {
+    "id": 367,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di South Korea?",
+    "answer": "Korea",
+    "options": [
+      "Azerbaijan",
+      "Korea",
+      "Swahili",
+      "Zulu"
+    ],
+    "country": "kr",
+    "flag": null
+  },
+  {
+    "id": 368,
+    "type": "continent",
+    "question": "South Korea terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Eropa",
+      "Asia",
+      "Afrika",
+      "Amerika Selatan"
+    ],
+    "country": "kr",
+    "flag": null
+  },
+  {
+    "id": 369,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Finland",
+    "options": [
+      "Iceland",
+      "Spain",
+      "Finland",
+      "Nigeria"
+    ],
+    "country": "fi",
+    "flag": "https://flagcdn.com/w640/fi.png"
+  },
+  {
+    "id": 370,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Montenegro",
+    "options": [
+      "Japan",
+      "Montenegro",
+      "Norway",
+      "Equatorial Guinea"
+    ],
+    "country": "me",
+    "flag": "https://flagcdn.com/w640/me.png"
+  },
+  {
+    "id": 371,
+    "type": "capital",
+    "question": "Apa ibu kota San Marino?",
+    "answer": "San Marino",
+    "options": [
+      "San Marino",
+      "Athens",
+      "Vientiane",
+      "Kathmandu"
+    ],
+    "country": "sm",
+    "flag": null
+  },
+  {
+    "id": 372,
+    "type": "continent",
+    "question": "Manakah benua tempat Burkina Faso berada?",
+    "answer": "Afrika",
+    "options": [
+      "Afrika",
+      "Asia",
+      "Eropa",
+      "Oseania"
+    ],
+    "country": "bf",
+    "flag": null
+  },
+  {
+    "id": 373,
+    "type": "capital",
+    "question": "Apa ibu kota Papua New Guinea?",
+    "answer": "Port Moresby",
+    "options": [
+      "Managua",
+      "Dublin",
+      "Port Moresby",
+      "Doha"
+    ],
+    "country": "pg",
+    "flag": null
+  },
+  {
+    "id": 374,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Botswana",
+    "options": [
+      "Botswana",
+      "Malaysia",
+      "Belize",
+      "United Kingdom"
+    ],
+    "country": "bw",
+    "flag": "https://flagcdn.com/w640/bw.png"
+  },
+  {
+    "id": 375,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Tanzania?",
+    "answer": "Afrika",
+    "options": [
+      "Afrika",
+      "Asia",
+      "Amerika Utara",
+      "Amerika Selatan"
+    ],
+    "country": "tz",
+    "flag": null
+  },
+  {
+    "id": 376,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Grenada",
+    "options": [
+      "Grenada",
+      "Sri Lanka",
+      "Central African Republic",
+      "Brunei"
+    ],
+    "country": "gd",
+    "flag": "https://flagcdn.com/w640/gd.png"
+  },
+  {
+    "id": 377,
+    "type": "fact",
+    "question": "\"Keanekaragaman hayati laut yang kaya\" adalah fakta menarik tentang negara apa?",
+    "answer": "Seychelles",
+    "options": [
+      "Syria",
+      "Seychelles",
+      "Curaçao",
+      "Italy"
+    ],
+    "country": "sc",
+    "flag": null
+  },
+  {
+    "id": 378,
+    "type": "capital",
+    "question": "Apa ibu kota Morocco?",
+    "answer": "Rabat",
+    "options": [
+      "São Tomé",
+      "Gitega",
+      "Warsaw",
+      "Rabat"
+    ],
+    "country": "ma",
+    "flag": null
+  },
+  {
+    "id": 379,
+    "type": "fact",
+    "question": "\"Salah satu negara terkaya di dunia per kapita\" adalah fakta menarik tentang negara apa?",
+    "answer": "Luxembourg",
+    "options": [
+      "Eritrea",
+      "Greece",
+      "Luxembourg",
+      "Belarus"
+    ],
+    "country": "lu",
+    "flag": null
+  },
+  {
+    "id": 380,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Namibia",
+    "options": [
+      "Namibia",
+      "San Marino",
+      "Singapore",
+      "Madagascar"
+    ],
+    "country": "na",
+    "flag": "https://flagcdn.com/w640/na.png"
+  },
+  {
+    "id": 381,
+    "type": "capital",
+    "question": "Ibu kota dari negara Kenya adalah...",
+    "answer": "Nairobi",
+    "options": [
+      "Kigali",
+      "Nairobi",
+      "Abu Dhabi",
+      "Majuro"
+    ],
+    "country": "ke",
+    "flag": null
+  },
+  {
+    "id": 382,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Argentina",
+    "options": [
+      "Syria",
+      "Guinea-Bissau",
+      "Argentina",
+      "Panama"
+    ],
+    "country": "ar",
+    "flag": "https://flagcdn.com/w640/ar.png"
+  },
+  {
+    "id": 383,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Luxembourg?",
+    "answer": "Luxembourg City",
+    "options": [
+      "Luxembourg City",
+      "Paris",
+      "Brasília",
+      "Kuwait City"
+    ],
+    "country": "lu",
+    "flag": null
+  },
+  {
+    "id": 384,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Palau",
+    "options": [
+      "Palau",
+      "Ukraine",
+      "Equatorial Guinea",
+      "Norway"
+    ],
+    "country": "pw",
+    "flag": "https://flagcdn.com/w640/pw.png"
+  },
+  {
+    "id": 385,
+    "type": "currency",
+    "question": "Negara Fiji menggunakan mata uang apa?",
+    "answer": "Dolar",
+    "options": [
+      "Shekel",
+      "Riyal",
+      "Dolar",
+      "Gourde"
+    ],
+    "country": "fj",
+    "flag": null
+  },
+  {
+    "id": 386,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Jordan",
+    "options": [
+      "Jordan",
+      "Nicaragua",
+      "Sri Lanka",
+      "Andorra"
+    ],
+    "country": "jo",
+    "flag": "https://flagcdn.com/w640/jo.png"
+  },
+  {
+    "id": 387,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Tanzania?",
+    "answer": "Dodoma",
+    "options": [
+      "Taipei",
+      "Zagreb",
+      "Dodoma",
+      "Bern"
+    ],
+    "country": "tz",
+    "flag": null
+  },
+  {
+    "id": 388,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Sweden?",
+    "answer": "Swedia",
+    "options": [
+      "Swedia",
+      "Italia",
+      "Albania",
+      "Marshall"
+    ],
+    "country": "se",
+    "flag": null
+  },
+  {
+    "id": 389,
+    "type": "continent",
+    "question": "Mauritius terletak di benua apa?",
+    "answer": "Afrika",
+    "options": [
+      "Amerika Utara",
+      "Amerika Selatan",
+      "Eropa",
+      "Afrika"
+    ],
+    "country": "mu",
+    "flag": null
+  },
+  {
+    "id": 390,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Germany?",
+    "answer": "Jerman",
+    "options": [
+      "Belanda",
+      "Swedia",
+      "Melayu",
+      "Jerman"
+    ],
+    "country": "de",
+    "flag": null
+  },
+  {
+    "id": 391,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Guyana",
+    "options": [
+      "Guyana",
+      "South Korea",
+      "Switzerland",
+      "Cyprus"
+    ],
+    "country": "gy",
+    "flag": "https://flagcdn.com/w640/gy.png"
+  },
+  {
+    "id": 392,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Kuwait",
+    "options": [
+      "Cyprus",
+      "Qatar",
+      "New Zealand",
+      "Kuwait"
+    ],
+    "country": "kw",
+    "flag": "https://flagcdn.com/w640/kw.png"
+  },
+  {
+    "id": 393,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Angola?",
+    "answer": "Portugis",
+    "options": [
+      "Portugis",
+      "Tok Pisin",
+      "Jerman",
+      "Kinyarwanda"
+    ],
+    "country": "ao",
+    "flag": null
+  },
+  {
+    "id": 394,
+    "type": "capital",
+    "question": "Apa ibu kota Ukraine?",
+    "answer": "Kyiv",
+    "options": [
+      "Bratislava",
+      "Malé",
+      "San José",
+      "Kyiv"
+    ],
+    "country": "ua",
+    "flag": null
+  },
+  {
+    "id": 395,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Italy",
+    "options": [
+      "Paraguay",
+      "Mongolia",
+      "Bosnia and Herzegovina",
+      "Italy"
+    ],
+    "country": "it",
+    "flag": "https://flagcdn.com/w640/it.png"
+  },
+  {
+    "id": 396,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Guinea?",
+    "answer": "Franc (GNF)",
+    "options": [
+      "Córdoba",
+      "Pula",
+      "Franc (BIF)",
+      "Franc (GNF)"
+    ],
+    "country": "gn",
+    "flag": null
+  },
+  {
+    "id": 397,
+    "type": "capital",
+    "question": "Apa ibu kota Guinea?",
+    "answer": "Conakry",
+    "options": [
+      "Prague",
+      "Brasília",
+      "Conakry",
+      "Kampala"
+    ],
+    "country": "gn",
+    "flag": null
+  },
+  {
+    "id": 398,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Pionir dalam mode dan parfum\"",
+    "answer": "France",
+    "options": [
+      "Greece",
+      "Chile",
+      "Tunisia",
+      "France"
+    ],
+    "country": "fr",
+    "flag": null
+  },
+  {
+    "id": 399,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Netherlands",
+    "options": [
+      "Netherlands",
+      "Thailand",
+      "Uzbekistan",
+      "Italy"
+    ],
+    "country": "nl",
+    "flag": "https://flagcdn.com/w640/nl.png"
+  },
+  {
+    "id": 400,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "New Zealand",
+    "options": [
+      "Serbia",
+      "Nauru",
+      "New Zealand",
+      "United Arab Emirates"
+    ],
+    "country": "nz",
+    "flag": "https://flagcdn.com/w640/nz.png"
+  },
+  {
+    "id": 401,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Mauritius?",
+    "answer": "Kreol Mauritius",
+    "options": [
+      "Swedia",
+      "Kreol Mauritius",
+      "Jepang",
+      "Nauru"
+    ],
+    "country": "mu",
+    "flag": null
+  },
+  {
+    "id": 402,
+    "type": "capital",
+    "question": "Ibu kota dari negara Zambia adalah...",
+    "answer": "Lusaka",
+    "options": [
+      "Riyadh",
+      "Nouakchott",
+      "Kyiv",
+      "Lusaka"
+    ],
+    "country": "zm",
+    "flag": null
+  },
+  {
+    "id": 403,
+    "type": "capital",
+    "question": "Ibu kota dari negara Grenada adalah...",
+    "answer": "St. George's",
+    "options": [
+      "Roseau",
+      "St. George's",
+      "N'Djamena",
+      "Kabul"
+    ],
+    "country": "gd",
+    "flag": null
+  },
+  {
+    "id": 404,
+    "type": "fact",
+    "question": "Fakta berikut ini berkaitan dengan negara mana?\n\"Komposer terkenal Frédéric Chopin lahir di sini\"",
+    "answer": "Poland",
+    "options": [
+      "Poland",
+      "Andorra",
+      "Vietnam",
+      "South Korea"
+    ],
+    "country": "pl",
+    "flag": null
+  },
+  {
+    "id": 405,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Rentan terhadap kenaikan permukaan laut\". Negara manakah itu?",
+    "answer": "Marshall Islands",
+    "options": [
+      "Marshall Islands",
+      "Belarus",
+      "Costa Rica",
+      "Solomon Islands"
+    ],
+    "country": "mh",
+    "flag": null
+  },
+  {
+    "id": 406,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Costa Rica?",
+    "answer": "San José",
+    "options": [
+      "Banjul",
+      "San José",
+      "Singapore",
+      "Tehran"
+    ],
+    "country": "cr",
+    "flag": null
+  },
+  {
+    "id": 407,
+    "type": "capital",
+    "question": "Apa ibu kota Afghanistan?",
+    "answer": "Kabul",
+    "options": [
+      "Kabul",
+      "Brussels",
+      "Nassau",
+      "Tarawa"
+    ],
+    "country": "af",
+    "flag": null
+  },
+  {
+    "id": 408,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Romania",
+    "options": [
+      "Kenya",
+      "Romania",
+      "Tuvalu",
+      "Andorra"
+    ],
+    "country": "ro",
+    "flag": "https://flagcdn.com/w640/ro.png"
+  },
+  {
+    "id": 409,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Belarus?",
+    "answer": "Rusia",
+    "options": [
+      "Guarani",
+      "Dari",
+      "Rusia",
+      "Thai"
+    ],
+    "country": "by",
+    "flag": null
+  },
+  {
+    "id": 410,
+    "type": "capital",
+    "question": "Apa ibu kota Saint Vincent and the Grenadines?",
+    "answer": "Kingstown",
+    "options": [
+      "Abu Dhabi",
+      "Kingstown",
+      "Santiago",
+      "Palikir"
+    ],
+    "country": "vc",
+    "flag": null
+  },
+  {
+    "id": 411,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Thailand?",
+    "answer": "Thai",
+    "options": [
+      "Pijin Solomon",
+      "Thai",
+      "Kreol Tanjung Verde",
+      "Katalan"
+    ],
+    "country": "th",
+    "flag": null
+  },
+  {
+    "id": 412,
+    "type": "capital",
+    "question": "Ibu kota dari negara Iceland adalah...",
+    "answer": "Reykjavik",
+    "options": [
+      "Reykjavik",
+      "Kabul",
+      "Sana'a",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "country": "is",
+    "flag": null
+  },
+  {
+    "id": 413,
+    "type": "capital",
+    "question": "Ibu kota dari negara Kyrgyzstan adalah...",
+    "answer": "Bishkek",
+    "options": [
+      "Jerusalem",
+      "Bishkek",
+      "Tehran",
+      "Roseau"
+    ],
+    "country": "kg",
+    "flag": null
+  },
+  {
+    "id": 414,
+    "type": "capital",
+    "question": "Apa ibu kota Tajikistan?",
+    "answer": "Dushanbe",
+    "options": [
+      "San José",
+      "Accra",
+      "Dushanbe",
+      "Kairo"
+    ],
+    "country": "tj",
+    "flag": null
+  },
+  {
+    "id": 415,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Denmark?",
+    "answer": "Krone",
+    "options": [
+      "Krone",
+      "Dolar",
+      "Franc CFA",
+      "Dirham"
+    ],
+    "country": "dk",
+    "flag": null
+  },
+  {
+    "id": 416,
+    "type": "capital",
+    "question": "Ibu kota dari negara Malawi adalah...",
+    "answer": "Lilongwe",
+    "options": [
+      "Baku",
+      "Pyongyang",
+      "Lilongwe",
+      "Libreville"
+    ],
+    "country": "mw",
+    "flag": null
+  },
+  {
+    "id": 417,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Pantai-pantai tropis\". Negara manakah itu?",
+    "answer": "Fiji",
+    "options": [
+      "China",
+      "Andorra",
+      "Fiji",
+      "Taiwan"
+    ],
+    "country": "fj",
+    "flag": null
+  },
+  {
+    "id": 418,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Ecuador?",
+    "answer": "Dolar AS",
+    "options": [
+      "Peso",
+      "Dolar AS",
+      "Dolar",
+      "Franc"
+    ],
+    "country": "ec",
+    "flag": null
+  },
+  {
+    "id": 419,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Moldova",
+    "options": [
+      "Saint Kitts and Nevis",
+      "Moldova",
+      "Tuvalu",
+      "Germany"
+    ],
+    "country": "md",
+    "flag": "https://flagcdn.com/w640/md.png"
+  },
+  {
+    "id": 420,
+    "type": "capital",
+    "question": "Ibu kota dari negara Mauritius adalah...",
+    "answer": "Port Louis",
+    "options": [
+      "Kathmandu",
+      "Port Louis",
+      "Rabat",
+      "Castries"
+    ],
+    "country": "mu",
+    "flag": null
+  },
+  {
+    "id": 421,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Haiti",
+    "options": [
+      "Uruguay",
+      "Gabon",
+      "Haiti",
+      "France"
+    ],
+    "country": "ht",
+    "flag": "https://flagcdn.com/w640/ht.png"
+  },
+  {
+    "id": 422,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Tunisia?",
+    "answer": "Dinar",
+    "options": [
+      "Tala",
+      "Quetzal",
+      "Dinar",
+      "Hryvnia"
+    ],
+    "country": "tn",
+    "flag": null
+  },
+  {
+    "id": 423,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Salah satu negara paling aman di Amerika Tengah\"",
+    "answer": "Nicaragua",
+    "options": [
+      "Malta",
+      "Bosnia and Herzegovina",
+      "Nicaragua",
+      "Namibia"
+    ],
+    "country": "ni",
+    "flag": null
+  },
+  {
+    "id": 424,
+    "type": "capital",
+    "question": "Apa ibu kota Djibouti?",
+    "answer": "Djibouti City",
+    "options": [
+      "Majuro",
+      "Tirana",
+      "Djibouti City",
+      "Victoria"
+    ],
+    "country": "dj",
+    "flag": null
+  },
+  {
+    "id": 425,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Salah satu negara paling tertutup di dunia\". Negara manakah itu?",
+    "answer": "Turkmenistan",
+    "options": [
+      "Cyprus",
+      "France",
+      "Myanmar",
+      "Turkmenistan"
+    ],
+    "country": "tm",
+    "flag": null
+  },
+  {
+    "id": 426,
+    "type": "capital",
+    "question": "Ibu kota dari negara Central African Republic adalah...",
+    "answer": "Bangui",
+    "options": [
+      "Bridgetown",
+      "Port Moresby",
+      "N'Djamena",
+      "Bangui"
+    ],
+    "country": "cf",
+    "flag": null
+  },
+  {
+    "id": 427,
+    "type": "capital",
+    "question": "Ibu kota dari negara Bulgaria adalah...",
+    "answer": "Sofia",
+    "options": [
+      "Monaco",
+      "Georgetown",
+      "Sofia",
+      "Basseterre"
+    ],
+    "country": "bg",
+    "flag": null
+  },
+  {
+    "id": 428,
+    "type": "capital",
+    "question": "Ibu kota dari negara Malaysia adalah...",
+    "answer": "Kuala Lumpur",
+    "options": [
+      "Kuala Lumpur",
+      "Dublin",
+      "Ulaanbaatar",
+      "Kuwait City"
+    ],
+    "country": "my",
+    "flag": null
+  },
+  {
+    "id": 429,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Malta",
+    "options": [
+      "Bolivia",
+      "Panama",
+      "Malta",
+      "Micronesia"
+    ],
+    "country": "mt",
+    "flag": "https://flagcdn.com/w640/mt.png"
+  },
+  {
+    "id": 430,
+    "type": "capital",
+    "question": "Ibu kota dari negara Pakistan adalah...",
+    "answer": "Islamabad",
+    "options": [
+      "Singapore",
+      "Islamabad",
+      "Prague",
+      "Roma"
+    ],
+    "country": "pk",
+    "flag": null
+  },
+  {
+    "id": 431,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Cyprus",
+    "options": [
+      "Tanzania",
+      "Cyprus",
+      "Monaco",
+      "South Sudan"
+    ],
+    "country": "cy",
+    "flag": "https://flagcdn.com/w640/cy.png"
+  },
+  {
+    "id": 432,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Arsitektur Islam yang megah seperti Masjid Nasir al-Mulk\"",
+    "answer": "Iran",
+    "options": [
+      "Mozambique",
+      "Iran",
+      "Saint Lucia",
+      "Czech Republic"
+    ],
+    "country": "ir",
+    "flag": null
+  },
+  {
+    "id": 433,
+    "type": "capital",
+    "question": "Ibu kota dari negara India adalah...",
+    "answer": "New Delhi",
+    "options": [
+      "New Delhi",
+      "Pyongyang",
+      "Rabat",
+      "São Tomé"
+    ],
+    "country": "in",
+    "flag": null
+  },
+  {
+    "id": 434,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Andorra?",
+    "answer": "Euro",
+    "options": [
+      "Dinar",
+      "Lari",
+      "Euro",
+      "Pound"
+    ],
+    "country": "ad",
+    "flag": null
+  },
+  {
+    "id": 435,
+    "type": "currency",
+    "question": "Mata uang resmi Sri Lanka adalah...",
+    "answer": "Rupee",
+    "options": [
+      "Dolar",
+      "Rupee",
+      "Peso (DOP)",
+      "Peso (COP)"
+    ],
+    "country": "lk",
+    "flag": null
+  },
+  {
+    "id": 436,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Madagascar",
+    "options": [
+      "Thailand",
+      "Madagascar",
+      "North Korea",
+      "Gambia"
+    ],
+    "country": "mg",
+    "flag": "https://flagcdn.com/w640/mg.png"
+  },
+  {
+    "id": 437,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Saudi Arabia",
+    "options": [
+      "Saudi Arabia",
+      "Lesotho",
+      "Laos",
+      "Slovenia"
+    ],
+    "country": "sa",
+    "flag": "https://flagcdn.com/w640/sa.png"
+  },
+  {
+    "id": 438,
+    "type": "capital",
+    "question": "Apa ibu kota Australia?",
+    "answer": "Canberra",
+    "options": [
+      "Praia",
+      "Rabat",
+      "Canberra",
+      "Wellington"
+    ],
+    "country": "au",
+    "flag": null
+  },
+  {
+    "id": 439,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Palau?",
+    "answer": "Ngerulmud",
+    "options": [
+      "Baku",
+      "Ngerulmud",
+      "Ouagadougou",
+      "Ankara"
+    ],
+    "country": "pw",
+    "flag": null
+  },
+  {
+    "id": 440,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Nauru?",
+    "answer": "Yaren",
+    "options": [
+      "Funafuti",
+      "Yaren",
+      "Guatemala City",
+      "Tashkent"
+    ],
+    "country": "nr",
+    "flag": null
+  },
+  {
+    "id": 441,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Botswana?",
+    "answer": "Gaborone",
+    "options": [
+      "Praia",
+      "Helsinki",
+      "Gaborone",
+      "Port Vila"
+    ],
+    "country": "bw",
+    "flag": null
+  },
+  {
+    "id": 442,
+    "type": "currency",
+    "question": "Negara Kenya menggunakan mata uang apa?",
+    "answer": "Shilling",
+    "options": [
+      "Shilling",
+      "Dolar (GYD)",
+      "Kwacha",
+      "Dolar (XCD)"
+    ],
+    "country": "ke",
+    "flag": null
+  },
+  {
+    "id": 443,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Seychelles",
+    "options": [
+      "Portugal",
+      "Saudi Arabia",
+      "Finland",
+      "Seychelles"
+    ],
+    "country": "sc",
+    "flag": "https://flagcdn.com/w640/sc.png"
+  },
+  {
+    "id": 444,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Vanuatu?",
+    "answer": "Port Vila",
+    "options": [
+      "Budapest",
+      "Georgetown",
+      "Kyiv",
+      "Port Vila"
+    ],
+    "country": "vu",
+    "flag": null
+  },
+  {
+    "id": 445,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Armenia",
+    "options": [
+      "Pakistan",
+      "Uzbekistan",
+      "Hungary",
+      "Armenia"
+    ],
+    "country": "am",
+    "flag": "https://flagcdn.com/w640/am.png"
+  },
+  {
+    "id": 446,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Uruguay",
+    "options": [
+      "United States",
+      "Botswana",
+      "Uruguay",
+      "Cambodia"
+    ],
+    "country": "uy",
+    "flag": "https://flagcdn.com/w640/uy.png"
+  },
+  {
+    "id": 447,
+    "type": "capital",
+    "question": "Apa ibu kota Myanmar?",
+    "answer": "Naypyidaw",
+    "options": [
+      "Dili",
+      "Naypyidaw",
+      "Funafuti",
+      "Muscat"
+    ],
+    "country": "mm",
+    "flag": null
+  },
+  {
+    "id": 448,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Greece",
+    "options": [
+      "Croatia",
+      "Poland",
+      "Greece",
+      "Serbia"
+    ],
+    "country": "gr",
+    "flag": "https://flagcdn.com/w640/gr.png"
+  },
+  {
+    "id": 449,
+    "type": "continent",
+    "question": "Negara Djibouti berada di benua...",
+    "answer": "Afrika",
+    "options": [
+      "Afrika",
+      "Amerika Selatan",
+      "Amerika Utara",
+      "Eropa"
+    ],
+    "country": "dj",
+    "flag": null
+  },
+  {
+    "id": 450,
+    "type": "continent",
+    "question": "Brunei terletak di benua apa?",
+    "answer": "Asia",
+    "options": [
+      "Amerika Selatan",
+      "Amerika Utara",
+      "Oseania",
+      "Asia"
+    ],
+    "country": "bn",
+    "flag": null
+  },
+  {
+    "id": 451,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Czech Republic?",
+    "answer": "Prague",
+    "options": [
+      "Prague",
+      "Phnom Penh",
+      "Apia",
+      "Malé"
+    ],
+    "country": "cz",
+    "flag": null
+  },
+  {
+    "id": 452,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Vietnam",
+    "options": [
+      "Libya",
+      "Fiji",
+      "Peru",
+      "Vietnam"
+    ],
+    "country": "vn",
+    "flag": "https://flagcdn.com/w640/vn.png"
+  },
+  {
+    "id": 453,
+    "type": "fact",
+    "question": "\"Negara terbesar di Afrika\" adalah fakta menarik tentang negara apa?",
+    "answer": "Algeria",
+    "options": [
+      "Philippines",
+      "Rwanda",
+      "Croatia",
+      "Algeria"
+    ],
+    "country": "dz",
+    "flag": null
+  },
+  {
+    "id": 454,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Andorra?",
+    "answer": "Andorra la Vella",
+    "options": [
+      "Andorra la Vella",
+      "Belmopan",
+      "Paris",
+      "Addis Ababa"
+    ],
+    "country": "ad",
+    "flag": null
+  },
+  {
+    "id": 455,
+    "type": "currency",
+    "question": "Mata uang resmi Australia adalah...",
+    "answer": "Dolar",
+    "options": [
+      "Balboa",
+      "Dolar",
+      "Guilder",
+      "Lira"
+    ],
+    "country": "au",
+    "flag": null
+  },
+  {
+    "id": 456,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Georgia",
+    "options": [
+      "Tajikistan",
+      "Kiribati",
+      "Georgia",
+      "Solomon Islands"
+    ],
+    "country": "ge",
+    "flag": "https://flagcdn.com/w640/ge.png"
+  },
+  {
+    "id": 457,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Iceland",
+    "options": [
+      "Belize",
+      "Papua New Guinea",
+      "Ivory Coast",
+      "Iceland"
+    ],
+    "country": "is",
+    "flag": "https://flagcdn.com/w640/is.png"
+  },
+  {
+    "id": 458,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Gunung Chimborazo adalah titik terjauh dari pusat bumi\". Negara manakah itu?",
+    "answer": "Ecuador",
+    "options": [
+      "Jamaica",
+      "Ecuador",
+      "Cuba",
+      "North Korea"
+    ],
+    "country": "ec",
+    "flag": null
+  },
+  {
+    "id": 459,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota New Zealand?",
+    "answer": "Wellington",
+    "options": [
+      "Wellington",
+      "Luxembourg City",
+      "Asmara",
+      "Nassau"
+    ],
+    "country": "nz",
+    "flag": null
+  },
+  {
+    "id": 460,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Cabo Verde?",
+    "answer": "Afrika",
+    "options": [
+      "Amerika Utara",
+      "Afrika",
+      "Eropa",
+      "Asia"
+    ],
+    "country": "cv",
+    "flag": null
+  },
+  {
+    "id": 461,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Cabo Verde",
+    "options": [
+      "Cabo Verde",
+      "Barbados",
+      "Pakistan",
+      "Cook Islands"
+    ],
+    "country": "cv",
+    "flag": "https://flagcdn.com/w640/cv.png"
+  },
+  {
+    "id": 462,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Saudi Arabia?",
+    "answer": "Riyadh",
+    "options": [
+      "San Marino",
+      "Zagreb",
+      "Riyadh",
+      "Rabat"
+    ],
+    "country": "sa",
+    "flag": null
+  },
+  {
+    "id": 463,
+    "type": "language",
+    "question": "Penduduk North Macedonia umumnya menggunakan bahasa...",
+    "answer": "Makedonia",
+    "options": [
+      "Makedonia",
+      "Kirundi",
+      "Lithuania",
+      "Yunani"
+    ],
+    "country": "mk",
+    "flag": null
+  },
+  {
+    "id": 464,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "India",
+    "options": [
+      "Tajikistan",
+      "Latvia",
+      "South Korea",
+      "India"
+    ],
+    "country": "in",
+    "flag": "https://flagcdn.com/w640/in.png"
+  },
+  {
+    "id": 465,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Saint Lucia?",
+    "answer": "Inggris",
+    "options": [
+      "Prancis",
+      "Wolof",
+      "Inggris",
+      "Bulgaria"
+    ],
+    "country": "lc",
+    "flag": null
+  },
+  {
+    "id": 466,
+    "type": "fact",
+    "question": "\"Pegunungan Kaukasus yang dramatis\" adalah fakta menarik tentang negara apa?",
+    "answer": "Georgia",
+    "options": [
+      "DR Congo",
+      "Saint Kitts and Nevis",
+      "Georgia",
+      "Sierra Leone"
+    ],
+    "country": "ge",
+    "flag": null
+  },
+  {
+    "id": 467,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Tunisia",
+    "options": [
+      "Austria",
+      "Syria",
+      "Tunisia",
+      "Grenada"
+    ],
+    "country": "tn",
+    "flag": "https://flagcdn.com/w640/tn.png"
+  },
+  {
+    "id": 468,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Bosnia and Herzegovina",
+    "options": [
+      "North Korea",
+      "Italy",
+      "Grenada",
+      "Bosnia and Herzegovina"
+    ],
+    "country": "ba",
+    "flag": "https://flagcdn.com/w640/ba.png"
+  },
+  {
+    "id": 469,
+    "type": "currency",
+    "question": "Negara Singapore menggunakan mata uang apa?",
+    "answer": "Dolar",
+    "options": [
+      "Pound",
+      "Lempira",
+      "Dolar",
+      "Somoni"
+    ],
+    "country": "sg",
+    "flag": null
+  },
+  {
+    "id": 470,
+    "type": "continent",
+    "question": "Uganda terletak di benua apa?",
+    "answer": "Afrika",
+    "options": [
+      "Amerika Selatan",
+      "Asia",
+      "Afrika",
+      "Eropa"
+    ],
+    "country": "ug",
+    "flag": null
+  },
+  {
+    "id": 471,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Qatar?",
+    "answer": "Riyal",
+    "options": [
+      "Riyal",
+      "Ariary",
+      "Rial",
+      "Dinar"
+    ],
+    "country": "qa",
+    "flag": null
+  },
+  {
+    "id": 472,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Romania?",
+    "answer": "Bucharest",
+    "options": [
+      "Kuwait City",
+      "Tripoli",
+      "Baku",
+      "Bucharest"
+    ],
+    "country": "ro",
+    "flag": null
+  },
+  {
+    "id": 473,
+    "type": "currency",
+    "question": "Negara Bangladesh menggunakan mata uang apa?",
+    "answer": "Taka",
+    "options": [
+      "Franc",
+      "Sol",
+      "Peso",
+      "Taka"
+    ],
+    "country": "bd",
+    "flag": null
+  },
+  {
+    "id": 474,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Cameroon",
+    "options": [
+      "Costa Rica",
+      "Cameroon",
+      "Indonesia",
+      "Bolivia"
+    ],
+    "country": "cm",
+    "flag": "https://flagcdn.com/w640/cm.png"
+  },
+  {
+    "id": 475,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Ghana",
+    "options": [
+      "Ghana",
+      "Marshall Islands",
+      "Gabon",
+      "Afghanistan"
+    ],
+    "country": "gh",
+    "flag": "https://flagcdn.com/w640/gh.png"
+  },
+  {
+    "id": 476,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Sri Lanka",
+    "options": [
+      "Gambia",
+      "Cabo Verde",
+      "Sri Lanka",
+      "Georgia"
+    ],
+    "country": "lk",
+    "flag": "https://flagcdn.com/w640/lk.png"
+  },
+  {
+    "id": 477,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Honduras",
+    "options": [
+      "Monaco",
+      "Jordan",
+      "Brunei",
+      "Honduras"
+    ],
+    "country": "hn",
+    "flag": "https://flagcdn.com/w640/hn.png"
+  },
+  {
+    "id": 478,
+    "type": "continent",
+    "question": "Bahamas terletak di benua apa?",
+    "answer": "Amerika Utara",
+    "options": [
+      "Asia",
+      "Oseania",
+      "Amerika Utara",
+      "Amerika Selatan"
+    ],
+    "country": "bs",
+    "flag": null
+  },
+  {
+    "id": 479,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Saint Kitts and Nevis?",
+    "answer": "Basseterre",
+    "options": [
+      "Basseterre",
+      "Dublin",
+      "Stockholm",
+      "Accra"
+    ],
+    "country": "kn",
+    "flag": null
+  },
+  {
+    "id": 480,
+    "type": "continent",
+    "question": "Manakah benua tempat Eritrea berada?",
+    "answer": "Afrika",
+    "options": [
+      "Asia",
+      "Amerika Selatan",
+      "Oseania",
+      "Afrika"
+    ],
+    "country": "er",
+    "flag": null
+  },
+  {
+    "id": 481,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Danau Issyk-Kul adalah danau pegunungan terbesar kedua di dunia\"",
+    "answer": "Kyrgyzstan",
+    "options": [
+      "Israel",
+      "Kenya",
+      "Turkmenistan",
+      "Kyrgyzstan"
+    ],
+    "country": "kg",
+    "flag": null
+  },
+  {
+    "id": 482,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Belarus?",
+    "answer": "Rubel",
+    "options": [
+      "Dobra",
+      "Tugrik",
+      "Rupee",
+      "Rubel"
+    ],
+    "country": "by",
+    "flag": null
+  },
+  {
+    "id": 483,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Sweden",
+    "options": [
+      "Saudi Arabia",
+      "Canada",
+      "Sweden",
+      "Dominica"
+    ],
+    "country": "se",
+    "flag": "https://flagcdn.com/w640/se.png"
+  },
+  {
+    "id": 484,
+    "type": "language",
+    "question": "Penduduk Kenya umumnya menggunakan bahasa...",
+    "answer": "Swahili",
+    "options": [
+      "Portugis",
+      "Tajik",
+      "Swahili",
+      "Papiamento"
+    ],
+    "country": "ke",
+    "flag": null
+  },
+  {
+    "id": 485,
+    "type": "capital",
+    "question": "Ibu kota dari negara Ecuador adalah...",
+    "answer": "Quito",
+    "options": [
+      "Vienna",
+      "Quito",
+      "Bucharest",
+      "Algiers"
+    ],
+    "country": "ec",
+    "flag": null
+  },
+  {
+    "id": 486,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Mongolia",
+    "options": [
+      "Guatemala",
+      "Mexico",
+      "Mongolia",
+      "Suriname"
+    ],
+    "country": "mn",
+    "flag": "https://flagcdn.com/w640/mn.png"
+  },
+  {
+    "id": 487,
+    "type": "currency",
+    "question": "Negara Tanzania menggunakan mata uang apa?",
+    "answer": "Shilling",
+    "options": [
+      "Tala",
+      "Peso",
+      "Shilling",
+      "Pa'anga"
+    ],
+    "country": "tz",
+    "flag": null
+  },
+  {
+    "id": 488,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota North Macedonia?",
+    "answer": "Skopje",
+    "options": [
+      "Buenos Aires",
+      "Skopje",
+      "Budapest",
+      "Victoria"
+    ],
+    "country": "mk",
+    "flag": null
+  },
+  {
+    "id": 489,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Lesotho?",
+    "answer": "Sesotho",
+    "options": [
+      "Sesotho",
+      "Tuvalu",
+      "Tonga",
+      "Afrikaans"
+    ],
+    "country": "ls",
+    "flag": null
+  },
+  {
+    "id": 490,
+    "type": "capital",
+    "question": "Apa ibu kota Burundi?",
+    "answer": "Gitega",
+    "options": [
+      "Lomé",
+      "Dhaka",
+      "Addis Ababa",
+      "Gitega"
+    ],
+    "country": "bi",
+    "flag": null
+  },
+  {
+    "id": 491,
+    "type": "capital",
+    "question": "Apa ibu kota Oman?",
+    "answer": "Muscat",
+    "options": [
+      "Port Louis",
+      "Rabat",
+      "Freetown",
+      "Muscat"
+    ],
+    "country": "om",
+    "flag": null
+  },
+  {
+    "id": 492,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Luxembourg",
+    "options": [
+      "Saint Vincent and the Grenadines",
+      "Belize",
+      "Luxembourg",
+      "Brunei"
+    ],
+    "country": "lu",
+    "flag": "https://flagcdn.com/w640/lu.png"
+  },
+  {
+    "id": 493,
+    "type": "capital",
+    "question": "Ibu kota dari negara Tonga adalah...",
+    "answer": "Nuku'alofa",
+    "options": [
+      "Nuku'alofa",
+      "Harare",
+      "Washington, D.C.",
+      "Madrid"
+    ],
+    "country": "to",
+    "flag": null
+  },
+  {
+    "id": 494,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Iraq",
+    "options": [
+      "Palau",
+      "Vietnam",
+      "Cabo Verde",
+      "Iraq"
+    ],
+    "country": "iq",
+    "flag": "https://flagcdn.com/w640/iq.png"
+  },
+  {
+    "id": 495,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Switzerland?",
+    "answer": "Bern",
+    "options": [
+      "Khartoum",
+      "Castries",
+      "Bern",
+      "Antananarivo"
+    ],
+    "country": "ch",
+    "flag": null
+  },
+  {
+    "id": 496,
+    "type": "fact",
+    "question": "\"Satu-satunya negara Afrika dengan bahasa Spanyol resmi\" adalah fakta menarik tentang negara apa?",
+    "answer": "Equatorial Guinea",
+    "options": [
+      "Liberia",
+      "Mauritania",
+      "Central African Republic",
+      "Equatorial Guinea"
+    ],
+    "country": "gq",
+    "flag": null
+  },
+  {
+    "id": 497,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Rumah bagi Lionel Messi\"",
+    "answer": "Argentina",
+    "options": [
+      "Jamaica",
+      "Croatia",
+      "Ghana",
+      "Argentina"
+    ],
+    "country": "ar",
+    "flag": null
+  },
+  {
+    "id": 498,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Cook Islands?",
+    "answer": "Avarua",
+    "options": [
+      "Doha",
+      "Avarua",
+      "Montevideo",
+      "Bissau"
+    ],
+    "country": "ck",
+    "flag": null
+  },
+  {
+    "id": 499,
+    "type": "capital",
+    "question": "Apa ibu kota Hungary?",
+    "answer": "Budapest",
+    "options": [
+      "Jerusalem",
+      "Antananarivo",
+      "Monaco",
+      "Budapest"
+    ],
+    "country": "hu",
+    "flag": null
+  },
+  {
+    "id": 500,
+    "type": "capital",
+    "question": "Ibu kota dari negara Guatemala adalah...",
+    "answer": "Guatemala City",
+    "options": [
+      "Guatemala City",
+      "Astana",
+      "Yaren",
+      "Kabul"
+    ],
+    "country": "gt",
+    "flag": null
+  },
+  {
+    "id": 501,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Serbia",
+    "options": [
+      "Serbia",
+      "Finland",
+      "Jordan",
+      "Kyrgyzstan"
+    ],
+    "country": "rs",
+    "flag": "https://flagcdn.com/w640/rs.png"
+  },
+  {
+    "id": 502,
+    "type": "continent",
+    "question": "Manakah benua tempat San Marino berada?",
+    "answer": "Eropa",
+    "options": [
+      "Oseania",
+      "Asia",
+      "Eropa",
+      "Amerika Utara"
+    ],
+    "country": "sm",
+    "flag": null
+  },
+  {
+    "id": 503,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Chad?",
+    "answer": "Prancis",
+    "options": [
+      "Prancis",
+      "Berber",
+      "Dioula",
+      "Kirundi"
+    ],
+    "country": "td",
+    "flag": null
+  },
+  {
+    "id": 504,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Venezuela",
+    "options": [
+      "Djibouti",
+      "Venezuela",
+      "Cambodia",
+      "Burkina Faso"
+    ],
+    "country": "ve",
+    "flag": "https://flagcdn.com/w640/ve.png"
+  },
+  {
+    "id": 505,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Senegal?",
+    "answer": "Dakar",
+    "options": [
+      "Gaborone",
+      "Dakar",
+      "Sofia",
+      "Quito"
+    ],
+    "country": "sn",
+    "flag": null
+  },
+  {
+    "id": 506,
+    "type": "continent",
+    "question": "Liberia terletak di benua apa?",
+    "answer": "Afrika",
+    "options": [
+      "Eropa",
+      "Afrika",
+      "Asia",
+      "Amerika Selatan"
+    ],
+    "country": "lr",
+    "flag": null
+  },
+  {
+    "id": 507,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Myanmar",
+    "options": [
+      "Mauritius",
+      "Myanmar",
+      "South Korea",
+      "Mongolia"
+    ],
+    "country": "mm",
+    "flag": "https://flagcdn.com/w640/mm.png"
+  },
+  {
+    "id": 508,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Solomon Islands?",
+    "answer": "Honiara",
+    "options": [
+      "Oslo",
+      "Madrid",
+      "Kuala Lumpur",
+      "Honiara"
+    ],
+    "country": "sb",
+    "flag": null
+  },
+  {
+    "id": 509,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Rumah bagi Taman Nasional Kruger\"",
+    "answer": "South Africa",
+    "options": [
+      "Samoa",
+      "South Africa",
+      "North Macedonia",
+      "Pakistan"
+    ],
+    "country": "za",
+    "flag": null
+  },
+  {
+    "id": 510,
+    "type": "currency",
+    "question": "Negara Kuwait menggunakan mata uang apa?",
+    "answer": "Dinar",
+    "options": [
+      "Kwanza",
+      "Vatu",
+      "Leu",
+      "Dinar"
+    ],
+    "country": "kw",
+    "flag": null
+  },
+  {
+    "id": 511,
+    "type": "continent",
+    "question": "Negara Andorra berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Afrika",
+      "Oseania",
+      "Asia",
+      "Eropa"
+    ],
+    "country": "ad",
+    "flag": null
+  },
+  {
+    "id": 512,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Denmark",
+    "options": [
+      "Denmark",
+      "Honduras",
+      "Seychelles",
+      "Maldives"
+    ],
+    "country": "dk",
+    "flag": "https://flagcdn.com/w640/dk.png"
+  },
+  {
+    "id": 513,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Bangladesh",
+    "options": [
+      "Micronesia",
+      "Bangladesh",
+      "Cyprus",
+      "Libya"
+    ],
+    "country": "bd",
+    "flag": "https://flagcdn.com/w640/bd.png"
+  },
+  {
+    "id": 514,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Russia",
+    "options": [
+      "Tanzania",
+      "Bangladesh",
+      "Netherlands",
+      "Russia"
+    ],
+    "country": "ru",
+    "flag": "https://flagcdn.com/w640/ru.png"
+  },
+  {
+    "id": 515,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Qatar?",
+    "answer": "Doha",
+    "options": [
+      "Yerevan",
+      "Doha",
+      "Bucharest",
+      "Vienna"
+    ],
+    "country": "qa",
+    "flag": null
+  },
+  {
+    "id": 516,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Fiji?",
+    "answer": "Suva",
+    "options": [
+      "Algiers",
+      "Port-au-Prince",
+      "Suva",
+      "Nuku'alofa"
+    ],
+    "country": "fj",
+    "flag": null
+  },
+  {
+    "id": 517,
+    "type": "capital",
+    "question": "Ibu kota dari negara Austria adalah...",
+    "answer": "Vienna",
+    "options": [
+      "Nicosia",
+      "St. George's",
+      "Podgorica",
+      "Vienna"
+    ],
+    "country": "at",
+    "flag": null
+  },
+  {
+    "id": 518,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Chile",
+    "options": [
+      "Israel",
+      "Chile",
+      "Guinea-Bissau",
+      "Taiwan"
+    ],
+    "country": "cl",
+    "flag": "https://flagcdn.com/w640/cl.png"
+  },
+  {
+    "id": 519,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Jamaica?",
+    "answer": "Dolar",
+    "options": [
+      "Pound",
+      "Dolar",
+      "Won",
+      "Dinar"
+    ],
+    "country": "jm",
+    "flag": null
+  },
+  {
+    "id": 520,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Papua New Guinea?",
+    "answer": "Kina",
+    "options": [
+      "Riyal",
+      "Kina",
+      "Kip",
+      "Tala"
+    ],
+    "country": "pg",
+    "flag": null
+  },
+  {
+    "id": 521,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Morocco",
+    "options": [
+      "Morocco",
+      "Lebanon",
+      "Armenia",
+      "Kazakhstan"
+    ],
+    "country": "ma",
+    "flag": "https://flagcdn.com/w640/ma.png"
+  },
+  {
+    "id": 522,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di North Macedonia?",
+    "answer": "Denar",
+    "options": [
+      "Krone",
+      "Dolar (BBD)",
+      "Dolar (FJD)",
+      "Denar"
+    ],
+    "country": "mk",
+    "flag": null
+  },
+  {
+    "id": 523,
+    "type": "fact",
+    "question": "\"Baghdad pernah menjadi pusat ilmu pengetahuan dunia\" adalah fakta menarik tentang negara apa?",
+    "answer": "Iraq",
+    "options": [
+      "Albania",
+      "Iraq",
+      "Cambodia",
+      "Togo"
+    ],
+    "country": "iq",
+    "flag": null
+  },
+  {
+    "id": 524,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Iran?",
+    "answer": "Tehran",
+    "options": [
+      "Tehran",
+      "Gaborone",
+      "Sana'a",
+      "Port Moresby"
+    ],
+    "country": "ir",
+    "flag": null
+  },
+  {
+    "id": 525,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Mali?",
+    "answer": "Bamako",
+    "options": [
+      "Madrid",
+      "Dili",
+      "Ljubljana",
+      "Bamako"
+    ],
+    "country": "ml",
+    "flag": null
+  },
+  {
+    "id": 526,
+    "type": "capital",
+    "question": "Apa ibu kota Brazil?",
+    "answer": "Brasília",
+    "options": [
+      "Jakarta",
+      "Brasília",
+      "Paramaribo",
+      "Jerusalem"
+    ],
+    "country": "br",
+    "flag": null
+  },
+  {
+    "id": 527,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "China",
+    "options": [
+      "India",
+      "China",
+      "Dominican Republic",
+      "Bahamas"
+    ],
+    "country": "cn",
+    "flag": "https://flagcdn.com/w640/cn.png"
+  },
+  {
+    "id": 528,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "Pakistan",
+    "options": [
+      "United Arab Emirates",
+      "Syria",
+      "Grenada",
+      "Pakistan"
+    ],
+    "country": "pk",
+    "flag": "https://flagcdn.com/w640/pk.png"
+  },
+  {
+    "id": 529,
+    "type": "capital",
+    "question": "Apa ibu kota Timor-Leste?",
+    "answer": "Dili",
+    "options": [
+      "Monaco",
+      "Dili",
+      "Jerusalem",
+      "Bishkek"
+    ],
+    "country": "tl",
+    "flag": null
+  },
+  {
+    "id": 530,
+    "type": "capital",
+    "question": "Ibu kota dari negara Mauritania adalah...",
+    "answer": "Nouakchott",
+    "options": [
+      "Addis Ababa",
+      "Nouakchott",
+      "Santo Domingo",
+      "Vilnius"
+    ],
+    "country": "mr",
+    "flag": null
+  },
+  {
+    "id": 531,
+    "type": "flag",
+    "question": "Bendera manakah ini? Perhatikan gambar di bawah.",
+    "answer": "United States",
+    "options": [
+      "United States",
+      "Ukraine",
+      "Nicaragua",
+      "South Korea"
+    ],
+    "country": "us",
+    "flag": "https://flagcdn.com/w640/us.png"
+  },
+  {
+    "id": 532,
+    "type": "continent",
+    "question": "Negara Lebanon berada di benua...",
+    "answer": "Asia",
+    "options": [
+      "Oseania",
+      "Asia",
+      "Amerika Utara",
+      "Eropa"
+    ],
+    "country": "lb",
+    "flag": null
+  },
+  {
+    "id": 533,
+    "type": "continent",
+    "question": "Manakah benua tempat Afghanistan berada?",
+    "answer": "Asia",
+    "options": [
+      "Oseania",
+      "Afrika",
+      "Amerika Selatan",
+      "Asia"
+    ],
+    "country": "af",
+    "flag": null
+  },
+  {
+    "id": 534,
+    "type": "capital",
+    "question": "Ibu kota dari negara Sudan adalah...",
+    "answer": "Khartoum",
+    "options": [
+      "Yaoundé",
+      "Addis Ababa",
+      "Khartoum",
+      "Pretoria"
+    ],
+    "country": "sd",
+    "flag": null
+  },
+  {
+    "id": 535,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Kyrgyzstan",
+    "options": [
+      "North Korea",
+      "Kyrgyzstan",
+      "Madagascar",
+      "Thailand"
+    ],
+    "country": "kg",
+    "flag": "https://flagcdn.com/w640/kg.png"
+  },
+  {
+    "id": 536,
+    "type": "flag",
+    "question": "Perhatikan gambar bendera berikut. Bendera tersebut adalah bendera negara...",
+    "answer": "Brunei",
+    "options": [
+      "Kazakhstan",
+      "Senegal",
+      "Curaçao",
+      "Brunei"
+    ],
+    "country": "bn",
+    "flag": "https://flagcdn.com/w640/bn.png"
+  },
+  {
+    "id": 537,
+    "type": "continent",
+    "question": "Manakah benua tempat Cambodia berada?",
+    "answer": "Asia",
+    "options": [
+      "Amerika Utara",
+      "Eropa",
+      "Oseania",
+      "Asia"
+    ],
+    "country": "kh",
+    "flag": null
+  },
+  {
+    "id": 538,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Central African Republic",
+    "options": [
+      "Central African Republic",
+      "Sierra Leone",
+      "Moldova",
+      "United States"
+    ],
+    "country": "cf",
+    "flag": "https://flagcdn.com/w640/cf.png"
+  },
+  {
+    "id": 539,
+    "type": "capital",
+    "question": "Kota apa yang menjadi ibu kota Curaçao?",
+    "answer": "Willemstad",
+    "options": [
+      "Tarawa",
+      "Canberra",
+      "Willemstad",
+      "Antananarivo"
+    ],
+    "country": "cw",
+    "flag": null
+  },
+  {
+    "id": 540,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Vanuatu?",
+    "answer": "Prancis",
+    "options": [
+      "Amharik",
+      "Tajik",
+      "Prancis",
+      "Maori Kepulauan Cook"
+    ],
+    "country": "vu",
+    "flag": null
+  },
+  {
+    "id": 541,
+    "type": "continent",
+    "question": "Benua apa yang menjadi lokasi negara Micronesia?",
+    "answer": "Oseania",
+    "options": [
+      "Amerika Utara",
+      "Oseania",
+      "Afrika",
+      "Eropa"
+    ],
+    "country": "fm",
+    "flag": null
+  },
+  {
+    "id": 542,
+    "type": "capital",
+    "question": "Ibu kota dari negara Ethiopia adalah...",
+    "answer": "Addis Ababa",
+    "options": [
+      "Djibouti City",
+      "Addis Ababa",
+      "St. George's",
+      "Tbilisi"
+    ],
+    "country": "et",
+    "flag": null
+  },
+  {
+    "id": 543,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Portugal?",
+    "answer": "Lisboa",
+    "options": [
+      "San Marino",
+      "Naypyidaw",
+      "Dublin",
+      "Lisboa"
+    ],
+    "country": "pt",
+    "flag": null
+  },
+  {
+    "id": 544,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Ukraine",
+    "options": [
+      "Saudi Arabia",
+      "Montenegro",
+      "Somalia",
+      "Ukraine"
+    ],
+    "country": "ua",
+    "flag": "https://flagcdn.com/w640/ua.png"
+  },
+  {
+    "id": 545,
+    "type": "continent",
+    "question": "Manakah benua tempat Vietnam berada?",
+    "answer": "Asia",
+    "options": [
+      "Eropa",
+      "Amerika Utara",
+      "Amerika Selatan",
+      "Asia"
+    ],
+    "country": "vn",
+    "flag": null
+  },
+  {
+    "id": 546,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Salah satu negara dengan hutan terluas di Amerika Selatan\"",
+    "answer": "Paraguay",
+    "options": [
+      "Kyrgyzstan",
+      "Paraguay",
+      "Norway",
+      "Micronesia"
+    ],
+    "country": "py",
+    "flag": null
+  },
+  {
+    "id": 547,
+    "type": "currency",
+    "question": "Mata uang resmi Kiribati adalah...",
+    "answer": "Dolar",
+    "options": [
+      "Krone",
+      "Tenge",
+      "Dolar",
+      "Balboa"
+    ],
+    "country": "ki",
+    "flag": null
+  },
+  {
+    "id": 548,
+    "type": "capital",
+    "question": "Apa ibu kota Brunei?",
+    "answer": "Bandar Seri Begawan",
+    "options": [
+      "Ottawa",
+      "Santiago",
+      "Bandar Seri Begawan",
+      "Djibouti City"
+    ],
+    "country": "bn",
+    "flag": null
+  },
+  {
+    "id": 549,
+    "type": "capital",
+    "question": "Ibu kota dari negara Croatia adalah...",
+    "answer": "Zagreb",
+    "options": [
+      "Zagreb",
+      "Yaren",
+      "Panama City",
+      "Belgrade"
+    ],
+    "country": "hr",
+    "flag": null
+  },
+  {
+    "id": 550,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Budaya Polinesia yang kuat\". Negara manakah itu?",
+    "answer": "Tonga",
+    "options": [
+      "Tonga",
+      "North Macedonia",
+      "Guinea",
+      "South Sudan"
+    ],
+    "country": "to",
+    "flag": null
+  },
+  {
+    "id": 551,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Israel",
+    "options": [
+      "Kazakhstan",
+      "Switzerland",
+      "Israel",
+      "Indonesia"
+    ],
+    "country": "il",
+    "flag": "https://flagcdn.com/w640/il.png"
+  },
+  {
+    "id": 552,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Burkina Faso",
+    "options": [
+      "Burkina Faso",
+      "Barbados",
+      "Kiribati",
+      "Latvia"
+    ],
+    "country": "bf",
+    "flag": "https://flagcdn.com/w640/bf.png"
+  },
+  {
+    "id": 553,
+    "type": "capital",
+    "question": "Ibu kota dari negara Eritrea adalah...",
+    "answer": "Asmara",
+    "options": [
+      "Abu Dhabi",
+      "Lusaka",
+      "Guatemala City",
+      "Asmara"
+    ],
+    "country": "er",
+    "flag": null
+  },
+  {
+    "id": 554,
+    "type": "capital",
+    "question": "Apa ibu kota United States?",
+    "answer": "Washington, D.C.",
+    "options": [
+      "Monaco",
+      "Hanoi",
+      "Georgetown",
+      "Washington, D.C."
+    ],
+    "country": "us",
+    "flag": null
+  },
+  {
+    "id": 555,
+    "type": "language",
+    "question": "Bahasa apa yang umum digunakan di Sri Lanka?",
+    "answer": "Tamil",
+    "options": [
+      "Slovakia",
+      "Hausa",
+      "Tamil",
+      "Rusia"
+    ],
+    "country": "lk",
+    "flag": null
+  },
+  {
+    "id": 556,
+    "type": "language",
+    "question": "Apa salah satu bahasa yang digunakan di Denmark?",
+    "answer": "Denmark",
+    "options": [
+      "Berber",
+      "Denmark",
+      "Kreol Haiti",
+      "Tajik"
+    ],
+    "country": "dk",
+    "flag": null
+  },
+  {
+    "id": 557,
+    "type": "capital",
+    "question": "Ibu kota dari negara Syria adalah...",
+    "answer": "Damascus",
+    "options": [
+      "Banjul",
+      "Belgrade",
+      "Damascus",
+      "Yerevan"
+    ],
+    "country": "sy",
+    "flag": null
+  },
+  {
+    "id": 558,
+    "type": "capital",
+    "question": "Apa ibu kota Poland?",
+    "answer": "Warsaw",
+    "options": [
+      "Berlin",
+      "Warsaw",
+      "Port Louis",
+      "Castries"
+    ],
+    "country": "pl",
+    "flag": null
+  },
+  {
+    "id": 559,
+    "type": "capital",
+    "question": "Apa ibu kota Ghana?",
+    "answer": "Accra",
+    "options": [
+      "Accra",
+      "Georgetown",
+      "Wellington",
+      "Amman"
+    ],
+    "country": "gh",
+    "flag": null
+  },
+  {
+    "id": 560,
+    "type": "currency",
+    "question": "Manakah mata uang yang berlaku di Gabon?",
+    "answer": "Franc CFA",
+    "options": [
+      "Ringgit",
+      "Franc CFA",
+      "Gourde",
+      "Dolar"
+    ],
+    "country": "ga",
+    "flag": null
+  },
+  {
+    "id": 561,
+    "type": "capital",
+    "question": "Ibu kota dari negara Paraguay adalah...",
+    "answer": "Asunción",
+    "options": [
+      "Addis Ababa",
+      "Skopje",
+      "Beirut",
+      "Asunción"
+    ],
+    "country": "py",
+    "flag": null
+  },
+  {
+    "id": 562,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Algeria?",
+    "answer": "Algiers",
+    "options": [
+      "Bucharest",
+      "Addis Ababa",
+      "Algiers",
+      "Beirut"
+    ],
+    "country": "dz",
+    "flag": null
+  },
+  {
+    "id": 563,
+    "type": "flag",
+    "question": "Bendera pada gambar di bawah ini adalah milik negara...",
+    "answer": "Solomon Islands",
+    "options": [
+      "Solomon Islands",
+      "Zimbabwe",
+      "Paraguay",
+      "Malawi"
+    ],
+    "country": "sb",
+    "flag": "https://flagcdn.com/w640/sb.png"
+  },
+  {
+    "id": 564,
+    "type": "currency",
+    "question": "Mata uang resmi Oman adalah...",
+    "answer": "Rial",
+    "options": [
+      "Krone",
+      "Rial",
+      "Dolar",
+      "Dolar AS"
+    ],
+    "country": "om",
+    "flag": null
+  },
+  {
+    "id": 565,
+    "type": "continent",
+    "question": "Manakah benua tempat Slovakia berada?",
+    "answer": "Eropa",
+    "options": [
+      "Amerika Selatan",
+      "Eropa",
+      "Asia",
+      "Afrika"
+    ],
+    "country": "sk",
+    "flag": null
+  },
+  {
+    "id": 566,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Singapore",
+    "options": [
+      "Singapore",
+      "Belarus",
+      "Uganda",
+      "Curaçao"
+    ],
+    "country": "sg",
+    "flag": "https://flagcdn.com/w640/sg.png"
+  },
+  {
+    "id": 567,
+    "type": "capital",
+    "question": "Ibu kota dari negara Tunisia adalah...",
+    "answer": "Tunis",
+    "options": [
+      "Port Vila",
+      "Malabo",
+      "Bern",
+      "Tunis"
+    ],
+    "country": "tn",
+    "flag": null
+  },
+  {
+    "id": 568,
+    "type": "capital",
+    "question": "Apa ibu kota Tuvalu?",
+    "answer": "Funafuti",
+    "options": [
+      "Caracas",
+      "Funafuti",
+      "Tokyo",
+      "Dili"
+    ],
+    "country": "tv",
+    "flag": null
+  },
+  {
+    "id": 569,
+    "type": "language",
+    "question": "Penduduk Liberia umumnya menggunakan bahasa...",
+    "answer": "Inggris",
+    "options": [
+      "Khmer",
+      "Xhosa",
+      "Inggris",
+      "Tigrinya"
+    ],
+    "country": "lr",
+    "flag": null
+  },
+  {
+    "id": 570,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Ivory Coast",
+    "options": [
+      "Ivory Coast",
+      "Vanuatu",
+      "Nigeria",
+      "Mauritius"
+    ],
+    "country": "ci",
+    "flag": "https://flagcdn.com/w640/ci.png"
+  },
+  {
+    "id": 571,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Moldova?",
+    "answer": "Chisinau",
+    "options": [
+      "Chisinau",
+      "Lomé",
+      "Ouagadougou",
+      "Port-au-Prince"
+    ],
+    "country": "md",
+    "flag": null
+  },
+  {
+    "id": 572,
+    "type": "capital",
+    "question": "Apa ibu kota Netherlands?",
+    "answer": "Amsterdam",
+    "options": [
+      "Amsterdam",
+      "Malé",
+      "Vientiane",
+      "Avarua"
+    ],
+    "country": "nl",
+    "flag": null
+  },
+  {
+    "id": 573,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Palau?",
+    "answer": "Dolar AS",
+    "options": [
+      "Forint",
+      "Peso",
+      "Dolar AS",
+      "Lev"
+    ],
+    "country": "pw",
+    "flag": null
+  },
+  {
+    "id": 574,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Yemen",
+    "options": [
+      "Mexico",
+      "Yemen",
+      "Cambodia",
+      "Mauritania"
+    ],
+    "country": "ye",
+    "flag": "https://flagcdn.com/w640/ye.png"
+  },
+  {
+    "id": 575,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Zimbabwe",
+    "options": [
+      "Vanuatu",
+      "Zimbabwe",
+      "Mexico",
+      "Algeria"
+    ],
+    "country": "zw",
+    "flag": "https://flagcdn.com/w640/zw.png"
+  },
+  {
+    "id": 576,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Sungai Irrawaddy adalah jalur kehidupan utama\". Negara manakah itu?",
+    "answer": "Myanmar",
+    "options": [
+      "Sudan",
+      "Philippines",
+      "Belgium",
+      "Myanmar"
+    ],
+    "country": "mm",
+    "flag": null
+  },
+  {
+    "id": 577,
+    "type": "continent",
+    "question": "Negara Poland berada di benua...",
+    "answer": "Eropa",
+    "options": [
+      "Amerika Utara",
+      "Afrika",
+      "Eropa",
+      "Amerika Selatan"
+    ],
+    "country": "pl",
+    "flag": null
+  },
+  {
+    "id": 578,
+    "type": "fact",
+    "question": "\"Terdiri dari dua pulau utama\" adalah fakta menarik tentang negara apa?",
+    "answer": "Saint Kitts and Nevis",
+    "options": [
+      "Tajikistan",
+      "DR Congo",
+      "Palau",
+      "Saint Kitts and Nevis"
+    ],
+    "country": "kn",
+    "flag": null
+  },
+  {
+    "id": 579,
+    "type": "fact",
+    "question": "\"Dijuluki 'Pulau Alam Karibia'\" adalah fakta menarik tentang negara apa?",
+    "answer": "Dominica",
+    "options": [
+      "Dominica",
+      "Cabo Verde",
+      "Mexico",
+      "Niger"
+    ],
+    "country": "dm",
+    "flag": null
+  },
+  {
+    "id": 580,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Bosnia and Herzegovina?",
+    "answer": "Mark",
+    "options": [
+      "Rupee",
+      "Mark",
+      "Cedi",
+      "Colón"
+    ],
+    "country": "ba",
+    "flag": null
+  },
+  {
+    "id": 581,
+    "type": "capital",
+    "question": "Ibu kota dari negara France adalah...",
+    "answer": "Paris",
+    "options": [
+      "Asunción",
+      "Ottawa",
+      "Paris",
+      "Yaren"
+    ],
+    "country": "fr",
+    "flag": null
+  },
+  {
+    "id": 582,
+    "type": "continent",
+    "question": "Luxembourg terletak di benua apa?",
+    "answer": "Eropa",
+    "options": [
+      "Asia",
+      "Amerika Selatan",
+      "Oseania",
+      "Eropa"
+    ],
+    "country": "lu",
+    "flag": null
+  },
+  {
+    "id": 583,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Sebagian besar wilayah adalah Gurun Sahara\"",
+    "answer": "Mauritania",
+    "options": [
+      "Mauritania",
+      "Cyprus",
+      "Belarus",
+      "Togo"
+    ],
+    "country": "mr",
+    "flag": null
+  },
+  {
+    "id": 584,
+    "type": "fact",
+    "question": "Fakta ini menggambarkan sebuah negara: \"Gunung berapi aktif Yasur\". Negara manakah itu?",
+    "answer": "Vanuatu",
+    "options": [
+      "Iran",
+      "Marshall Islands",
+      "Vanuatu",
+      "Georgia"
+    ],
+    "country": "vu",
+    "flag": null
+  },
+  {
+    "id": 585,
+    "type": "currency",
+    "question": "Mata uang resmi Tonga adalah...",
+    "answer": "Pa'anga",
+    "options": [
+      "Pa'anga",
+      "Taka",
+      "Kyat",
+      "Baht"
+    ],
+    "country": "to",
+    "flag": null
+  },
+  {
+    "id": 586,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Thailand",
+    "options": [
+      "Chad",
+      "Uruguay",
+      "Thailand",
+      "Iran"
+    ],
+    "country": "th",
+    "flag": "https://flagcdn.com/w640/th.png"
+  },
+  {
+    "id": 587,
+    "type": "currency",
+    "question": "Mata uang resmi Saint Lucia adalah...",
+    "answer": "Dolar",
+    "options": [
+      "Yen",
+      "Dolar",
+      "Mark",
+      "Afghani"
+    ],
+    "country": "lc",
+    "flag": null
+  },
+  {
+    "id": 588,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Laos",
+    "options": [
+      "Seychelles",
+      "Kenya",
+      "Laos",
+      "Saint Kitts and Nevis"
+    ],
+    "country": "la",
+    "flag": "https://flagcdn.com/w640/la.png"
+  },
+  {
+    "id": 589,
+    "type": "currency",
+    "question": "Mata uang resmi Bulgaria adalah...",
+    "answer": "Lev",
+    "options": [
+      "Rupee",
+      "Kyat",
+      "Lev",
+      "Dirham"
+    ],
+    "country": "bg",
+    "flag": null
+  },
+  {
+    "id": 590,
+    "type": "fact",
+    "question": "\"Memiliki pantai indah di Cancun dan Tulum\" adalah fakta menarik tentang negara apa?",
+    "answer": "Mexico",
+    "options": [
+      "Colombia",
+      "Mexico",
+      "Hungary",
+      "Burundi"
+    ],
+    "country": "mx",
+    "flag": null
+  },
+  {
+    "id": 591,
+    "type": "language",
+    "question": "Manakah bahasa yang digunakan di Niger?",
+    "answer": "Hausa",
+    "options": [
+      "Somali",
+      "Slovakia",
+      "Hausa",
+      "Bislama"
+    ],
+    "country": "ne",
+    "flag": null
+  },
+  {
+    "id": 592,
+    "type": "fact",
+    "question": "Negara manakah yang memiliki fakta unik berikut ini?\n\"Kota Tua Yerusalem adalah situs suci tiga agama\"",
+    "answer": "Israel",
+    "options": [
+      "Israel",
+      "Barbados",
+      "Russia",
+      "Papua New Guinea"
+    ],
+    "country": "il",
+    "flag": null
+  },
+  {
+    "id": 593,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Niger",
+    "options": [
+      "South Africa",
+      "Seychelles",
+      "Niger",
+      "Guatemala"
+    ],
+    "country": "ne",
+    "flag": "https://flagcdn.com/w640/ne.png"
+  },
+  {
+    "id": 594,
+    "type": "flag",
+    "question": "Coba tebak, gambar berikut adalah bendera negara apa?",
+    "answer": "Trinidad and Tobago",
+    "options": [
+      "Trinidad and Tobago",
+      "China",
+      "Cuba",
+      "Montenegro"
+    ],
+    "country": "tt",
+    "flag": "https://flagcdn.com/w640/tt.png"
+  },
+  {
+    "id": 595,
+    "type": "language",
+    "question": "Penduduk Taiwan umumnya menggunakan bahasa...",
+    "answer": "Mandarin",
+    "options": [
+      "Melayu",
+      "Mandarin",
+      "Kazakh",
+      "Albania"
+    ],
+    "country": "tw",
+    "flag": null
+  },
+  {
+    "id": 596,
+    "type": "capital",
+    "question": "Apa ibu kota Burkina Faso?",
+    "answer": "Ouagadougou",
+    "options": [
+      "Tarawa",
+      "Monaco",
+      "Beirut",
+      "Ouagadougou"
+    ],
+    "country": "bf",
+    "flag": null
+  },
+  {
+    "id": 597,
+    "type": "capital",
+    "question": "Manakah yang merupakan ibu kota Spain?",
+    "answer": "Madrid",
+    "options": [
+      "Madrid",
+      "Port of Spain",
+      "Sarajevo",
+      "Doha"
+    ],
+    "country": "es",
+    "flag": null
+  },
+  {
+    "id": 598,
+    "type": "flag",
+    "question": "Gambar berikut menunjukkan bendera dari negara...",
+    "answer": "Barbados",
+    "options": [
+      "Latvia",
+      "Barbados",
+      "Germany",
+      "Croatia"
+    ],
+    "country": "bb",
+    "flag": "https://flagcdn.com/w640/bb.png"
+  },
+  {
+    "id": 599,
+    "type": "currency",
+    "question": "Apa mata uang yang digunakan di Gambia?",
+    "answer": "Dalasi",
+    "options": [
+      "Dalasi",
+      "Rial",
+      "Dinar",
+      "Franc"
+    ],
+    "country": "gm",
+    "flag": null
+  },
+  {
+    "id": 600,
+    "type": "flag",
+    "question": "Negara manakah yang memiliki bendera seperti pada gambar berikut?",
+    "answer": "Monaco",
+    "options": [
+      "Central African Republic",
+      "Azerbaijan",
+      "DR Congo",
+      "Monaco"
+    ],
+    "country": "mc",
+    "flag": "https://flagcdn.com/w640/mc.png"
+  }
+]

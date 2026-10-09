@@ -1,0 +1,70 @@
+/* ============================================================
+   VEXILLO — animations.css
+   Keyframes dasar untuk animasi CSS
+   ============================================================ */
+
+@keyframes scrollLinePulse {
+  0% {
+    opacity: 0;
+    transform: scaleY(0);
+    transform-origin: top;
+  }
+  50% {
+    opacity: 1;
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  100% {
+    opacity: 0;
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -400px 0;
+  }
+  100% {
+    background-position: 400px 0;
+  }
+}
+
+@keyframes softPulse {
+  0% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.02);
+  }
+  100% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+}
+
+/* Skeleton loading */
+.skeleton {
+  background: linear-gradient(90deg, var(--color-charcoal) 25%, var(--color-slate) 50%, var(--color-charcoal) 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.5s infinite linear;
+}/* Shake untuk jawaban salah */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-10px); }
+  40% { transform: translateX(10px); }
+  60% { transform: translateX(-6px); }
+  80% { transform: translateX(6px); }
+}
+
+.quiz-option-btn.wrong {
+  animation: shake 0.4s ease-in-out;
+}
+
+/* Timer bar color transition handled by JS adding class, but we can add keyframes for pulse */
+@keyframes timerPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}

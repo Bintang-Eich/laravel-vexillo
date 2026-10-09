@@ -1,0 +1,5760 @@
+[
+  {
+    "id": "id",
+    "name": "Indonesia",
+    "officialName": "Republic of Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "currency": "Rupiah",
+    "languages": [
+      "Bahasa Indonesia"
+    ],
+    "description": "Indonesia adalah negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau. Terletak di Asia Tenggara dan memiliki keanekaragaman budaya, bahasa, serta alam yang luar biasa.",
+    "facts": [
+      "Negara kepulauan terbesar di dunia",
+      "Memiliki lebih dari 300 kelompok etnis",
+      "Candi Borobudur adalah candi Buddha terbesar di dunia",
+      "Rumah bagi komodo, kadal terbesar di dunia"
+    ],
+    "history": [
+      "1945: Proklamasi kemerdekaan dari Belanda",
+      "1998: Reformasi dan demokratisasi",
+      "1965: Peristiwa G30S dan pergantian kekuasaan",
+      "1999: Referendum kemerdekaan Timor Timur"
+    ],
+    "images": [
+      "assets/images/indonesia.jpg"
+    ],
+    "population": 275500000,
+    "area": 1904569
+  },
+  {
+    "id": "jp",
+    "name": "Japan",
+    "officialName": "State of Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "currency": "Yen Jepang",
+    "languages": [
+      "Jepang"
+    ],
+    "description": "Jepang adalah negara kepulauan di Asia Timur yang terkenal dengan teknologi maju, budaya tradisional yang kaya, dan alam yang indah.",
+    "facts": [
+      "Terdiri dari 6.852 pulau",
+      "Shinkansen adalah kereta tercepat di dunia",
+      "Gunung Fuji adalah gunung suci",
+      "Salah satu angka harapan hidup tertinggi di dunia"
+    ],
+    "history": [
+      "1868: Restorasi Meiji",
+      "1945: Akhir Perang Dunia II",
+      "1603: Keshogunan Tokugawa dimulai",
+      "1947: Konstitusi pascaperang diberlakukan"
+    ],
+    "images": [
+      "assets/images/japan.jpg"
+    ],
+    "population": 125700000,
+    "area": 377975
+  },
+  {
+    "id": "br",
+    "name": "Brazil",
+    "officialName": "Federative Republic of Brazil",
+    "capital": "Brasília",
+    "continent": "Amerika Selatan",
+    "currency": "Real Brasil",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Brasil adalah negara terbesar di Amerika Selatan, terkenal dengan hutan hujan Amazon, sepak bola, dan karnaval yang meriah.",
+    "facts": [
+      "Negara terbesar di Amerika Selatan",
+      "Rumah bagi sebagian besar hutan hujan Amazon",
+      "Pemenang Piala Dunia FIFA terbanyak (5 kali)",
+      "Satu-satunya negara berbahasa Portugis di Amerika"
+    ],
+    "history": [
+      "1822: Kemerdekaan dari Portugal",
+      "1889: Menjadi republik",
+      "1500: Portugis tiba di Brasil (Pedro Álvares Cabral)",
+      "1964-1985: Masa pemerintahan militer"
+    ],
+    "images": [
+      "assets/images/brazil.jpg"
+    ],
+    "population": 215300000,
+    "area": 8515767
+  },
+  {
+    "id": "za",
+    "name": "South Africa",
+    "officialName": "Republic of South Africa",
+    "capital": "Pretoria",
+    "continent": "Afrika",
+    "currency": "Rand Afrika Selatan",
+    "languages": [
+      "Afrikaans",
+      "Inggris",
+      "Zulu",
+      "Xhosa"
+    ],
+    "description": "Afrika Selatan adalah negara di ujung selatan benua Afrika, dikenal dengan keanekaragaman budaya, alam, dan sejarah yang kompleks.",
+    "facts": [
+      "Dijuluki 'Nation of the Rainbow'",
+      "Memiliki tiga ibu kota",
+      "Rumah bagi Taman Nasional Kruger",
+      "Salah satu penghasil emas dan berlian utama di dunia"
+    ],
+    "history": [
+      "1948: Apartheid diterapkan",
+      "1994: Nelson Mandela menjadi presiden kulit hitam pertama",
+      "1910: Uni Afrika Selatan dibentuk",
+      "1996: Konstitusi baru pascaapartheid disahkan"
+    ],
+    "images": [
+      "assets/images/south-africa.jpg"
+    ],
+    "population": 60400000,
+    "area": 1219090
+  },
+  {
+    "id": "us",
+    "name": "United States",
+    "officialName": "United States of America",
+    "capital": "Washington, D.C.",
+    "continent": "Amerika Utara",
+    "currency": "Dolar AS",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Amerika Serikat adalah negara federal yang terdiri dari 50 negara bagian, terletak di Amerika Utara. Memiliki pengaruh besar dalam ekonomi, budaya, dan politik global.",
+    "facts": [
+      "Ekonomi terbesar di dunia",
+      "Terdiri dari 50 negara bagian",
+      "Rumah bagi Grand Canyon dan Yellowstone",
+      "Rumah bagi Silicon Valley, pusat inovasi teknologi dunia"
+    ],
+    "history": [
+      "1776: Deklarasi Kemerdekaan",
+      "1969: Pendaratan manusia pertama di Bulan",
+      "1861-1865: Perang Saudara Amerika",
+      "1945: Menjadi salah satu negara pendiri PBB"
+    ],
+    "images": [
+      "assets/images/us.jpg"
+    ],
+    "population": 334200000,
+    "area": 9833520
+  },
+  {
+    "id": "gb",
+    "name": "United Kingdom",
+    "officialName": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "continent": "Eropa",
+    "currency": "Pound Sterling",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Britania Raya adalah negara di Eropa Barat Laut yang terkenal dengan monarki, sastra, dan pengaruh globalnya.",
+    "facts": [
+      "Salah satu monarki konstitusional tertua di dunia",
+      "Rumah bagi Shakespeare dan The Beatles",
+      "British Museum adalah salah satu museum terbesar",
+      "Pernah menjadi kekaisaran kolonial terbesar dalam sejarah"
+    ],
+    "history": [
+      "1215: Magna Carta ditandatangani",
+      "2016: Referendum Brexit",
+      "1707: Act of Union membentuk Kerajaan Britania Raya",
+      "1945: Salah satu negara pemenang Perang Dunia II"
+    ],
+    "images": [
+      "assets/images/uk.jpg"
+    ],
+    "population": 67700000,
+    "area": 243610
+  },
+  {
+    "id": "fr",
+    "name": "France",
+    "officialName": "French Republic",
+    "capital": "Paris",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Prancis adalah negara di Eropa Barat yang terkenal dengan seni, mode, kuliner, dan sejarah yang kaya.",
+    "facts": [
+      "Negara yang paling banyak dikunjungi di dunia",
+      "Rumah bagi Menara Eiffel dan Louvre",
+      "Pionir dalam mode dan parfum",
+      "Memiliki wilayah luar negeri di berbagai belahan dunia"
+    ],
+    "history": [
+      "1789: Revolusi Prancis",
+      "1958: Republik Kelima dibentuk",
+      "1804: Napoleon Bonaparte menjadi Kaisar Prancis",
+      "1944: Pembebasan Paris dari pendudukan Jerman"
+    ],
+    "images": [
+      "assets/images/france.jpg"
+    ],
+    "population": 68000000,
+    "area": 643801
+  },
+  {
+    "id": "de",
+    "name": "Germany",
+    "officialName": "Federal Republic of Germany",
+    "capital": "Berlin",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Jerman"
+    ],
+    "description": "Jerman adalah negara di Eropa Tengah yang dikenal dengan teknologi, industri otomotif, dan sejarah yang kompleks.",
+    "facts": [
+      "Ekonomi terbesar di Eropa",
+      "Rumah bagi merek mobil terkenal seperti BMW dan Mercedes-Benz",
+      "Memiliki banyak kastil bersejarah",
+      "Oktoberfest di Munich adalah festival bir terbesar di dunia"
+    ],
+    "history": [
+      "1871: Kekaisaran Jerman didirikan",
+      "1990: Reunifikasi Jerman",
+      "1933-1945: Era Nazi dan Perang Dunia II",
+      "1961: Tembok Berlin dibangun"
+    ],
+    "images": [
+      "assets/images/germany.jpg"
+    ],
+    "population": 83800000,
+    "area": 357114
+  },
+  {
+    "id": "it",
+    "name": "Italy",
+    "officialName": "Italian Republic",
+    "capital": "Roma",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Italia"
+    ],
+    "description": "Italia adalah negara di Eropa Selatan yang terkenal dengan sejarah Romawi, seni Renaisans, dan kuliner.",
+    "facts": [
+      "Rumah bagi Colosseum dan Vatikan",
+      "Pizza dan pasta berasal dari Italia",
+      "Memiliki banyak situs warisan dunia",
+      "Bahasa Italia berkembang dari bahasa Latin"
+    ],
+    "history": [
+      "753 SM: Roma didirikan",
+      "1946: Republik Italia dibentuk",
+      "27 SM: Kekaisaran Romawi dimulai",
+      "1861: Unifikasi Italia"
+    ],
+    "images": [
+      "assets/images/italy.jpg"
+    ],
+    "population": 60300000,
+    "area": 301340
+  },
+  {
+    "id": "es",
+    "name": "Spain",
+    "officialName": "Kingdom of Spain",
+    "capital": "Madrid",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Spanyol adalah negara di Semenanjung Iberia, terkenal dengan flamenco, arsitektur, dan pantai.",
+    "facts": [
+      "Rumah bagi Sagrada Familia di Barcelona",
+      "Memiliki banyak festival seperti La Tomatina",
+      "Pionir dalam penjelajahan dunia",
+      "Flamenco adalah bagian penting dari budaya tradisional Spanyol"
+    ],
+    "history": [
+      "1492: Reconquista selesai",
+      "1975: Transisi menuju demokrasi",
+      "1936-1939: Perang Saudara Spanyol",
+      "1986: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/spain.jpg"
+    ],
+    "population": 47500000,
+    "area": 505990
+  },
+  {
+    "id": "pt",
+    "name": "Portugal",
+    "officialName": "Portuguese Republic",
+    "capital": "Lisboa",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Portugal adalah negara di Eropa Barat daya, terkenal dengan sejarah penjelajahan dan pantai.",
+    "facts": [
+      "Pionir dalam era penjelajahan",
+      "Rumah bagi Vasco da Gama dan Ferdinand Magellan",
+      "Terkenal dengan anggur port dari Porto",
+      "Salah satu negara tertua di Eropa dengan batas wilayah yang tidak banyak berubah sejak abad ke-13"
+    ],
+    "history": [
+      "1139: Kerajaan Portugal didirikan",
+      "1974: Revolusi Anyelir",
+      "1415: Penaklukan Ceuta menandai awal era penjelajahan",
+      "1986: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/portugal.jpg"
+    ],
+    "population": 10300000,
+    "area": 92090
+  },
+  {
+    "id": "nl",
+    "name": "Netherlands",
+    "officialName": "Kingdom of the Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Belanda"
+    ],
+    "description": "Belanda adalah negara di Eropa Barat yang terkenal dengan kincir angin, tulip, dan sepeda.",
+    "facts": [
+      "Sebagian besar wilayah berada di bawah permukaan laut",
+      "Amsterdam memiliki banyak kanal",
+      "Penggunaan sepeda per kapita tertinggi di dunia",
+      "Salah satu eksportir produk pertanian terbesar di dunia"
+    ],
+    "history": [
+      "1581: Republik Belanda merdeka",
+      "1815: Kerajaan Belanda dibentuk",
+      "1602: Perusahaan Hindia Timur Belanda (VOC) didirikan",
+      "1940-1945: Pendudukan Jerman pada Perang Dunia II"
+    ],
+    "images": [
+      "assets/images/netherlands.jpg"
+    ],
+    "population": 17500000,
+    "area": 41850
+  },
+  {
+    "id": "se",
+    "name": "Sweden",
+    "officialName": "Kingdom of Sweden",
+    "capital": "Stockholm",
+    "continent": "Eropa",
+    "currency": "Krona Swedia",
+    "languages": [
+      "Swedia"
+    ],
+    "description": "Swedia adalah negara Skandinavia yang terkenal dengan kesejahteraan sosial, alam, dan desain.",
+    "facts": [
+      "Indeks pembangunan manusia tinggi",
+      "Rumah bagi Hadiah Nobel",
+      "IKEA berasal dari Swedia",
+      "Volvo dan Ericsson adalah perusahaan asal Swedia"
+    ],
+    "history": [
+      "Abad ke-17: Kekaisaran Swedia",
+      "1995: Bergabung dengan Uni Eropa",
+      "1523: Gustav Vasa menjadi raja dan Swedia merdeka dari Uni Kalmar",
+      "1814: Awal era netralitas panjang Swedia"
+    ],
+    "images": [
+      "assets/images/sweden.jpg"
+    ],
+    "population": 10500000,
+    "area": 450295
+  },
+  {
+    "id": "ca",
+    "name": "Canada",
+    "officialName": "Canada",
+    "capital": "Ottawa",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Kanada",
+    "languages": [
+      "Inggris",
+      "Prancis"
+    ],
+    "description": "Kanada adalah negara terbesar kedua di dunia, terkenal dengan alam liar, danau, dan masyarakat multikultural.",
+    "facts": [
+      "Negara terbesar kedua di dunia",
+      "Garis pantai terpanjang di dunia",
+      "Rumah bagi Air Terjun Niagara",
+      "Memiliki lebih banyak danau daripada gabungan seluruh negara lain di dunia"
+    ],
+    "history": [
+      "1867: Konfederasi Kanada",
+      "1982: Undang-Undang Kanada 1982",
+      "1534: Jacques Cartier mengklaim wilayah untuk Prancis",
+      "1931: Statuta Westminster memberikan otonomi penuh"
+    ],
+    "images": [
+      "assets/images/canada.jpg"
+    ],
+    "population": 38200000,
+    "area": 9984670
+  },
+  {
+    "id": "mx",
+    "name": "Mexico",
+    "officialName": "United Mexican States",
+    "capital": "Mexico City",
+    "continent": "Amerika Utara",
+    "currency": "Peso Meksiko",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Meksiko adalah negara di Amerika Utara yang terkenal dengan peradaban kuno, kuliner, dan pantai.",
+    "facts": [
+      "Rumah bagi peradaban Maya dan Aztec",
+      "Taco dan burrito berasal dari Meksiko",
+      "Memiliki pantai indah di Cancun dan Tulum",
+      "Kota Meksiko dibangun di atas reruntuhan ibu kota Aztec, Tenochtitlan"
+    ],
+    "history": [
+      "1810: Perang Kemerdekaan Meksiko",
+      "1910: Revolusi Meksiko",
+      "1521: Penaklukan Kekaisaran Aztec oleh Spanyol",
+      "1846-1848: Perang Meksiko-Amerika"
+    ],
+    "images": [
+      "assets/images/mexico.jpg"
+    ],
+    "population": 128900000,
+    "area": 1964375
+  },
+  {
+    "id": "ar",
+    "name": "Argentina",
+    "officialName": "Argentine Republic",
+    "capital": "Buenos Aires",
+    "continent": "Amerika Selatan",
+    "currency": "Peso Argentina",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Argentina adalah negara di Amerika Selatan yang terkenal dengan tango, sepak bola, dan daging sapi.",
+    "facts": [
+      "Tango berasal dari Argentina",
+      "Rumah bagi Lionel Messi",
+      "Memiliki gletser Perito Moreno",
+      "Memiliki salah satu cadangan lithium terbesar di dunia"
+    ],
+    "history": [
+      "1816: Kemerdekaan dari Spanyol",
+      "1982: Perang Falkland",
+      "1853: Konstitusi Argentina disahkan",
+      "1976-1983: Masa pemerintahan militer (Perang Kotor)"
+    ],
+    "images": [
+      "assets/images/argentina.jpg"
+    ],
+    "population": 45800000,
+    "area": 2780400
+  },
+  {
+    "id": "au",
+    "name": "Australia",
+    "officialName": "Commonwealth of Australia",
+    "capital": "Canberra",
+    "continent": "Oseania",
+    "currency": "Dolar Australia",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Australia adalah negara benua di belahan bumi selatan, terkenal dengan satwa unik dan alam.",
+    "facts": [
+      "Benua terkecil",
+      "Rumah bagi kanguru dan koala",
+      "Great Barrier Reef adalah terumbu karang terbesar di dunia",
+      "Satu-satunya negara yang menempati seluruh benua"
+    ],
+    "history": [
+      "1788: Koloni pertama didirikan",
+      "1901: Federasi Australia",
+      "1770: James Cook mengklaim pantai timur untuk Inggris",
+      "1967: Referendum memberikan pengakuan penuh bagi penduduk Aborigin"
+    ],
+    "images": [
+      "assets/images/australia.jpg"
+    ],
+    "population": 26500000,
+    "area": 7692024
+  },
+  {
+    "id": "nz",
+    "name": "New Zealand",
+    "officialName": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oseania",
+    "currency": "Dolar Selandia Baru",
+    "languages": [
+      "Inggris",
+      "Maori"
+    ],
+    "description": "Selandia Baru adalah negara kepulauan di Pasifik Selatan, terkenal dengan pemandangan alam yang spektakuler.",
+    "facts": [
+      "Rumah bagi suku Maori",
+      "Pemandangan alam dipakai dalam film Lord of the Rings",
+      "Salah satu negara terakhir yang dihuni manusia",
+      "Tidak memiliki ular berbisa asli"
+    ],
+    "history": [
+      "1840: Perjanjian Waitangi",
+      "1947: Kemerdekaan penuh dari Inggris",
+      "1893: Negara pertama di dunia yang memberikan hak pilih penuh kepada perempuan",
+      "1907: Menjadi dominion Kerajaan Inggris"
+    ],
+    "images": [
+      "assets/images/new-zealand.jpg"
+    ],
+    "population": 5100000,
+    "area": 268021
+  },
+  {
+    "id": "eg",
+    "name": "Egypt",
+    "officialName": "Arab Republic of Egypt",
+    "capital": "Kairo",
+    "continent": "Afrika",
+    "currency": "Pound Mesir",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Mesir adalah negara di Afrika Utara yang terkenal dengan peradaban kuno dan piramida.",
+    "facts": [
+      "Rumah bagi Piramida Giza dan Sphinx",
+      "Sungai Nil, sungai terpanjang di dunia, mengalir melaluinya",
+      "Peradaban Mesir Kuno berusia lebih dari 5000 tahun",
+      "Piramida Giza adalah satu-satunya dari Tujuh Keajaiban Dunia Kuno yang masih ada"
+    ],
+    "history": [
+      "3150 SM: Mesir Kuno bersatu",
+      "1953: Republik Mesir",
+      "1922: Kemerdekaan formal dari Inggris sebagai Kerajaan Mesir",
+      "1956: Krisis Terusan Suez"
+    ],
+    "images": [
+      "assets/images/egypt.jpg"
+    ],
+    "population": 104300000,
+    "area": 1001449
+  },
+  {
+    "id": "ng",
+    "name": "Nigeria",
+    "officialName": "Federal Republic of Nigeria",
+    "capital": "Abuja",
+    "continent": "Afrika",
+    "currency": "Naira Nigeria",
+    "languages": [
+      "Inggris",
+      "Hausa",
+      "Yoruba",
+      "Igbo"
+    ],
+    "description": "Nigeria adalah negara terpadat di Afrika, terkenal dengan industri film Nollywood dan keanekaragaman budaya.",
+    "facts": [
+      "Negara terpadat di Afrika",
+      "Nollywood adalah industri film terbesar kedua di dunia",
+      "Rumah bagi lebih dari 250 kelompok etnis",
+      "Salah satu ekonomi terbesar di Afrika"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Inggris",
+      "1999: Kembali ke pemerintahan sipil",
+      "1914: Penyatuan Nigeria Utara dan Selatan oleh Inggris",
+      "1967-1970: Perang Saudara Nigeria (Perang Biafra)"
+    ],
+    "images": [
+      "assets/images/nigeria.jpg"
+    ],
+    "population": 218500000,
+    "area": 923768
+  },
+  {
+    "id": "ru",
+    "name": "Russia",
+    "officialName": "Russian Federation",
+    "capital": "Moscow",
+    "continent": "Eropa",
+    "currency": "Rubel Rusia",
+    "languages": [
+      "Rusia"
+    ],
+    "description": "Rusia adalah negara terbesar di dunia berdasarkan luas wilayah, membentang dari Eropa Timur hingga Asia Utara.",
+    "facts": [
+      "Negara terbesar di dunia",
+      "Memiliki 11 zona waktu",
+      "Rumah bagi Danau Baikal, danau terdalam di dunia",
+      "Membentang di dua benua, Eropa dan Asia"
+    ],
+    "history": [
+      "1547: Ivan IV menjadi Tsar pertama",
+      "1991: Pembubaran Uni Soviet",
+      "1917: Revolusi Rusia dan berdirinya Uni Soviet",
+      "1812: Kemenangan atas invasi Napoleon"
+    ],
+    "images": [
+      "assets/images/russia.jpg"
+    ],
+    "population": 144400000,
+    "area": 17098246
+  },
+  {
+    "id": "cn",
+    "name": "China",
+    "officialName": "People's Republic of China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "currency": "Yuan",
+    "languages": [
+      "Mandarin"
+    ],
+    "description": "China adalah negara terpadat di dunia dengan peradaban yang panjang dan pengaruh ekonomi global yang besar.",
+    "facts": [
+      "Negara terpadat di dunia",
+      "Rumah bagi Tembok Besar China",
+      "Ekonomi terbesar kedua di dunia",
+      "Salah satu peradaban tertua yang masih berkelanjutan di dunia"
+    ],
+    "history": [
+      "221 SM: Penyatuan oleh Qin Shi Huang",
+      "1949: Republik Rakyat China didirikan",
+      "1912: Berakhirnya Dinasti Qing dan Kekaisaran China",
+      "1978: Reformasi ekonomi Deng Xiaoping dimulai"
+    ],
+    "images": [
+      "assets/images/china.jpg"
+    ],
+    "population": 1412000000,
+    "area": 9596960
+  },
+  {
+    "id": "in",
+    "name": "India",
+    "officialName": "Republic of India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "currency": "Rupee India",
+    "languages": [
+      "Hindi",
+      "Inggris"
+    ],
+    "description": "India adalah negara terpadat kedua di dunia dengan keanekaragaman budaya, bahasa, dan agama yang luar biasa.",
+    "facts": [
+      "Demokrasi terbesar di dunia",
+      "Rumah bagi Taj Mahal",
+      "Memiliki 22 bahasa resmi",
+      "Tempat lahirnya agama Hindu, Buddha, Sikh, dan Jain"
+    ],
+    "history": [
+      "1947: Kemerdekaan dari Inggris",
+      "1950: Konstitusi diberlakukan",
+      "3300 SM: Peradaban Lembah Indus berkembang",
+      "1526: Kekaisaran Mughal didirikan"
+    ],
+    "images": [
+      "assets/images/india.jpg"
+    ],
+    "population": 1428000000,
+    "area": 3287263
+  },
+  {
+    "id": "kr",
+    "name": "South Korea",
+    "officialName": "Republic of Korea",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "currency": "Won Korea Selatan",
+    "languages": [
+      "Korea"
+    ],
+    "description": "Korea Selatan adalah negara maju di Asia Timur yang terkenal dengan teknologi, K-pop, dan inovasi.",
+    "facts": [
+      "Rumah bagi Samsung dan Hyundai",
+      "K-pop adalah fenomena global",
+      "Salah satu internet tercepat di dunia",
+      "Mengalami transformasi ekonomi pesat yang dikenal sebagai 'Keajaiban di Sungai Han'"
+    ],
+    "history": [
+      "1945: Pembagian Korea",
+      "1987: Demokratisasi",
+      "1950-1953: Perang Korea",
+      "1988: Menjadi tuan rumah Olimpiade Musim Panas Seoul"
+    ],
+    "images": [
+      "assets/images/south-korea.jpg"
+    ],
+    "population": 51700000,
+    "area": 100210
+  },
+  {
+    "id": "tr",
+    "name": "Turkey",
+    "officialName": "Republic of Türkiye",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "currency": "Lira Turki",
+    "languages": [
+      "Turki"
+    ],
+    "description": "Turki adalah negara transkontinental yang terletak di antara Eropa dan Asia, kaya akan sejarah Ottoman.",
+    "facts": [
+      "Jembatan antara Eropa dan Asia",
+      "Rumah bagi Cappadocia",
+      "Situs Hagia Sophia",
+      "Istanbul adalah satu-satunya kota besar di dunia yang terletak di dua benua"
+    ],
+    "history": [
+      "1299: Kekaisaran Ottoman didirikan",
+      "1923: Republik Turki didirikan",
+      "1453: Konstantinopel jatuh ke tangan Ottoman",
+      "1922: Kesultanan Ottoman dihapuskan"
+    ],
+    "images": [
+      "assets/images/turkey.jpg"
+    ],
+    "population": 87300000,
+    "area": 783356
+  },
+  {
+    "id": "sa",
+    "name": "Saudi Arabia",
+    "officialName": "Kingdom of Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "currency": "Riyal Saudi",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Arab Saudi adalah pusat spiritual Islam dan salah satu produsen minyak terbesar di dunia.",
+    "facts": [
+      "Rumah bagi Mekkah dan Madinah",
+      "Cadangan minyak terbesar kedua di dunia",
+      "Sistem monarki absolut",
+      "Tidak memiliki sungai permanen"
+    ],
+    "history": [
+      "1932: Kerajaan Arab Saudi didirikan",
+      "1938: Penemuan minyak",
+      "1744: Negara Saudi pertama didirikan",
+      "2016: Peluncuran visi ekonomi Saudi Vision 2030"
+    ],
+    "images": [
+      "assets/images/saudi-arabia.jpg"
+    ],
+    "population": 35900000,
+    "area": 2149690
+  },
+  {
+    "id": "vn",
+    "name": "Vietnam",
+    "officialName": "Socialist Republic of Vietnam",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "currency": "Dong Vietnam",
+    "languages": [
+      "Vietnam"
+    ],
+    "description": "Vietnam adalah negara di Asia Tenggara yang dikenal dengan sejarah perang, alam yang indah, dan pertumbuhan ekonomi pesat.",
+    "facts": [
+      "Salah satu ekonomi tercepat di Asia",
+      "Rumah bagi Teluk Ha Long",
+      "Salah satu eksportir beras terbesar di dunia",
+      "Pernah berada di bawah kekuasaan China selama lebih dari 1000 tahun"
+    ],
+    "history": [
+      "1945: Proklamasi kemerdekaan",
+      "1986: Reformasi Doi Moi",
+      "1954: Pembagian Vietnam Utara dan Selatan",
+      "1975: Berakhirnya Perang Vietnam dan penyatuan negara"
+    ],
+    "images": [
+      "assets/images/vietnam.jpg"
+    ],
+    "population": 100300000,
+    "area": 331212
+  },
+  {
+    "id": "th",
+    "name": "Thailand",
+    "officialName": "Kingdom of Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "currency": "Baht Thailand",
+    "languages": [
+      "Thai"
+    ],
+    "description": "Thailand adalah negara di Asia Tenggara yang terkenal dengan pariwisata, kuliner, dan budaya yang ramah.",
+    "facts": [
+      "Tidak pernah dijajah oleh kekuatan Eropa",
+      "Dikenal sebagai Negeri Gajah Putih",
+      "Pariwisata adalah pendorong ekonomi utama",
+      "Bangkok memiliki nama resmi terpanjang di dunia untuk sebuah kota"
+    ],
+    "history": [
+      "1238: Kerajaan Sukhothai",
+      "1932: Menjadi monarki konstitusional",
+      "1782: Dinasti Chakri didirikan",
+      "1939: Nama negara diubah dari Siam menjadi Thailand"
+    ],
+    "images": [
+      "assets/images/thailand.jpg"
+    ],
+    "population": 71600000,
+    "area": 513120
+  },
+  {
+    "id": "ph",
+    "name": "Philippines",
+    "officialName": "Republic of the Philippines",
+    "capital": "Manila",
+    "continent": "Asia",
+    "currency": "Peso Filipina",
+    "languages": [
+      "Filipino",
+      "Inggris"
+    ],
+    "description": "Filipina adalah negara kepulauan di Asia Tenggara dengan lebih dari 7.000 pulau dan budaya yang beragam.",
+    "facts": [
+      "Terdiri dari 7.641 pulau",
+      "Salah satu populasi Kristen terbesar di Asia",
+      "Rumah bagi Banaue Rice Terraces",
+      "Bahasa resmi negara adalah Filipino dan Inggris"
+    ],
+    "history": [
+      "1898: Kemerdekaan dari Spanyol",
+      "1946: Kemerdekaan dari Amerika Serikat",
+      "1521: Ferdinand Magellan tiba di Filipina",
+      "1965-1986: Era pemerintahan Ferdinand Marcos"
+    ],
+    "images": [
+      "assets/images/philippines.jpg"
+    ],
+    "population": 113900000,
+    "area": 300000
+  },
+  {
+    "id": "pk",
+    "name": "Pakistan",
+    "officialName": "Islamic Republic of Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "currency": "Rupee Pakistan",
+    "languages": [
+      "Urdu",
+      "Inggris"
+    ],
+    "description": "Pakistan adalah negara di Asia Selatan yang terbentuk pada tahun 1947 sebagai tanah air bagi Muslim India.",
+    "facts": [
+      "Negara dengan mayoritas Muslim terbesar kedua",
+      "Rumah bagi K2, gunung tertinggi kedua di dunia",
+      "Situs Peradaban Lembah Indus",
+      "Bahasa Urdu dan Inggris adalah bahasa resmi negara"
+    ],
+    "history": [
+      "1947: Kemerdekaan dan pemisahan dari India",
+      "1956: Menjadi republik",
+      "1971: Bangladesh (Pakistan Timur) memisahkan diri",
+      "1998: Uji coba nuklir pertama Pakistan"
+    ],
+    "images": [
+      "assets/images/pakistan.jpg"
+    ],
+    "population": 240500000,
+    "area": 881913
+  },
+  {
+    "id": "cl",
+    "name": "Chile",
+    "officialName": "Republic of Chile",
+    "capital": "Santiago",
+    "continent": "Amerika Selatan",
+    "currency": "Peso Chili",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Chili adalah negara panjang dan sempit di Amerika Selatan bagian barat, terkenal dengan Pegunungan Andes dan Gurun Atacama.",
+    "facts": [
+      "Gurun terkering di dunia (Atacama)",
+      "Salah satu negara terpanjang di dunia",
+      "Produsen tembaga utama",
+      "Memiliki Pulau Paskah (Rapa Nui) sebagai wilayahnya"
+    ],
+    "history": [
+      "1818: Kemerdekaan dari Spanyol",
+      "1973: Kudeta militer",
+      "1541: Santiago didirikan oleh Spanyol",
+      "1990: Kembali ke pemerintahan demokratis"
+    ],
+    "images": [
+      "assets/images/chile.jpg"
+    ],
+    "population": 19600000,
+    "area": 756102
+  },
+  {
+    "id": "co",
+    "name": "Colombia",
+    "officialName": "Republic of Colombia",
+    "capital": "Bogotá",
+    "continent": "Amerika Selatan",
+    "currency": "Peso Kolombia",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Kolombia adalah negara di Amerika Selatan yang terkenal dengan kopi, zamrud, dan bentang alam yang beragam.",
+    "facts": [
+      "Negara dengan keanekaragaman hayati tertinggi kedua di dunia",
+      "Terkenal dengan kopi berkualitas tinggi",
+      "Rumah bagi hutan hujan Amazon",
+      "Kota Cartagena memiliki benteng kolonial yang menjadi Warisan Dunia UNESCO"
+    ],
+    "history": [
+      "1810: Gerakan kemerdekaan dimulai",
+      "1886: Republik Kolombia didirikan",
+      "1819: Kemerdekaan penuh dicapai setelah Pertempuran Boyacá",
+      "2016: Perjanjian damai dengan FARC ditandatangani"
+    ],
+    "images": [
+      "assets/images/colombia.jpg"
+    ],
+    "population": 51500000,
+    "area": 1141748
+  },
+  {
+    "id": "pe",
+    "name": "Peru",
+    "officialName": "Republic of Peru",
+    "capital": "Lima",
+    "continent": "Amerika Selatan",
+    "currency": "Sol Peru",
+    "languages": [
+      "Spanyol",
+      "Quechua"
+    ],
+    "description": "Peru adalah negara di Amerika Selatan bagian barat, rumah bagi kota Inca kuno Machu Picchu dan bagian dari hutan hujan Amazon.",
+    "facts": [
+      "Rumah bagi Machu Picchu",
+      "Memiliki salah satu ngarai terdalam di dunia",
+      "Budaya adat yang kaya",
+      "Merupakan salah satu pusat asal domestikasi kentang di dunia"
+    ],
+    "history": [
+      "1532: Penaklukan Spanyol",
+      "1821: Kemerdekaan dideklarasikan",
+      "1200an: Kekaisaran Inca berkembang",
+      "1824: Kemerdekaan penuh dicapai"
+    ],
+    "images": [
+      "assets/images/peru.jpg"
+    ],
+    "population": 34000000,
+    "area": 1285216
+  },
+  {
+    "id": "ve",
+    "name": "Venezuela",
+    "officialName": "Bolivarian Republic of Venezuela",
+    "capital": "Caracas",
+    "continent": "Amerika Selatan",
+    "currency": "Bolívar Venezuela",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Venezuela adalah negara di pantai utara Amerika Selatan, terkenal dengan cadangan minyak yang besar dan geografi yang beragam.",
+    "facts": [
+      "Cadangan minyak terbesar di dunia",
+      "Rumah bagi Air Terjun Angel, air terjun tertinggi di dunia",
+      "Bentang alam dari Andes hingga pantai Karibia",
+      "Salah satu negara pendiri OPEC"
+    ],
+    "history": [
+      "1811: Kemerdekaan dideklarasikan",
+      "1999: Revolusi Bolivarian",
+      "1830: Memisahkan diri dari Gran Colombia",
+      "1958: Berakhirnya kediktatoran militer"
+    ],
+    "images": [
+      "assets/images/venezuela.jpg"
+    ],
+    "population": 28300000,
+    "area": 916445
+  },
+  {
+    "id": "ke",
+    "name": "Kenya",
+    "officialName": "Republic of Kenya",
+    "capital": "Nairobi",
+    "continent": "Afrika",
+    "currency": "Shilling Kenya",
+    "languages": [
+      "Swahili",
+      "Inggris"
+    ],
+    "description": "Kenya adalah negara di Afrika Timur yang terkenal dengan safari satwa liar, padang rumput, dan pelari jarak jauh.",
+    "facts": [
+      "Rumah bagi Great Rift Valley",
+      "Terkenal dengan suaka margasatwa Maasai Mara",
+      "Pelari jarak jauh kelas dunia",
+      "Nairobi adalah satu-satunya kota besar dunia dengan taman nasional di dalam batas kotanya"
+    ],
+    "history": [
+      "1963: Kemerdekaan dari Inggris",
+      "2010: Konstitusi baru diadopsi",
+      "1952-1960: Pemberontakan Mau Mau melawan kolonial Inggris",
+      "2002: Pemilu bersejarah mengakhiri dominasi partai tunggal"
+    ],
+    "images": [
+      "assets/images/kenya.jpg"
+    ],
+    "population": 54000000,
+    "area": 580367
+  },
+  {
+    "id": "et",
+    "name": "Ethiopia",
+    "officialName": "Federal Democratic Republic of Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Afrika",
+    "currency": "Birr Ethiopia",
+    "languages": [
+      "Amharik"
+    ],
+    "description": "Ethiopia adalah negara terkurung daratan di Tanduk Afrika, terkenal dengan sejarah kuno, budaya unik, dan asal-usul kopi.",
+    "facts": [
+      "Tidak pernah dijajah oleh kekuatan Eropa",
+      "Asal-usul kopi",
+      "Rumah bagi gereja-gereja batu Lalibela",
+      "Menggunakan kalender sendiri yang berbeda tujuh hingga delapan tahun dari kalender Gregorian"
+    ],
+    "history": [
+      "Kerajaan Aksum Kuno",
+      "1995: Republik Demokratik Federal didirikan",
+      "1896: Kemenangan atas Italia dalam Pertempuran Adwa",
+      "1974: Kaisar Haile Selassie digulingkan"
+    ],
+    "images": [
+      "assets/images/ethiopia.jpg"
+    ],
+    "population": 126500000,
+    "area": 1104300
+  },
+  {
+    "id": "gh",
+    "name": "Ghana",
+    "officialName": "Republic of Ghana",
+    "capital": "Accra",
+    "continent": "Afrika",
+    "currency": "Cedi Ghana",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Ghana adalah negara di Afrika Barat yang terkenal dengan emas, kakao, dan sebagai pusat sejarah Pan-Afrika.",
+    "facts": [
+      "Salah satu produsen kakao terbesar di dunia",
+      "Negara pertama di Afrika sub-Sahara yang merdeka",
+      "Rumah bagi Cape Coast Castle",
+      "Dulunya dikenal sebagai Gold Coast pada masa kolonial"
+    ],
+    "history": [
+      "1957: Kemerdekaan dari Inggris",
+      "1992: Kembali ke demokrasi multipartai",
+      "1482: Portugis mendirikan pos perdagangan di Elmina",
+      "1966: Kudeta militer menggulingkan Kwame Nkrumah"
+    ],
+    "images": [
+      "assets/images/ghana.jpg"
+    ],
+    "population": 33400000,
+    "area": 238533
+  },
+  {
+    "id": "ma",
+    "name": "Morocco",
+    "officialName": "Kingdom of Morocco",
+    "capital": "Rabat",
+    "continent": "Afrika",
+    "currency": "Dirham Maroko",
+    "languages": [
+      "Arab",
+      "Berber"
+    ],
+    "description": "Maroko adalah negara di Afrika Utara yang terkenal dengan perpaduan budaya Arab, Berber, dan Eropa, serta kota-kota seperti Marrakesh dan Casablanca.",
+    "facts": [
+      "Rumah bagi Gurun Sahara",
+      "Terkenal dengan medina dan souk",
+      "Salah satu eksportir fosfat terbesar di dunia",
+      "Medina kuno di Marrakech dan Fes menjadi Warisan Dunia UNESCO"
+    ],
+    "history": [
+      "1956: Kemerdekaan dari Prancis",
+      "1957: Kerajaan didirikan",
+      "788: Dinasti Idrisiyah didirikan sebagai negara Maroko pertama",
+      "1912: Menjadi protektorat Prancis dan Spanyol"
+    ],
+    "images": [
+      "assets/images/morocco.jpg"
+    ],
+    "population": 37500000,
+    "area": 446550
+  },
+  {
+    "id": "ch",
+    "name": "Switzerland",
+    "officialName": "Swiss Confederation",
+    "capital": "Bern",
+    "continent": "Eropa",
+    "currency": "Franc Swiss",
+    "languages": [
+      "Jerman",
+      "Prancis",
+      "Italia",
+      "Romansh"
+    ],
+    "description": "Swiss adalah negara terkurung daratan di Eropa Tengah yang terkenal dengan Pegunungan Alpen, netralitas, dan layanan keuangan.",
+    "facts": [
+      "Salah satu negara terkaya di dunia",
+      "Terkenal dengan jam tangan dan cokelat Swiss",
+      "Memiliki empat bahasa resmi",
+      "Memiliki kebijakan netralitas yang diakui secara internasional sejak 1815"
+    ],
+    "history": [
+      "1291: Piagam Federal ditandatangani",
+      "1848: Negara Swiss modern didirikan",
+      "1499: Kemerdekaan de facto dari Kekaisaran Romawi Suci",
+      "1815: Netralitas permanen diakui dalam Kongres Wina"
+    ],
+    "images": [
+      "assets/images/switzerland.jpg"
+    ],
+    "population": 8700000,
+    "area": 41285
+  },
+  {
+    "id": "no",
+    "name": "Norway",
+    "officialName": "Kingdom of Norway",
+    "capital": "Oslo",
+    "continent": "Eropa",
+    "currency": "Krone Norwegia",
+    "languages": [
+      "Norwegia"
+    ],
+    "description": "Norwegia adalah negara Skandinavia yang terkenal dengan fjord, cahaya utara, dan negara kesejahteraan yang kuat.",
+    "facts": [
+      "Terkenal dengan fjord yang dramatis",
+      "Salah satu negara paling bahagia di dunia",
+      "Produsen minyak dan gas utama",
+      "Memiliki dana kekayaan negara terbesar di dunia dari hasil minyak"
+    ],
+    "history": [
+      "872: Bersatu sebagai kerajaan",
+      "1905: Kemerdekaan dari Swedia",
+      "1814: Persatuan dengan Swedia dimulai",
+      "1940-1945: Pendudukan Jerman pada Perang Dunia II"
+    ],
+    "images": [
+      "assets/images/norway.jpg"
+    ],
+    "population": 5400000,
+    "area": 385207
+  },
+  {
+    "id": "gr",
+    "name": "Greece",
+    "officialName": "Hellenic Republic",
+    "capital": "Athens",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Yunani"
+    ],
+    "description": "Yunani adalah negara di Eropa Tenggara yang dikenal sebagai tempat lahirnya demokrasi, filsafat, dan peradaban Barat. Negeri ini memiliki ribuan pulau, situs arkeologi kuno, serta tradisi kuliner yang kaya.",
+    "facts": [
+      "Tempat lahirnya demokrasi dan filsafat Barat",
+      "Memiliki ribuan pulau, sekitar 227 di antaranya berpenghuni",
+      "Situs arkeologi seperti Acropolis dan Parthenon",
+      "Kuliner khas seperti moussaka dan souvlaki"
+    ],
+    "history": [
+      "Abad ke-8 SM: Munculnya polis-polis Yunani kuno",
+      "146 SM: Ditaklukkan oleh Kekaisaran Romawi",
+      "1821: Perang Kemerdekaan Yunani melawan Ottoman",
+      "1981: Bergabung dengan Masyarakat Ekonomi Eropa"
+    ],
+    "images": [
+      "assets/images/greece.jpg"
+    ],
+    "population": 10420000,
+    "area": 131957
+  },
+  {
+    "id": "pl",
+    "name": "Poland",
+    "officialName": "Republic of Poland",
+    "capital": "Warsaw",
+    "continent": "Eropa",
+    "currency": "Zloty Polandia",
+    "languages": [
+      "Polandia"
+    ],
+    "description": "Polandia adalah negara di Eropa Tengah dengan sejarah panjang, arsitektur abad pertengahan, dan ketahanan budaya yang kuat. Negara ini mengalami rekonstruksi besar setelah Perang Dunia II dan kini menjadi salah satu ekonomi utama Eropa.",
+    "facts": [
+      "Rumah bagi Kastil Wawel dan Kota Tua Warsawa",
+      "Komposer terkenal Frédéric Chopin lahir di sini",
+      "Memiliki tambang garam Wieliczka yang bersejarah",
+      "Salah satu negara paling religius di Eropa"
+    ],
+    "history": [
+      "966: Adopsi Kekristenan oleh Mieszko I",
+      "1795: Polandia terbagi oleh Rusia, Prusia, dan Austria",
+      "1918: Kemerdekaan setelah Perang Dunia I",
+      "1989: Runtuhnya rezim komunis"
+    ],
+    "images": [
+      "assets/images/poland.jpg"
+    ],
+    "population": 38100000,
+    "area": 312696
+  },
+  {
+    "id": "at",
+    "name": "Austria",
+    "officialName": "Republic of Austria",
+    "capital": "Vienna",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Jerman"
+    ],
+    "description": "Austria adalah negara terkurung daratan di Eropa Tengah yang terkenal dengan pegunungan Alpen, musik klasik, dan istana-istana megah. Vienna, ibu kotanya, menjadi pusat budaya dan politik Eropa selama berabad-abad.",
+    "facts": [
+      "Kota Wina terkenal dengan musik klasik Mozart dan Strauss",
+      "Rumah bagi Istana Schönbrunn",
+      "Pegunungan Alpen mendominasi dua pertiga wilayahnya",
+      "Salah satu negara terkaya di Eropa"
+    ],
+    "history": [
+      "1278: Dinasti Habsburg mulai berkuasa",
+      "1867: Kekaisaran Austria-Hungaria terbentuk",
+      "1918: Republik Austria didirikan",
+      "1955: Mendeklarasikan netralitas permanen"
+    ],
+    "images": [
+      "assets/images/austria.jpg"
+    ],
+    "population": 9000000,
+    "area": 83879
+  },
+  {
+    "id": "be",
+    "name": "Belgium",
+    "officialName": "Kingdom of Belgium",
+    "capital": "Brussels",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Belanda",
+      "Prancis",
+      "Jerman"
+    ],
+    "description": "Belgia adalah negara kecil di Eropa Barat yang menjadi pusat institusi Uni Eropa dan NATO. Negara ini dikenal dengan cokelat, bir, kentang goreng, serta arsitektur abad pertengahan di kota-kota seperti Bruges dan Ghent.",
+    "facts": [
+      "Pusat institusi Uni Eropa dan NATO",
+      "Terkenal dengan cokelat, bir, dan kentang goreng",
+      "Memiliki tiga bahasa resmi",
+      "Kota Bruges dijuluki Venesia dari Utara"
+    ],
+    "history": [
+      "1830: Deklarasi kemerdekaan dari Belanda",
+      "1908: Aneksasi Kongo sebagai koloni",
+      "1914-1918: Medan perang utama Perang Dunia I",
+      "1957: Pendiri Masyarakat Ekonomi Eropa"
+    ],
+    "images": [
+      "assets/images/belgium.jpg"
+    ],
+    "population": 11600000,
+    "area": 30689
+  },
+  {
+    "id": "dk",
+    "name": "Denmark",
+    "officialName": "Kingdom of Denmark",
+    "capital": "Copenhagen",
+    "continent": "Eropa",
+    "currency": "Krone Denmark",
+    "languages": [
+      "Denmark"
+    ],
+    "description": "Denmark adalah negara Skandinavia yang terdiri dari semenanjung Jutland dan banyak pulau. Negara ini dikenal dengan konsep hygge, desain modern, sepeda, dan tingkat kebahagiaan yang tinggi.",
+    "facts": [
+      "Salah satu negara paling bahagia di dunia",
+      "Konsep hidup hygge berasal dari Denmark",
+      "Kopenhagen adalah kota paling ramah sepeda",
+      "Rumah bagi merek LEGO"
+    ],
+    "history": [
+      "Abad ke-10: Kristen diperkenalkan oleh Harald Bluetooth",
+      "1397: Uni Kalmar dengan Swedia dan Norwegia",
+      "1849: Menjadi monarki konstitusional",
+      "1973: Bergabung dengan Masyarakat Ekonomi Eropa"
+    ],
+    "images": [
+      "assets/images/denmark.jpg"
+    ],
+    "population": 5900000,
+    "area": 42933
+  },
+  {
+    "id": "fi",
+    "name": "Finland",
+    "officialName": "Republic of Finland",
+    "capital": "Helsinki",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Finlandia",
+      "Swedia"
+    ],
+    "description": "Finlandia adalah negara Nordik di Eropa Utara yang terkenal dengan sistem pendidikannya yang unggul, sauna, dan fenomena alam seperti aurora borealis. Hutan dan danau mendominasi bentang alamnya.",
+    "facts": [
+      "Sistem pendidikan terbaik di dunia",
+      "Rumah bagi ribuan danau dan hutan",
+      "Sauna adalah bagian penting budaya Finlandia",
+      "Fenomena aurora borealis di Lapland"
+    ],
+    "history": [
+      "1809: Menjadi bagian dari Kekaisaran Rusia",
+      "1917: Deklarasi kemerdekaan dari Rusia",
+      "1939-1940: Perang Musim Dingin melawan Soviet",
+      "1995: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/finland.jpg"
+    ],
+    "population": 5500000,
+    "area": 338424
+  },
+  {
+    "id": "ie",
+    "name": "Ireland",
+    "officialName": "Republic of Ireland",
+    "capital": "Dublin",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Inggris",
+      "Irlandia"
+    ],
+    "description": "Irlandia adalah negara pulau di Eropa Barat yang terkenal dengan pemandangan hijau, pub tradisional, sastra, dan musik rakyat. Negara ini memiliki sejarah panjang perjuangan kemerdekaan dari Britania Raya.",
+    "facts": [
+      "Dijuluki Emerald Isle karena padang rumput hijaunya",
+      "Rumah bagi penulis terkenal seperti James Joyce",
+      "Pub dan musik tradisional sangat kental",
+      "Salah satu ekonomi teknologi terbesar di Eropa"
+    ],
+    "history": [
+      "1922: Kemerdekaan dari Britania Raya",
+      "1937: Konstitusi Irlandia diadopsi",
+      "1949: Resmi menjadi republik",
+      "1973: Bergabung dengan Masyarakat Ekonomi Eropa"
+    ],
+    "images": [
+      "assets/images/ireland.jpg"
+    ],
+    "population": 5000000,
+    "area": 70273
+  },
+  {
+    "id": "cz",
+    "name": "Czech Republic",
+    "officialName": "Czech Republic",
+    "capital": "Prague",
+    "continent": "Eropa",
+    "currency": "Koruna Ceko",
+    "languages": [
+      "Ceko"
+    ],
+    "description": "Republik Ceko adalah negara terkurung daratan di Eropa Tengah yang terkenal dengan arsitektur gothic dan barok, kastil, serta tradisi bir. Praha, ibu kotanya, menjadi tujuan wisata utama Eropa.",
+    "facts": [
+      "Praha dijuluki Kota Seratus Menara",
+      "Kastil Praha adalah kastil kuno terbesar di dunia",
+      "Konsumsi bir per kapita tertinggi di dunia",
+      "Rumah bagi penulis Franz Kafka"
+    ],
+    "history": [
+      "1918: Cekoslowakia merdeka dari Austria-Hungaria",
+      "1968: Musim Semi Praha",
+      "1989: Revolusi Beludru",
+      "1993: Republik Ceko berdiri setelah pemisahan Cekoslowakia"
+    ],
+    "images": [
+      "assets/images/czech-republic.jpg"
+    ],
+    "population": 10700000,
+    "area": 78867
+  },
+  {
+    "id": "ro",
+    "name": "Romania",
+    "officialName": "Romania",
+    "capital": "Bucharest",
+    "continent": "Eropa",
+    "currency": "Leu Rumania",
+    "languages": [
+      "Rumania"
+    ],
+    "description": "Rumania adalah negara di Eropa Tenggara yang terkenal dengan kawasan Transylvania, kastil abad pertengahan, dan Pegunungan Carpathian. Negara ini memiliki budaya campuran Latin dan Balkan yang unik.",
+    "facts": [
+      "Transylvania terkenal dengan legenda Dracula",
+      "Kastil Bran dan Peles adalah tujuan wisata populer",
+      "Pegunungan Carpathian membentang di tengah negara",
+      "Salah satu negara penghasil anggur terbesar di Eropa"
+    ],
+    "history": [
+      "1877: Kemerdekaan dari Kekaisaran Ottoman",
+      "1918: Penyatuan wilayah Rumania",
+      "1947: Rezim komunis dimulai",
+      "1989: Revolusi Rumania menjatuhkan Ceausescu"
+    ],
+    "images": [
+      "assets/images/romania.jpg"
+    ],
+    "population": 19000000,
+    "area": 238397
+  },
+  {
+    "id": "hu",
+    "name": "Hungary",
+    "officialName": "Hungary",
+    "capital": "Budapest",
+    "continent": "Eropa",
+    "currency": "Forint Hungaria",
+    "languages": [
+      "Hungaria"
+    ],
+    "description": "Hungaria adalah negara terkurung daratan di Eropa Tengah yang terkenal dengan ibu kotanya Budapest, pemandian air panas, serta warisan budaya Magyar. Sungai Danube membelah Budapest menjadi dua sisi yang indah.",
+    "facts": [
+      "Budapest dikenal dengan Gedung Parlemen dan Jembatan Rantai",
+      "Memiliki banyak pemandian air panas alami",
+      "Bahasa Hungaria termasuk rumpun Finno-Ugrik yang unik",
+      "Paprika adalah bumbu khas Hungaria"
+    ],
+    "history": [
+      "896: Bangsa Magyar menetap di Cekungan Carpathian",
+      "1867: Kompromi Austria-Hungaria",
+      "1918: Kerajaan Hungaria runtuh setelah Perang Dunia I",
+      "1989: Transisi menuju demokrasi"
+    ],
+    "images": [
+      "assets/images/hungary.jpg"
+    ],
+    "population": 9700000,
+    "area": 93028
+  },
+  {
+    "id": "bd",
+    "name": "Bangladesh",
+    "officialName": "People's Republic of Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "currency": "Taka Bangladesh",
+    "languages": [
+      "Bengali"
+    ],
+    "description": "Bangladesh adalah negara di Asia Selatan yang terletak di delta Sungai Gangga-Brahmaputra. Negara ini memiliki kepadatan penduduk tinggi, industri tekstil yang besar, serta keindahan alam seperti hutan bakau Sundarbans.",
+    "facts": [
+      "Salah satu negara dengan kepadatan penduduk tertinggi di dunia",
+      "Hutan bakau Sundarbans adalah habitat harimau Benggala",
+      "Industri tekstil adalah penopang utama ekonomi",
+      "Sungai Gangga dan Brahmaputra membentuk delta terbesar di dunia"
+    ],
+    "history": [
+      "1947: Menjadi Pakistan Timur",
+      "1971: Perang Kemerdekaan Bangladesh",
+      "1972: Konstitusi diadopsi",
+      "1991: Kembali ke sistem demokrasi parlementer"
+    ],
+    "images": [
+      "assets/images/bangladesh.jpg"
+    ],
+    "population": 169300000,
+    "area": 147570
+  },
+  {
+    "id": "ir",
+    "name": "Iran",
+    "officialName": "Islamic Republic of Iran",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "currency": "Rial Iran",
+    "languages": [
+      "Persia"
+    ],
+    "description": "Iran adalah negara di Asia Barat yang memiliki sejarah panjang sebagai pusat peradaban Persia kuno. Negara ini kaya akan arsitektur Islam, seni kaligrafi, dan cadangan minyak yang besar.",
+    "facts": [
+      "Rumah bagi peradaban Persia kuno",
+      "Arsitektur Islam yang megah seperti Masjid Nasir al-Mulk",
+      "Salah satu cadangan minyak terbesar dunia",
+      "Karpet Persia terkenal di seluruh dunia"
+    ],
+    "history": [
+      "550 SM: Kekaisaran Achaemenid didirikan oleh Cyrus Agung",
+      "1935: Nama Persia diganti menjadi Iran",
+      "1979: Revolusi Islam",
+      "1980-1988: Perang Iran-Irak"
+    ],
+    "images": [
+      "assets/images/iran.jpg"
+    ],
+    "population": 87920000,
+    "area": 1648195
+  },
+  {
+    "id": "iq",
+    "name": "Iraq",
+    "officialName": "Republic of Iraq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "currency": "Dinar Irak",
+    "languages": [
+      "Arab",
+      "Kurdi"
+    ],
+    "description": "Irak adalah negara di Asia Barat yang dikenal sebagai tempat lahirnya peradaban Mesopotamia kuno. Sungai Tigris dan Efrat mengalir melalui wilayah ini, yang juga kaya akan minyak.",
+    "facts": [
+      "Tempat lahirnya peradaban Mesopotamia",
+      "Sungai Tigris dan Efrat melintasi negara ini",
+      "Cadangan minyak terbesar kelima di dunia",
+      "Baghdad pernah menjadi pusat ilmu pengetahuan dunia"
+    ],
+    "history": [
+      "539 SM: Ditaklukkan oleh Kekaisaran Persia",
+      "1920: Mandat Britania atas Mesopotamia",
+      "1958: Kerajaan Irak digulingkan",
+      "2003: Invasi pimpinan Amerika Serikat"
+    ],
+    "images": [
+      "assets/images/iraq.jpg"
+    ],
+    "population": 41190000,
+    "area": 438317
+  },
+  {
+    "id": "il",
+    "name": "Israel",
+    "officialName": "State of Israel",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "currency": "Shekel Israel",
+    "languages": [
+      "Ibrani",
+      "Arab"
+    ],
+    "description": "Israel adalah negara di Timur Tengah yang memiliki signifikansi religius besar bagi Yahudi, Kristen, dan Islam. Negara ini dikenal dengan teknologi tinggi, kota tua Yerusalem, dan Laut Mati.",
+    "facts": [
+      "Kota Tua Yerusalem adalah situs suci tiga agama",
+      "Laut Mati adalah titik terendah di bumi",
+      "Pusat teknologi dan startup dunia",
+      "Bahasa Ibrani dihidupkan kembali sebagai bahasa nasional"
+    ],
+    "history": [
+      "1948: Deklarasi kemerdekaan Israel",
+      "1967: Perang Enam Hari",
+      "1979: Perjanjian damai dengan Mesir",
+      "1993: Perjanjian Oslo"
+    ],
+    "images": [
+      "assets/images/israel.jpg"
+    ],
+    "population": 9500000,
+    "area": 22072
+  },
+  {
+    "id": "jo",
+    "name": "Jordan",
+    "officialName": "Hashemite Kingdom of Jordan",
+    "capital": "Amman",
+    "continent": "Asia",
+    "currency": "Dinar Yordania",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Yordania adalah negara di Asia Barat yang terkenal dengan situs kuno Petra, Laut Mati, dan padang pasir Wadi Rum. Negara ini relatif stabil di kawasan yang bergejolak.",
+    "facts": [
+      "Petra adalah salah satu keajaiban dunia kuno",
+      "Laut Mati berada di perbatasan baratnya",
+      "Wadi Rum dijuluki Lembah Bulan",
+      "Salah satu negara paling aman di Timur Tengah"
+    ],
+    "history": [
+      "1946: Kemerdekaan dari Britania Raya",
+      "1952: Konstitusi kerajaan modern",
+      "1994: Perjanjian damai dengan Israel",
+      "2011: Demonstrasi reformasi politik"
+    ],
+    "images": [
+      "assets/images/jordan.jpg"
+    ],
+    "population": 10300000,
+    "area": 89342
+  },
+  {
+    "id": "lb",
+    "name": "Lebanon",
+    "officialName": "Lebanese Republic",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "currency": "Pound Lebanon",
+    "languages": [
+      "Arab",
+      "Prancis"
+    ],
+    "description": "Lebanon adalah negara kecil di pesisir Timur Tengah yang dikenal dengan keanekaragaman agama, kuliner, dan sejarah perdagangan. Beirut pernah dijuluki Paris dari Timur.",
+    "facts": [
+      "Memiliki 18 sekte agama yang diakui",
+      "Kuliner seperti hummus dan tabbouleh populer",
+      "Beirut dijuluki Paris dari Timur",
+      "Hutan Cedar Lebanon adalah simbol negara"
+    ],
+    "history": [
+      "1943: Kemerdekaan dari Prancis",
+      "1975-1990: Perang Saudara Lebanon",
+      "2005: Revolusi Cedar",
+      "2020: Ledakan besar di pelabuhan Beirut"
+    ],
+    "images": [
+      "assets/images/lebanon.jpg"
+    ],
+    "population": 6800000,
+    "area": 10452
+  },
+  {
+    "id": "my",
+    "name": "Malaysia",
+    "officialName": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "currency": "Ringgit Malaysia",
+    "languages": [
+      "Melayu"
+    ],
+    "description": "Malaysia adalah negara di Asia Tenggara yang terbagi menjadi dua bagian: Semenanjung Malaya dan Malaysia Timur di Borneo. Negara ini multikultural dengan pengaruh Melayu, Tionghoa, dan India.",
+    "facts": [
+      "Menara Kembar Petronas adalah ikon Kuala Lumpur",
+      "Pulau Borneo menjadi rumah bagi hutan hujan tropis",
+      "Masyarakat multikultural yang harmonis",
+      "Terkenal dengan makanan seperti nasi lemak"
+    ],
+    "history": [
+      "1957: Kemerdekaan dari Britania Raya",
+      "1963: Pembentukan Federasi Malaysia",
+      "1965: Singapura keluar dari federasi",
+      "1998: Krisis keuangan Asia"
+    ],
+    "images": [
+      "assets/images/malaysia.jpg"
+    ],
+    "population": 33900000,
+    "area": 330803
+  },
+  {
+    "id": "mm",
+    "name": "Myanmar",
+    "officialName": "Republic of the Union of Myanmar",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "currency": "Kyat Myanmar",
+    "languages": [
+      "Myanmar"
+    ],
+    "description": "Myanmar adalah negara di Asia Tenggara yang kaya akan kuil Buddha, terutama di Bagan. Negara ini memiliki sejarah panjang kerajaan dan kini menghadapi tantangan politik.",
+    "facts": [
+      "Bagan memiliki ribuan kuil Buddha",
+      "Sungai Irrawaddy adalah jalur kehidupan utama",
+      "Pertanian adalah mata pencaharian utama",
+      "Salah satu negara paling etnis beragam di Asia"
+    ],
+    "history": [
+      "1044: Kerajaan Bagan didirikan",
+      "1885: Dicaplok Britania Raya",
+      "1948: Kemerdekaan dari Britania",
+      "2021: Kudeta militer"
+    ],
+    "images": [
+      "assets/images/myanmar.jpg"
+    ],
+    "population": 54100000,
+    "area": 676578
+  },
+  {
+    "id": "np",
+    "name": "Nepal",
+    "officialName": "Federal Democratic Republic of Nepal",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "currency": "Rupee Nepal",
+    "languages": [
+      "Nepali"
+    ],
+    "description": "Nepal adalah negara terkurung daratan di Asia Selatan yang terletak di Pegunungan Himalaya. Negara ini terkenal dengan Gunung Everest, puncak tertinggi di dunia, serta budaya Hindu dan Buddha.",
+    "facts": [
+      "Gunung Everest adalah puncak tertinggi di dunia",
+      "Tempat kelahiran Buddha di Lumbini",
+      "Delapan dari sepuluh gunung tertinggi berada di Nepal",
+      "Bendera nasional bukan persegi panjang"
+    ],
+    "history": [
+      "1768: Kerajaan Nepal dipersatukan",
+      "1846: Dinasti Rana berkuasa",
+      "1996-2006: Perang Saudara",
+      "2008: Nepal menjadi republik federal"
+    ],
+    "images": [
+      "assets/images/nepal.jpg"
+    ],
+    "population": 29160000,
+    "area": 147516
+  },
+  {
+    "id": "lk",
+    "name": "Sri Lanka",
+    "officialName": "Democratic Socialist Republic of Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "continent": "Asia",
+    "currency": "Rupee Sri Lanka",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "description": "Sri Lanka adalah negara pulau di Asia Selatan yang terkenal dengan pantai, perkebunan teh, dan warisan budaya Buddha. Negara ini memiliki keanekaragaman alam yang kaya.",
+    "facts": [
+      "Salah satu produsen teh terbesar di dunia",
+      "Kuil Gigi di Kandy adalah situs suci Buddha",
+      "Pantai selatan terkenal untuk selancar",
+      "Memiliki hutan hujan Sinharaja yang dilindungi"
+    ],
+    "history": [
+      "1948: Kemerdekaan dari Britania Raya",
+      "1972: Menjadi republik",
+      "1983-2009: Perang Saudara Sri Lanka",
+      "2004: Tsunami Samudra Hindia"
+    ],
+    "images": [
+      "assets/images/sri-lanka.jpg"
+    ],
+    "population": 21800000,
+    "area": 65610
+  },
+  {
+    "id": "tw",
+    "name": "Taiwan",
+    "officialName": "Republic of China (Taiwan)",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "currency": "Dolar Taiwan",
+    "languages": [
+      "Mandarin"
+    ],
+    "description": "Taiwan adalah pulau di Asia Timur yang memiliki sistem politik mandiri. Negara ini terkenal dengan teknologi semikonduktor, makanan jalanan, dan pemandangan alam seperti Taroko Gorge.",
+    "facts": [
+      "Produsen semikonduktor terbesar di dunia",
+      "Pasar malam dengan makanan jalanan terkenal",
+      "Taroko Gorge adalah ngarai marmer yang indah",
+      "Memiliki salah satu gedung tertinggi di dunia (Taipei 101)"
+    ],
+    "history": [
+      "1945: Berakhirnya kekuasaan Jepang",
+      "1949: Pemerintah Republik Tiongkok pindah ke Taiwan",
+      "1987: Pencabutan darurat militer",
+      "1996: Pemilihan presiden langsung pertama"
+    ],
+    "images": [
+      "assets/images/taiwan.jpg"
+    ],
+    "population": 23570000,
+    "area": 36193
+  },
+  {
+    "id": "uz",
+    "name": "Uzbekistan",
+    "officialName": "Republic of Uzbekistan",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "currency": "Som Uzbekistan",
+    "languages": [
+      "Uzbek"
+    ],
+    "description": "Uzbekistan adalah negara terkurung daratan di Asia Tengah yang kaya akan warisan Jalur Sutra. Kota-kota seperti Samarkand dan Bukhara memiliki arsitektur Islam yang megah.",
+    "facts": [
+      "Samarkand adalah situs Warisan Dunia UNESCO",
+      "Terletak di Jalur Sutra kuno",
+      "Bukhara memiliki sejarah lebih dari 2.500 tahun",
+      "Salah satu produsen kapas terbesar dunia"
+    ],
+    "history": [
+      "Abad ke-14: Samarkand menjadi ibu kota Timur Lenk",
+      "1860an: Dicaplok Kekaisaran Rusia",
+      "1924: Republik Sosialis Soviet Uzbekistan",
+      "1991: Kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/uzbekistan.jpg"
+    ],
+    "population": 34900000,
+    "area": 448978
+  },
+  {
+    "id": "bg",
+    "name": "Bulgaria",
+    "officialName": "Republic of Bulgaria",
+    "capital": "Sofia",
+    "continent": "Eropa",
+    "currency": "Lev Bulgaria",
+    "languages": [
+      "Bulgaria"
+    ],
+    "description": "Bulgaria adalah negara di Eropa Tenggara yang terletak di Semenanjung Balkan. Negara ini dikenal dengan pantai Laut Hitam, pegunungan, dan warisan budaya Thracian, Romawi, serta Bizantium.",
+    "facts": [
+      "Salah satu negara tertua di Eropa",
+      "Pantai Laut Hitam dengan resor seperti Sunny Beach",
+      "Biara Rila adalah situs Warisan Dunia",
+      "Mawar Bulgaria dipakai untuk minyak mawar"
+    ],
+    "history": [
+      "681: Kekaisaran Bulgaria Pertama didirikan",
+      "1396: Jatuh ke Kekaisaran Ottoman",
+      "1878: Kemerdekaan dari Ottoman",
+      "2007: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/bulgaria.jpg"
+    ],
+    "population": 6900000,
+    "area": 110879
+  },
+  {
+    "id": "hr",
+    "name": "Croatia",
+    "officialName": "Republic of Croatia",
+    "capital": "Zagreb",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Kroasia"
+    ],
+    "description": "Kroasia adalah negara di Eropa Tenggara yang memiliki garis pantai Adriatik yang indah dengan banyak pulau. Kota Dubrovnik dan Split menjadi tujuan wisata populer.",
+    "facts": [
+      "Dubrovnik dijuluki Mutiara Adriatik",
+      "Memiliki lebih dari 1.200 pulau",
+      "Taman Nasional Plitvice terkenal dengan air terjunnya",
+      "Salah satu tujuan wisata terpopuler di Eropa"
+    ],
+    "history": [
+      "1991: Mendeklarasikan kemerdekaan dari Yugoslavia",
+      "1991-1995: Perang Kemerdekaan Kroasia",
+      "2013: Bergabung dengan Uni Eropa",
+      "2023: Mengadopsi euro"
+    ],
+    "images": [
+      "assets/images/croatia.jpg"
+    ],
+    "population": 3900000,
+    "area": 56594
+  },
+  {
+    "id": "sk",
+    "name": "Slovakia",
+    "officialName": "Slovak Republic",
+    "capital": "Bratislava",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Slovakia"
+    ],
+    "description": "Slovakia adalah negara terkurung daratan di Eropa Tengah yang terkenal dengan pegunungan Carpathian, kastil abad pertengahan, dan tradisi rakyat yang kaya.",
+    "facts": [
+      "Kastil Spis adalah salah satu kastil terbesar di Eropa",
+      "Pegunungan Tatra populer untuk hiking dan ski",
+      "Bratislava berbatasan dengan Austria dan Hungaria",
+      "Salah satu produsen mobil per kapita terbesar di dunia"
+    ],
+    "history": [
+      "1918: Cekoslowakia merdeka",
+      "1945: Bergabung dengan blok Soviet",
+      "1989: Revolusi Beludru",
+      "1993: Slovakia menjadi negara merdeka setelah pemisahan Cekoslowakia"
+    ],
+    "images": [
+      "assets/images/slovakia.jpg"
+    ],
+    "population": 5400000,
+    "area": 49035
+  },
+  {
+    "id": "si",
+    "name": "Slovenia",
+    "officialName": "Republic of Slovenia",
+    "capital": "Ljubljana",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Slovenia"
+    ],
+    "description": "Slovenia adalah negara kecil di Eropa Tengah yang terkenal dengan keindahan alam alpen, danau Bled, serta gua Postojna. Negara ini merupakan salah satu yang paling hijau di Eropa.",
+    "facts": [
+      "Danau Bled dengan pulau gereja ikonik",
+      "Gua Postojna adalah gua karst terpanjang",
+      "Lebih dari setengah wilayahnya hutan",
+      "Salah satu negara paling hijau di Eropa"
+    ],
+    "history": [
+      "1991: Mendeklarasikan kemerdekaan dari Yugoslavia",
+      "1991: Perang Sepuluh Hari",
+      "2004: Bergabung dengan Uni Eropa",
+      "2007: Mengadopsi euro"
+    ],
+    "images": [
+      "assets/images/slovenia.jpg"
+    ],
+    "population": 2100000,
+    "area": 20273
+  },
+  {
+    "id": "ua",
+    "name": "Ukraine",
+    "officialName": "Ukraine",
+    "capital": "Kyiv",
+    "continent": "Eropa",
+    "currency": "Hryvnia Ukraina",
+    "languages": [
+      "Ukraina"
+    ],
+    "description": "Ukraina adalah negara terbesar kedua di Eropa setelah Rusia. Negara ini terkenal dengan tanah subur, katedral ortodoks, dan sejarah panjang sebagai pusat peradaban Slavia Timur.",
+    "facts": [
+      "Salah satu lumbung pangan dunia (tanah hitam subur)",
+      "Katedral Saint Sophia di Kyiv adalah situs Warisan Dunia",
+      "Sungai Dnieper membelah negara",
+      "Pusat budaya Slavia Timur"
+    ],
+    "history": [
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2004: Revolusi Oranye",
+      "2013-2014: Revolusi Euromaidan",
+      "2022: Invasi Rusia ke Ukraina"
+    ],
+    "images": [
+      "assets/images/ukraine.jpg"
+    ],
+    "population": 41100000,
+    "area": 603500
+  },
+  {
+    "id": "rs",
+    "name": "Serbia",
+    "officialName": "Republic of Serbia",
+    "capital": "Belgrade",
+    "continent": "Eropa",
+    "currency": "Dinar Serbia",
+    "languages": [
+      "Serbia"
+    ],
+    "description": "Serbia adalah negara di Balkan yang kaya akan sejarah, dari Kekaisaran Romawi hingga Yugoslavia. Belgrade, ibu kotanya, terletak di pertemuan Sungai Sava dan Danube.",
+    "facts": [
+      "Belgrade adalah salah satu kota tertua di Eropa",
+      "Sungai Sava dan Danube bertemu di Belgrade",
+      "Memiliki banyak biara Ortodoks abad pertengahan",
+      "Budaya musik dan festival yang hidup"
+    ],
+    "history": [
+      "1878: Kemerdekaan dari Kekaisaran Ottoman",
+      "1918: Bagian dari Kerajaan Yugoslavia",
+      "1992: Serbia dan Montenegro membentuk Yugoslavia baru",
+      "2006: Serbia menjadi negara merdeka setelah Montenegro memisahkan diri"
+    ],
+    "images": [
+      "assets/images/serbia.jpg"
+    ],
+    "population": 6900000,
+    "area": 88361
+  },
+  {
+    "id": "is",
+    "name": "Iceland",
+    "officialName": "Republic of Iceland",
+    "capital": "Reykjavik",
+    "continent": "Eropa",
+    "currency": "Krona Islandia",
+    "languages": [
+      "Islandia"
+    ],
+    "description": "Islandia adalah negara pulau di Atlantik Utara yang terkenal dengan gunung berapi, gletser, geyser, dan aurora borealis. Alamnya yang dramatis menarik wisatawan dari seluruh dunia.",
+    "facts": [
+      "Salah satu lokasi terbaik melihat aurora borealis",
+      "Memiliki lebih dari 100 gunung berapi",
+      "Geyser asli bernama Geysir",
+      "Hampir seluruh listriknya dari energi terbarukan"
+    ],
+    "history": [
+      "874: Pemukiman pertama oleh bangsa Norse",
+      "930: Althing, parlemen tertua di dunia, didirikan",
+      "1944: Kemerdekaan dari Denmark",
+      "2008: Krisis keuangan besar"
+    ],
+    "images": [
+      "assets/images/iceland.jpg"
+    ],
+    "population": 370000,
+    "area": 103000
+  },
+  {
+    "id": "lt",
+    "name": "Lithuania",
+    "officialName": "Republic of Lithuania",
+    "capital": "Vilnius",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Lithuania"
+    ],
+    "description": "Lithuania adalah negara Baltik di Eropa Utara yang memiliki sejarah panjang sebagai kadipaten besar. Vilnius terkenal dengan kota tuanya yang barok dan universitas bersejarah.",
+    "facts": [
+      "Vilnius adalah situs Warisan Dunia UNESCO",
+      "Salah satu bahasa Indo-Eropa tertua yang masih dipakai",
+      "Negara Baltik pertama yang merdeka dari Uni Soviet",
+      "Tradisi menyanyi dan festival lagu rakyat"
+    ],
+    "history": [
+      "1253: Kerajaan Lithuania didirikan",
+      "1795: Dicaplok Kekaisaran Rusia",
+      "1918: Kemerdekaan dari Rusia",
+      "1990: Mendeklarasikan kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/lithuania.jpg"
+    ],
+    "population": 2800000,
+    "area": 65300
+  },
+  {
+    "id": "af",
+    "name": "Afghanistan",
+    "officialName": "Islamic Emirate of Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "currency": "Afghani",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "description": "Afghanistan adalah negara terkurung daratan di Asia Selatan yang memiliki sejarah panjang sebagai persimpangan budaya dan perdagangan. Negara ini kaya akan tradisi, tetapi juga menghadapi konflik berkepanjangan.",
+    "facts": [
+      "Terletak di persimpangan Asia Tengah dan Selatan",
+      "Kota kuno Balkh pernah menjadi pusat peradaban",
+      "Permadani Afghanistan terkenal di dunia",
+      "Salah satu negara paling pegunungan di Asia"
+    ],
+    "history": [
+      "1747: Kekaisaran Durrani didirikan",
+      "1919: Kemerdekaan penuh dari pengaruh Britania",
+      "1979: Invasi Soviet",
+      "2021: Taliban kembali berkuasa"
+    ],
+    "images": [
+      "assets/images/afghanistan.jpg"
+    ],
+    "population": 40120000,
+    "area": 652230
+  },
+  {
+    "id": "am",
+    "name": "Armenia",
+    "officialName": "Republic of Armenia",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "currency": "Dram Armenia",
+    "languages": [
+      "Armenia"
+    ],
+    "description": "Armenia adalah negara terkurung daratan di Kaukasus Selatan yang terkenal sebagai salah satu negara Kristen tertua di dunia. Yerevan, ibu kotanya, adalah salah satu kota tertua yang terus dihuni.",
+    "facts": [
+      "Negara Kristen tertua di dunia",
+      "Gunung Ararat adalah simbol nasional",
+      "Yerevan berusia lebih dari 2.800 tahun",
+      "Kuil Garni adalah peninggalan pra-Kristen"
+    ],
+    "history": [
+      "301 M: Armenia menjadi negara Kristen pertama",
+      "1915: Genosida Armenia",
+      "1920: Bagian dari Uni Soviet",
+      "1991: Kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/armenia.jpg"
+    ],
+    "population": 2960000,
+    "area": 29743
+  },
+  {
+    "id": "az",
+    "name": "Azerbaijan",
+    "officialName": "Republic of Azerbaijan",
+    "capital": "Baku",
+    "continent": "Asia",
+    "currency": "Manat Azerbaijan",
+    "languages": [
+      "Azerbaijan"
+    ],
+    "description": "Azerbaijan adalah negara di Kaukasus yang kaya akan minyak dan gas. Negara ini memiliki warisan budaya Persia, Turki, dan Rusia, serta arsitektur modern di ibu kotanya Baku.",
+    "facts": [
+      "Salah satu produsen minyak pertama di dunia",
+      "Baku memiliki arsitektur futuristik seperti Flame Towers",
+      "Memiliki bahasa yang mirip dengan Turki",
+      "Kaya akan situs warisan Jalur Sutra"
+    ],
+    "history": [
+      "1918: Republik Demokratik Azerbaijan didirikan",
+      "1920: Bergabung dengan Uni Soviet",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2020: Perang Nagorno-Karabakh kedua"
+    ],
+    "images": [
+      "assets/images/azerbaijan.jpg"
+    ],
+    "population": 10140000,
+    "area": 86600
+  },
+  {
+    "id": "ge",
+    "name": "Georgia",
+    "officialName": "Georgia",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "currency": "Lari Georgia",
+    "languages": [
+      "Georgia"
+    ],
+    "description": "Georgia adalah negara di persimpangan Eropa dan Asia yang terkenal dengan pegunungan Kaukasus, anggur, dan tradisi perhotelan. Tbilisi memiliki arsitektur kuno dan modern yang memikat.",
+    "facts": [
+      "Salah satu penghasil anggur tertua di dunia",
+      "Aksara Georgia unik dan kuno",
+      "Pegunungan Kaukasus yang dramatis",
+      "Masakan khas seperti khachapuri"
+    ],
+    "history": [
+      "Abad ke-4: Kristen menyebar di Georgia",
+      "1801: Dicaplok Kekaisaran Rusia",
+      "1918: Republik Demokratik Georgia",
+      "1991: Kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/georgia.jpg"
+    ],
+    "population": 3700000,
+    "area": 69700
+  },
+  {
+    "id": "kz",
+    "name": "Kazakhstan",
+    "officialName": "Republic of Kazakhstan",
+    "capital": "Astana",
+    "continent": "Asia",
+    "currency": "Tenge Kazakhstan",
+    "languages": [
+      "Kazakh",
+      "Rusia"
+    ],
+    "description": "Kazakhstan adalah negara terbesar kesembilan di dunia dan yang terbesar di Asia Tengah. Negara ini kaya akan sumber daya alam, terutama minyak, gas, dan mineral.",
+    "facts": [
+      "Negara terkurung daratan terbesar di dunia",
+      "Baikonur adalah pelabuhan antariksa Rusia",
+      "Kaya akan minyak, gas, dan uranium",
+      "Salah satu negara paling maju di Asia Tengah"
+    ],
+    "history": [
+      "1465: Kekhanan Kazakh didirikan",
+      "1860an: Dicaplok Kekaisaran Rusia",
+      "1936: Republik Soviet Kazakhstan",
+      "1991: Kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/kazakhstan.jpg"
+    ],
+    "population": 19000000,
+    "area": 2724900
+  },
+  {
+    "id": "kg",
+    "name": "Kyrgyzstan",
+    "officialName": "Kyrgyz Republic",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "currency": "Som Kyrgyzstan",
+    "languages": [
+      "Kyrgyz",
+      "Rusia"
+    ],
+    "description": "Kyrgyzstan adalah negara pegunungan di Asia Tengah yang didominasi oleh Pegunungan Tian Shan. Danau Issyk-Kul dan budaya nomaden menjadi daya tarik utama.",
+    "facts": [
+      "Lebih dari 90% wilayahnya pegunungan",
+      "Danau Issyk-Kul adalah danau pegunungan terbesar kedua di dunia",
+      "Budaya nomaden dan yurt masih hidup",
+      "Pegunungan Tian Shan adalah situs Warisan Dunia"
+    ],
+    "history": [
+      "1876: Dicaplok Kekaisaran Rusia",
+      "1936: Republik Soviet Kyrgyzstan",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2005 dan 2010: Revolusi politik"
+    ],
+    "images": [
+      "assets/images/kyrgyzstan.jpg"
+    ],
+    "population": 6600000,
+    "area": 199951
+  },
+  {
+    "id": "la",
+    "name": "Laos",
+    "officialName": "Lao People's Democratic Republic",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "currency": "Kip Laos",
+    "languages": [
+      "Lao"
+    ],
+    "description": "Laos adalah negara terkurung daratan di Asia Tenggara yang terkenal dengan pegunungan, kuil Buddha, dan Sungai Mekong. Negara ini memiliki suasana yang tenang dan alami.",
+    "facts": [
+      "Sungai Mekong adalah jalur kehidupan utama",
+      "Kuil Pha That Luang adalah ikon nasional",
+      "Salah satu negara paling jarang penduduknya di Asia",
+      "Pemandangan karst di Vang Vieng"
+    ],
+    "history": [
+      "1353: Kerajaan Lan Xang didirikan",
+      "1893: Menjadi protektorat Prancis",
+      "1953: Kemerdekaan dari Prancis",
+      "1975: Republik Demokratik Rakyat Laos didirikan"
+    ],
+    "images": [
+      "assets/images/laos.jpg"
+    ],
+    "population": 7400000,
+    "area": 236800
+  },
+  {
+    "id": "kh",
+    "name": "Cambodia",
+    "officialName": "Kingdom of Cambodia",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "currency": "Riel Kamboja",
+    "languages": [
+      "Khmer"
+    ],
+    "description": "Kamboja adalah negara di Asia Tenggara yang terkenal dengan kompleks kuil Angkor Wat, salah satu monumen keagamaan terbesar di dunia. Negara ini memiliki sejarah yang kaya dan tragis.",
+    "facts": [
+      "Angkor Wat adalah monumen keagamaan terbesar di dunia",
+      "Sungai Mekong dan Danau Tonle Sap",
+      "Tarian Apsara adalah warisan budaya",
+      "Salah satu negara paling cepat berkembang di Asia"
+    ],
+    "history": [
+      "Abad ke-9: Kekaisaran Khmer",
+      "1863: Protektorat Prancis",
+      "1953: Kemerdekaan dari Prancis",
+      "1975-1979: Rezim Khmer Merah"
+    ],
+    "images": [
+      "assets/images/cambodia.jpg"
+    ],
+    "population": 16700000,
+    "area": 181035
+  },
+  {
+    "id": "bn",
+    "name": "Brunei",
+    "officialName": "Nation of Brunei, the Abode of Peace",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "currency": "Dolar Brunei",
+    "languages": [
+      "Melayu"
+    ],
+    "description": "Brunei adalah negara kecil kaya minyak di pantai utara Borneo. Negara ini memiliki standar hidup tinggi dan dipimpin oleh seorang sultan dengan sistem monarki absolut.",
+    "facts": [
+      "Salah satu negara terkaya di dunia per kapita",
+      "Monarki absolut Islam",
+      "Masjid Omar Ali Saifuddien sangat megah",
+      "Tidak memiliki pajak penghasilan pribadi"
+    ],
+    "history": [
+      "Abad ke-14: Kerajaan Brunei didirikan",
+      "1888: Menjadi protektorat Britania",
+      "1984: Kemerdekaan dari Britania",
+      "1991: Melayu Islam Beraja diresmikan"
+    ],
+    "images": [
+      "assets/images/brunei.jpg"
+    ],
+    "population": 450000,
+    "area": 5765
+  },
+  {
+    "id": "tl",
+    "name": "Timor-Leste",
+    "officialName": "Democratic Republic of Timor-Leste",
+    "capital": "Dili",
+    "continent": "Asia",
+    "currency": "Dolar AS",
+    "languages": [
+      "Tetum",
+      "Portugis"
+    ],
+    "description": "Timor-Leste adalah negara kecil di Asia Tenggara yang memperoleh kemerdekaan pada abad ke-21. Negara ini memiliki pantai indah, terumbu karang, dan budaya campuran Melanesia-Portugis.",
+    "facts": [
+      "Salah satu negara termuda di dunia",
+      "Terumbu karang yang masih alami",
+      "Bahasa Portugis dan Tetum sebagai bahasa resmi",
+      "Pegunungan yang membentang di pulau Timor"
+    ],
+    "history": [
+      "1975: Mendeklarasikan kemerdekaan dari Portugal",
+      "1975-1999: Pendudukan Indonesia",
+      "1999: Referendum kemerdekaan",
+      "2002: Kemerdekaan penuh"
+    ],
+    "images": [
+      "assets/images/timor-leste.jpg"
+    ],
+    "population": 1300000,
+    "area": 14919
+  },
+  {
+    "id": "by",
+    "name": "Belarus",
+    "officialName": "Republic of Belarus",
+    "capital": "Minsk",
+    "continent": "Eropa",
+    "currency": "Rubel Belarus",
+    "languages": [
+      "Belarus",
+      "Rusia"
+    ],
+    "description": "Belarus adalah negara terkurung daratan di Eropa Timur yang dikenal dengan hutan lebat, danau, dan warisan Soviet. Minsk adalah kota modern dengan arsitektur Stalinis.",
+    "facts": [
+      "Salah satu negara dengan hutan pinus terluas di Eropa",
+      "Minsk memiliki arsitektur Stalinis yang megah",
+      "Danau dan rawa gambut yang luas",
+      "Salah satu negara paling datar di Eropa"
+    ],
+    "history": [
+      "1918: Republik Rakyat Belarus diproklamasikan",
+      "1922: Bagian dari Uni Soviet",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "1994: Alexander Lukashenko menjadi presiden"
+    ],
+    "images": [
+      "assets/images/belarus.jpg"
+    ],
+    "population": 9300000,
+    "area": 207600
+  },
+  {
+    "id": "md",
+    "name": "Moldova",
+    "officialName": "Republic of Moldova",
+    "capital": "Chisinau",
+    "continent": "Eropa",
+    "currency": "Leu Moldova",
+    "languages": [
+      "Rumania"
+    ],
+    "description": "Moldova adalah negara kecil di Eropa Timur yang terletak di antara Rumania dan Ukraina. Negara ini dikenal dengan anggur, biara kuno, dan desa-desa yang tenang.",
+    "facts": [
+      "Salah satu negara termiskin di Eropa",
+      "Terkenal dengan anggur dan kebun anggur",
+      "Biara Orheiul Vechi yang bersejarah",
+      "Mayoritas penduduk berbahasa Rumania"
+    ],
+    "history": [
+      "1812: Dicaplok Kekaisaran Rusia",
+      "1918: Bergabung dengan Rumania",
+      "1940: Menjadi bagian Uni Soviet",
+      "1991: Kemerdekaan dari Uni Soviet"
+    ],
+    "images": [
+      "assets/images/moldova.jpg"
+    ],
+    "population": 2600000,
+    "area": 33851
+  },
+  {
+    "id": "al",
+    "name": "Albania",
+    "officialName": "Republic of Albania",
+    "capital": "Tirana",
+    "continent": "Eropa",
+    "currency": "Lek Albania",
+    "languages": [
+      "Albania"
+    ],
+    "description": "Albania adalah negara di Balkan yang memiliki pantai Adriatik dan Ionia yang indah. Negara ini kaya akan sejarah Illyrian, Romawi, dan Ottoman, serta budaya yang unik.",
+    "facts": [
+      "Pantai Riviera Albania yang belum terjamah",
+      "Situs Warisan Dunia Butrint",
+      "Salah satu negara paling bergunung di Eropa",
+      "Bahasa Albania adalah cabang unik Indo-Eropa"
+    ],
+    "history": [
+      "1912: Kemerdekaan dari Kekaisaran Ottoman",
+      "1944: Rezim komunis Enver Hoxha",
+      "1991: Transisi menuju demokrasi",
+      "2009: Bergabung dengan NATO"
+    ],
+    "images": [
+      "assets/images/albania.jpg"
+    ],
+    "population": 2800000,
+    "area": 28748
+  },
+  {
+    "id": "mk",
+    "name": "North Macedonia",
+    "officialName": "Republic of North Macedonia",
+    "capital": "Skopje",
+    "continent": "Eropa",
+    "currency": "Denar Makedonia",
+    "languages": [
+      "Makedonia"
+    ],
+    "description": "Makedonia Utara adalah negara di Balkan yang terkenal dengan Danau Ohrid, salah satu danau tertua dan terdalam di Eropa. Negara ini memiliki campuran budaya Slavia dan Ottoman.",
+    "facts": [
+      "Danau Ohrid adalah situs Warisan Dunia",
+      "Skopje memiliki arsitektur neo-klasik dan Ottoman",
+      "Salah satu negara termiskin di Eropa",
+      "Budaya musik dan tarian tradisional"
+    ],
+    "history": [
+      "1991: Kemerdekaan dari Yugoslavia",
+      "2001: Pemberontakan etnis Albania",
+      "2018: Kesepakatan nama dengan Yunani",
+      "2020: Bergabung dengan NATO"
+    ],
+    "images": [
+      "assets/images/north-macedonia.jpg"
+    ],
+    "population": 2100000,
+    "area": 25713
+  },
+  {
+    "id": "ba",
+    "name": "Bosnia and Herzegovina",
+    "officialName": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "Eropa",
+    "currency": "Mark Bosnia",
+    "languages": [
+      "Bosnia",
+      "Kroasia",
+      "Serbia"
+    ],
+    "description": "Bosnia dan Herzegovina adalah negara di Balkan yang terkenal dengan jembatan kuno, pengaruh Ottoman, dan sejarah konflik. Sarajevo adalah kota multikultural dengan warisan kaya.",
+    "facts": [
+      "Jembatan Mehmed Paša Sokolović di Višegrad adalah Warisan Dunia",
+      "Sarajevo dikenal sebagai Yerusalem Eropa",
+      "Campuran budaya Ottoman dan Austro-Hungarian",
+      "Pegunungan Dinaric yang indah"
+    ],
+    "history": [
+      "1992: Mendeklarasikan kemerdekaan dari Yugoslavia",
+      "1992-1995: Perang Bosnia",
+      "1995: Perjanjian Dayton",
+      "1995: Negara federal dibentuk"
+    ],
+    "images": [
+      "assets/images/bosnia-and-herzegovina.jpg"
+    ],
+    "population": 3300000,
+    "area": 51209
+  },
+  {
+    "id": "me",
+    "name": "Montenegro",
+    "officialName": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Montenegro"
+    ],
+    "description": "Montenegro adalah negara kecil di Balkan yang memiliki pantai Adriatik yang spektakuler dan pegunungan karst. Teluk Kotor adalah salah satu teluk paling indah di Eropa.",
+    "facts": [
+      "Teluk Kotor adalah situs Warisan Dunia",
+      "Salah satu negara termuda di Eropa (2006)",
+      "Pegunungan Durmitor dan Sungai Tara",
+      "Pantai Adriatik yang dramatis"
+    ],
+    "history": [
+      "1878: Kemerdekaan dari Ottoman",
+      "1918: Bergabung dengan Yugoslavia",
+      "1992: Tetap dalam federasi Yugoslavia",
+      "2006: Kemerdekaan penuh dari Serbia"
+    ],
+    "images": [
+      "assets/images/montenegro.jpg"
+    ],
+    "population": 620000,
+    "area": 13812
+  },
+  {
+    "id": "cy",
+    "name": "Cyprus",
+    "officialName": "Republic of Cyprus",
+    "capital": "Nicosia",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Yunani",
+      "Turki"
+    ],
+    "description": "Siprus adalah negara pulau di Laut Tengah yang kaya akan sejarah kuno, pantai indah, dan budaya campuran Yunani-Turki. Pulau ini terbagi sejak invasi Turki 1974.",
+    "facts": [
+      "Pulau terbesar ketiga di Laut Tengah",
+      "Pantai-pantai berpasir keemasan",
+      "Situs arkeologi Kourion dan Salamis",
+      "Terbagi menjadi dua komunitas utama"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Britania Raya",
+      "1974: Invasi Turki",
+      "1983: Republik Turki Siprus Utara diproklamasikan (tidak diakui luas)",
+      "2004: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/cyprus.jpg"
+    ],
+    "population": 1200000,
+    "area": 9251
+  },
+  {
+    "id": "mt",
+    "name": "Malta",
+    "officialName": "Republic of Malta",
+    "capital": "Valletta",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Malta",
+      "Inggris"
+    ],
+    "description": "Malta adalah negara kepulauan kecil di Laut Tengah yang kaya akan situs prasejarah dan benteng ksatria. Valletta adalah salah satu ibu kota terkecil di dunia.",
+    "facts": [
+      "Memiliki kuil prasejarah tertua di dunia",
+      "Valletta adalah Warisan Dunia UNESCO",
+      "Pernah diperintah Ksatria Santo Yohanes",
+      "Pantai berbatu dan teluk biru"
+    ],
+    "history": [
+      "1530: Ksatria Santo Yohanes mendirikan ordo",
+      "1814: Menjadi koloni Britania",
+      "1964: Kemerdekaan dari Britania",
+      "2004: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/malta.jpg"
+    ],
+    "population": 520000,
+    "area": 316
+  },
+  {
+    "id": "lu",
+    "name": "Luxembourg",
+    "officialName": "Grand Duchy of Luxembourg",
+    "capital": "Luxembourg City",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Luxembourg",
+      "Prancis",
+      "Jerman"
+    ],
+    "description": "Luxembourg adalah negara kecil di Eropa Barat yang terkenal dengan sektor keuangan, pendapatan per kapita tinggi, dan benteng bersejarah. Negara ini merupakan salah satu pendiri Uni Eropa.",
+    "facts": [
+      "Salah satu negara terkaya di dunia per kapita",
+      "Tiga bahasa resmi",
+      "Benteng Luxembourg adalah Warisan Dunia",
+      "Pusat keuangan global"
+    ],
+    "history": [
+      "963: Kadipaten Luxembourg didirikan",
+      "1867: Netralitas permanen",
+      "1948: Bergabung dengan Benelux",
+      "1957: Pendiri Masyarakat Ekonomi Eropa"
+    ],
+    "images": [
+      "assets/images/luxembourg.jpg"
+    ],
+    "population": 650000,
+    "area": 2586
+  },
+  {
+    "id": "ad",
+    "name": "Andorra",
+    "officialName": "Principality of Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Katalan"
+    ],
+    "description": "Andorra adalah negara mikro di Pyrenees yang terkenal dengan resor ski, belanja bebas pajak, dan pemandangan pegunungan yang indah. Negara ini dipimpin oleh dua pangeran bersama.",
+    "facts": [
+      "Salah satu negara terkecil di dunia",
+      "Resor ski Pyrenees yang populer",
+      "Belanja bebas pajak",
+      "Tidak memiliki bandara atau jalur kereta"
+    ],
+    "history": [
+      "1278: Didirikan sebagai ko-prinsipalitas",
+      "1993: Konstitusi modern diadopsi",
+      "1993: Bergabung dengan PBB",
+      "2002: Euro diperkenalkan"
+    ],
+    "images": [
+      "assets/images/andorra.jpg"
+    ],
+    "population": 79000,
+    "area": 468
+  },
+  {
+    "id": "dz",
+    "name": "Algeria",
+    "officialName": "People's Democratic Republic of Algeria",
+    "capital": "Algiers",
+    "continent": "Afrika",
+    "currency": "Dinar Aljazair",
+    "languages": [
+      "Arab",
+      "Berber"
+    ],
+    "description": "Aljazair adalah negara terbesar di Afrika berdasarkan luas wilayah. Terletak di Afrika Utara, negara ini memiliki gurun Sahara yang luas, pegunungan Atlas, dan warisan budaya Arab-Berber.",
+    "facts": [
+      "Negara terbesar di Afrika",
+      "Sebagian besar wilayahnya adalah Gurun Sahara",
+      "Warisan budaya Arab-Berber yang kaya",
+      "Pegunungan Atlas membentang di utara"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Prancis",
+      "1962-1992: Sistem satu partai",
+      "1991-2002: Perang saudara",
+      "2019: Gerakan protes Hirak"
+    ],
+    "images": [
+      "assets/images/algeria.jpg"
+    ],
+    "population": 44170000,
+    "area": 2381741
+  },
+  {
+    "id": "ao",
+    "name": "Angola",
+    "officialName": "Republic of Angola",
+    "capital": "Luanda",
+    "continent": "Afrika",
+    "currency": "Kwanza Angola",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Angola adalah negara di Afrika Selatan yang kaya akan minyak dan berlian. Setelah bertahun-tahun perang saudara, negara ini kini berkembang pesat dengan ekonomi yang bertumpu pada sumber daya alam.",
+    "facts": [
+      "Salah satu produsen minyak terbesar di Afrika",
+      "Kaya akan cadangan berlian",
+      "Sungai Kwanza menjadi nama mata uang",
+      "Terumbu karang dan pantai Atlantik"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Portugal",
+      "1975-2002: Perang saudara",
+      "2002: Perdamaian dan rekonstruksi",
+      "2010: Piala Afrika dimenangkan"
+    ],
+    "images": [
+      "assets/images/angola.jpg"
+    ],
+    "population": 35590000,
+    "area": 1246700
+  },
+  {
+    "id": "bw",
+    "name": "Botswana",
+    "officialName": "Republic of Botswana",
+    "capital": "Gaborone",
+    "continent": "Afrika",
+    "currency": "Pula Botswana",
+    "languages": [
+      "Inggris",
+      "Tswana"
+    ],
+    "description": "Botswana adalah negara terkurung daratan di Afrika bagian selatan yang terkenal dengan Delta Okavango, satwa liar, dan stabilitas politik. Negara ini memiliki ekonomi berbasis berlian dan pariwisata.",
+    "facts": [
+      "Delta Okavango adalah salah satu keajaiban alam Afrika",
+      "Salah satu negara paling stabil di Afrika",
+      "Satwa liar seperti gajah dan singa melimpah",
+      "Gurun Kalahari menutupi sebagian wilayah"
+    ],
+    "history": [
+      "1966: Kemerdekaan dari Britania Raya",
+      "1967: Penemuan berlian besar",
+      "1980an: Pertumbuhan ekonomi pesat",
+      "1990an: Reformasi politik bertahap"
+    ],
+    "images": [
+      "assets/images/botswana.jpg"
+    ],
+    "population": 2600000,
+    "area": 581730
+  },
+  {
+    "id": "cm",
+    "name": "Cameroon",
+    "officialName": "Republic of Cameroon",
+    "capital": "Yaoundé",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Tengah",
+    "languages": [
+      "Prancis",
+      "Inggris"
+    ],
+    "description": "Kamerun adalah negara di Afrika Tengah yang dijuluki 'Afrika dalam miniatur' karena memiliki hampir semua bentang alam Afrika: pantai, gunung, hutan hujan, dan sabana.",
+    "facts": [
+      "Dijuluki 'Afrika dalam miniatur'",
+      "Gunung Kamerun adalah gunung tertinggi di Afrika Barat",
+      "Keanekaragaman bahasa dan etnis yang tinggi",
+      "Taman Nasional Waza kaya satwa liar"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1961: Penyatuan Kamerun Inggris dan Prancis",
+      "1972: Menjadi republik kesatuan",
+      "2016: Krisis anglophone dimulai"
+    ],
+    "images": [
+      "assets/images/cameroon.jpg"
+    ],
+    "population": 27190000,
+    "area": 475442
+  },
+  {
+    "id": "cd",
+    "name": "DR Congo",
+    "officialName": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Afrika",
+    "currency": "Franc Kongo",
+    "languages": [
+      "Prancis",
+      "Lingala",
+      "Swahili",
+      "Kikongo"
+    ],
+    "description": "Republik Demokratik Kongo adalah negara terbesar kedua di Afrika dan memiliki hutan hujan terbesar kedua di dunia. Negara ini kaya akan mineral seperti kobalt dan tembaga.",
+    "facts": [
+      "Hutan hujan terbesar kedua di dunia",
+      "Kaya akan kobalt dan tembaga",
+      "Sungai Kongo adalah sungai terdalam di dunia",
+      "Salah satu negara dengan populasi terbesar di Afrika"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Belgia",
+      "1965: Mobutu berkuasa",
+      "1996-2003: Perang Kongo",
+      "2006: Pemilu demokratis pertama"
+    ],
+    "images": [
+      "assets/images/drc.jpg"
+    ],
+    "population": 95890000,
+    "area": 2344858
+  },
+  {
+    "id": "ci",
+    "name": "Ivory Coast",
+    "officialName": "Republic of Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Pantai Gading adalah negara di Afrika Barat yang merupakan produsen kakao terbesar di dunia. Negara ini memiliki ekonomi yang kuat di kawasan dan budaya musik yang kaya.",
+    "facts": [
+      "Produsen kakao terbesar di dunia",
+      "Basilika Our Lady of Peace di Yamoussoukro",
+      "Salah satu ekonomi terbesar di Afrika Barat",
+      "Musik coupé-décalé populer"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1960an-1970an: Pertumbuhan ekonomi kuat",
+      "2002-2007: Perang saudara",
+      "2011: Krisis politik berakhir"
+    ],
+    "images": [
+      "assets/images/ivory-coast.jpg"
+    ],
+    "population": 27090000,
+    "area": 322463
+  },
+  {
+    "id": "dj",
+    "name": "Djibouti",
+    "officialName": "Republic of Djibouti",
+    "capital": "Djibouti City",
+    "continent": "Afrika",
+    "currency": "Franc Djibouti",
+    "languages": [
+      "Prancis",
+      "Arab"
+    ],
+    "description": "Djibouti adalah negara kecil di Tanduk Afrika yang strategis di pintu masuk Laut Merah. Negara ini menjadi pangkalan militer internasional dan pusat logistik penting.",
+    "facts": [
+      "Letak strategis di pintu masuk Laut Merah",
+      "Pangkalan militer internasional",
+      "Danau Assal adalah titik terendah di Afrika",
+      "Salah satu negara terkecil di Afrika"
+    ],
+    "history": [
+      "1977: Kemerdekaan dari Prancis",
+      "1990an: Konflik internal",
+      "2002: Pangkalan militer AS dibuka",
+      "2010: Pengembangan pelabuhan besar"
+    ],
+    "images": [
+      "assets/images/djibouti.jpg"
+    ],
+    "population": 990000,
+    "area": 23200
+  },
+  {
+    "id": "gq",
+    "name": "Equatorial Guinea",
+    "officialName": "Republic of Equatorial Guinea",
+    "capital": "Malabo",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Tengah",
+    "languages": [
+      "Spanyol",
+      "Prancis",
+      "Portugis"
+    ],
+    "description": "Guinea Khatulistiwa adalah negara kecil di Afrika Tengah yang kaya akan minyak dan gas. Negara ini memiliki kesenjangan ekonomi yang tinggi meskipun pendapatan per kapita tergolong besar.",
+    "facts": [
+      "Salah satu negara terkaya di Afrika per kapita",
+      "Satu-satunya negara Afrika dengan bahasa Spanyol resmi",
+      "Terdiri dari pulau dan daratan utama",
+      "Kaya akan minyak dan gas"
+    ],
+    "history": [
+      "1968: Kemerdekaan dari Spanyol",
+      "1979: Kudeta oleh Teodoro Obiang",
+      "1996: Produksi minyak besar dimulai",
+      "2015: Krisis ekonomi akibat jatuhnya harga minyak"
+    ],
+    "images": [
+      "assets/images/equatorial-guinea.jpg"
+    ],
+    "population": 1500000,
+    "area": 28051
+  },
+  {
+    "id": "er",
+    "name": "Eritrea",
+    "officialName": "State of Eritrea",
+    "capital": "Asmara",
+    "continent": "Afrika",
+    "currency": "Nakfa Eritrea",
+    "languages": [
+      "Tigrinya",
+      "Arab",
+      "Inggris"
+    ],
+    "description": "Eritrea adalah negara di Tanduk Afrika yang memiliki pantai Laut Merah dan ibu kota Asmara dengan arsitektur kolonial Italia. Negara ini memperoleh kemerdekaan setelah perang panjang dengan Ethiopia.",
+    "facts": [
+      "Asmara dijuluki 'Roma Kecil' karena arsitektur Italia",
+      "Pantai Laut Merah yang belum terjamah",
+      "Salah satu negara paling tertutup di dunia",
+      "Kebudayaan kopi yang khas"
+    ],
+    "history": [
+      "1991: Pembebasan dari Ethiopia",
+      "1993: Referendum kemerdekaan",
+      "1998-2000: Perang dengan Ethiopia",
+      "2018: Perdamaian dengan Ethiopia"
+    ],
+    "images": [
+      "assets/images/eritrea.jpg"
+    ],
+    "population": 3600000,
+    "area": 117600
+  },
+  {
+    "id": "ga",
+    "name": "Gabon",
+    "officialName": "Gabonese Republic",
+    "capital": "Libreville",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Tengah",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Gabon adalah negara di Afrika Tengah yang kaya akan minyak dan hutan hujan. Negara ini memiliki salah satu tingkat urbanisasi tertinggi di Afrika dan taman nasional yang luas.",
+    "facts": [
+      "Hutan hujan menutupi sebagian besar wilayah",
+      "Salah satu tingkat urbanisasi tertinggi di Afrika",
+      "Taman Nasional Lopé adalah Warisan Dunia",
+      "Populasi kecil dengan pendapatan menengah"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1967: Omar Bongo menjadi presiden",
+      "1990an: Reformasi politik",
+      "2009: Transisi kepemimpinan"
+    ],
+    "images": [
+      "assets/images/gabon.jpg"
+    ],
+    "population": 2300000,
+    "area": 267668
+  },
+  {
+    "id": "gm",
+    "name": "Gambia",
+    "officialName": "Republic of The Gambia",
+    "capital": "Banjul",
+    "continent": "Afrika",
+    "currency": "Dalasi Gambia",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Gambia adalah negara kecil di Afrika Barat yang terletak di sepanjang Sungai Gambia dan hampir seluruhnya dikelilingi Senegal. Negara ini terkenal dengan pantai dan burung-burung eksotis.",
+    "facts": [
+      "Negara terkecil di daratan Afrika",
+      "Sungai Gambia membentang dari timur ke barat",
+      "Populer untuk wisata pantai dan pengamatan burung",
+      "Nyaris seluruhnya dikelilingi Senegal"
+    ],
+    "history": [
+      "1965: Kemerdekaan dari Britania Raya",
+      "1994: Kudeta militer Yahya Jammeh",
+      "2017: Transisi demokrasi",
+      "2017: Nama resmi ditambah 'The'"
+    ],
+    "images": [
+      "assets/images/gambia.jpg"
+    ],
+    "population": 2600000,
+    "area": 10689
+  },
+  {
+    "id": "gn",
+    "name": "Guinea",
+    "officialName": "Republic of Guinea",
+    "capital": "Conakry",
+    "continent": "Afrika",
+    "currency": "Franc Guinea",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Guinea adalah negara di Afrika Barat yang kaya akan bauksit dan mineral. Negara ini memiliki bentang alam beragam dari pantai hingga pegunungan Fouta Djallon.",
+    "facts": [
+      "Cadangan bauksit terbesar di dunia",
+      "Pegunungan Fouta Djallon sebagai sumber air utama",
+      "Salah satu negara termiskin di dunia",
+      "Budaya musik dan tari tradisional kaya"
+    ],
+    "history": [
+      "1958: Kemerdekaan dari Prancis",
+      "1984: Kudeta militer",
+      "2008: Kudeta militer lainnya",
+      "2010: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/guinea.jpg"
+    ],
+    "population": 13530000,
+    "area": 245857
+  },
+  {
+    "id": "gw",
+    "name": "Guinea-Bissau",
+    "officialName": "Republic of Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Guinea-Bissau adalah negara kecil di Afrika Barat yang dikenal dengan kepulauan Bijagós, taman laut, dan sejarah perjuangan kemerdekaan. Negara ini memiliki ekonomi berbasis pertanian.",
+    "facts": [
+      "Kepulauan Bijagós adalah biosfer UNESCO",
+      "Salah satu negara termiskin di dunia",
+      "Kaya akan keanekaragaman hayati laut",
+      "Budaya campuran Afrika-Portugis"
+    ],
+    "history": [
+      "1974: Kemerdekaan dari Portugal",
+      "1980: Kudeta militer",
+      "1998-1999: Perang saudara",
+      "2014: Pemilu damai"
+    ],
+    "images": [
+      "assets/images/guinea-bissau.jpg"
+    ],
+    "population": 2000000,
+    "area": 36125
+  },
+  {
+    "id": "ls",
+    "name": "Lesotho",
+    "officialName": "Kingdom of Lesotho",
+    "capital": "Maseru",
+    "continent": "Afrika",
+    "currency": "Loti Lesotho",
+    "languages": [
+      "Sesotho",
+      "Inggris"
+    ],
+    "description": "Lesotho adalah negara terkurung daratan yang sepenuhnya dikelilingi Afrika Selatan. Negara ini dikenal dengan pegunungan tinggi, ski di Afrika, dan budaya Basotho.",
+    "facts": [
+      "Sepenuhnya dikelilingi oleh Afrika Selatan",
+      "Salah satu negara tertinggi di dunia",
+      "Resor ski Afriski di Pegunungan Maloti",
+      "Budaya Basotho dengan topi khas mokorotlo"
+    ],
+    "history": [
+      "1966: Kemerdekaan dari Britania Raya",
+      "1998: Intervensi militer Afrika Selatan",
+      "2002: Reformasi pemilu",
+      "2010an: Krisis politik"
+    ],
+    "images": [
+      "assets/images/lesotho.jpg"
+    ],
+    "population": 2100000,
+    "area": 30355
+  },
+  {
+    "id": "lr",
+    "name": "Liberia",
+    "officialName": "Republic of Liberia",
+    "capital": "Monrovia",
+    "continent": "Afrika",
+    "currency": "Dolar Liberia",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Liberia adalah negara di Afrika Barat yang didirikan oleh budak-budak yang dibebaskan dari Amerika Serikat. Negara ini memiliki hutan hujan tropis dan garis pantai yang indah.",
+    "facts": [
+      "Didirikan oleh budak bebas dari Amerika",
+      "Salah satu negara tertua di Afrika modern",
+      "Hutan hujan tropis yang luas",
+      "Pantai Atlantik yang belum terjamah"
+    ],
+    "history": [
+      "1822: Didirikan oleh American Colonization Society",
+      "1847: Kemerdekaan",
+      "1989-2003: Perang saudara",
+      "2005: Pemilu demokratis pascaperang"
+    ],
+    "images": [
+      "assets/images/liberia.jpg"
+    ],
+    "population": 5200000,
+    "area": 111369
+  },
+  {
+    "id": "ly",
+    "name": "Libya",
+    "officialName": "State of Libya",
+    "capital": "Tripoli",
+    "continent": "Afrika",
+    "currency": "Dinar Libya",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Libya adalah negara di Afrika Utara yang sebagian besar berupa gurun Sahara. Negara ini kaya akan minyak dan memiliki situs arkeologi Romawi seperti Leptis Magna.",
+    "facts": [
+      "Sebagian besar wilayah adalah Gurun Sahara",
+      "Kaya akan minyak dan gas",
+      "Leptis Magna adalah situs Romawi terbesar di Mediterania",
+      "Sungai tidak ada yang permanen"
+    ],
+    "history": [
+      "1951: Kemerdekaan dari Italia",
+      "1969: Kudeta Muammar Gaddafi",
+      "2011: Perang saudara dan penggulingan Gaddafi",
+      "2014-sekarang: Perang saudara berlanjut"
+    ],
+    "images": [
+      "assets/images/libya.jpg"
+    ],
+    "population": 6800000,
+    "area": 1759540
+  },
+  {
+    "id": "mw",
+    "name": "Malawi",
+    "officialName": "Republic of Malawi",
+    "capital": "Lilongwe",
+    "continent": "Afrika",
+    "currency": "Kwacha Malawi",
+    "languages": [
+      "Inggris",
+      "Chichewa"
+    ],
+    "description": "Malawi adalah negara terkurung daratan di Afrika bagian selatan yang terkenal dengan Danau Malawi, salah satu danau air tawar terbesar di dunia. Negara ini dijuluki 'Hati Hangat Afrika'.",
+    "facts": [
+      "Dijuluki 'Hati Hangat Afrika'",
+      "Danau Malawi adalah salah satu danau air tawar terbesar",
+      "Salah satu negara termiskin di dunia",
+      "Taman Nasional Liwonde kaya satwa"
+    ],
+    "history": [
+      "1964: Kemerdekaan dari Britania Raya",
+      "1966: Menjadi republik",
+      "1994: Demokrasi multipartai",
+      "2012: Presiden perempuan pertama"
+    ],
+    "images": [
+      "assets/images/malawi.jpg"
+    ],
+    "population": 20400000,
+    "area": 118484
+  },
+  {
+    "id": "ml",
+    "name": "Mali",
+    "officialName": "Republic of Mali",
+    "capital": "Bamako",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis",
+      "Bambara"
+    ],
+    "description": "Mali adalah negara besar di Afrika Barat yang memiliki sejarah kekaisaran kaya seperti Mali dan Songhai. Kota Timbuktu menjadi pusat ilmu pengetahuan Islam kuno.",
+    "facts": [
+      "Rumah bagi Timbuktu yang bersejarah",
+      "Kekaisaran Mali kuno",
+      "Sungai Niger melintasi negara",
+      "Gurun Sahara di utara"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1968: Kudeta militer",
+      "1991: Demokrasi multipartai",
+      "2012: Krisis keamanan dan pemberontakan"
+    ],
+    "images": [
+      "assets/images/mali.jpg"
+    ],
+    "population": 21860000,
+    "area": 1240192
+  },
+  {
+    "id": "mr",
+    "name": "Mauritania",
+    "officialName": "Islamic Republic of Mauritania",
+    "capital": "Nouakchott",
+    "continent": "Afrika",
+    "currency": "Ouguiya Mauritania",
+    "languages": [
+      "Arab",
+      "Prancis"
+    ],
+    "description": "Mauritania adalah negara di Afrika Barat yang didominasi Gurun Sahara. Negara ini memiliki pantai Atlantik dan budaya campuran Arab-Berber.",
+    "facts": [
+      "Sebagian besar wilayah adalah Gurun Sahara",
+      "Kaya akan mineral seperti besi",
+      "Pantai Atlantik dengan perairan kaya ikan",
+      "Budaya Arab-Berber yang kuat"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1978: Kudeta militer",
+      "2005: Transisi demokrasi",
+      "2008: Kudeta militer lainnya"
+    ],
+    "images": [
+      "assets/images/mauritania.jpg"
+    ],
+    "population": 4500000,
+    "area": 1030700
+  },
+  {
+    "id": "mz",
+    "name": "Mozambique",
+    "officialName": "Republic of Mozambique",
+    "capital": "Maputo",
+    "continent": "Afrika",
+    "currency": "Metical Mozambik",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Mozambik adalah negara di Afrika bagian tenggara yang memiliki pantai panjang di Samudra Hindia. Negara ini terkenal dengan terumbu karang, pulau-pulau indah, dan budaya campuran Afrika-Portugis.",
+    "facts": [
+      "Pantai Samudra Hindia yang panjang",
+      "Kepulauan Bazaruto dengan terumbu karang",
+      "Budaya campuran Afrika-Portugis",
+      "Sungai Zambezi melintasi negara"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Portugal",
+      "1977-1992: Perang saudara",
+      "1992: Perdamaian dan pemilu",
+      "2010an: Penemuan gas alam besar"
+    ],
+    "images": [
+      "assets/images/mozambique.jpg"
+    ],
+    "population": 32200000,
+    "area": 801590
+  },
+  {
+    "id": "na",
+    "name": "Namibia",
+    "officialName": "Republic of Namibia",
+    "capital": "Windhoek",
+    "continent": "Afrika",
+    "currency": "Dolar Namibia",
+    "languages": [
+      "Inggris",
+      "Afrikaans",
+      "Jerman"
+    ],
+    "description": "Namibia adalah negara di Afrika bagian selatan yang terkenal dengan Gurun Namib, salah satu gurun tertua di dunia. Negara ini memiliki bentang alam yang dramatis, satwa liar, dan warisan budaya San.",
+    "facts": [
+      "Gurun Namib adalah salah satu gurun tertua di dunia",
+      "Skeleton Coast terkenal dengan bangkai kapal",
+      "Taman Nasional Etosha kaya satwa liar",
+      "Salah satu negara dengan kepadatan penduduk terendah"
+    ],
+    "history": [
+      "1990: Kemerdekaan dari Afrika Selatan",
+      "1994: Pemilu multiras pertama",
+      "2004: Reformasi tanah",
+      "2015: Presiden perempuan pertama"
+    ],
+    "images": [
+      "assets/images/namibia.jpg"
+    ],
+    "population": 2500000,
+    "area": 824292
+  },
+  {
+    "id": "ne",
+    "name": "Niger",
+    "officialName": "Republic of Niger",
+    "capital": "Niamey",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis",
+      "Hausa"
+    ],
+    "description": "Niger adalah negara terkurung daratan di Afrika Barat yang sebagian besar berada di Gurun Sahara. Negara ini memiliki budaya nomaden Tuareg dan cadangan uranium yang besar.",
+    "facts": [
+      "Sebagian besar wilayah adalah Gurun Sahara",
+      "Cadangan uranium yang signifikan",
+      "Budaya nomaden Tuareg",
+      "Salah satu negara termiskin di dunia"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1974: Kudeta militer",
+      "1999: Demokrasi dipulihkan",
+      "2010: Kudeta militer"
+    ],
+    "images": [
+      "assets/images/niger.jpg"
+    ],
+    "population": 26200000,
+    "area": 1267000
+  },
+  {
+    "id": "rw",
+    "name": "Rwanda",
+    "officialName": "Republic of Rwanda",
+    "capital": "Kigali",
+    "continent": "Afrika",
+    "currency": "Franc Rwanda",
+    "languages": [
+      "Kinyarwanda",
+      "Prancis",
+      "Inggris",
+      "Swahili"
+    ],
+    "description": "Rwanda adalah negara kecil di Afrika Timur yang dikenal dengan pemulihan ekonominya setelah genosida 1994. Negara ini dijuluki 'Negeri Seribu Bukit' dan kini menjadi salah satu negara terbersih di Afrika.",
+    "facts": [
+      "Dijuluki 'Negeri Seribu Bukit'",
+      "Salah satu negara terbersih di Afrika",
+      "Taman Nasional Volcanoes adalah habitat gorila gunung",
+      "Pemulihan ekonomi yang pesat"
+    ],
+    "history": [
+      "1994: Genosida Rwanda",
+      "1994: Front Patriotik Rwanda berkuasa",
+      "2000: Paul Kagame menjadi presiden",
+      "2003: Konstitusi baru"
+    ],
+    "images": [
+      "assets/images/rwanda.jpg"
+    ],
+    "population": 13200000,
+    "area": 26338
+  },
+  {
+    "id": "sn",
+    "name": "Senegal",
+    "officialName": "Republic of Senegal",
+    "capital": "Dakar",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis",
+      "Wolof"
+    ],
+    "description": "Senegal adalah negara di Afrika Barat yang dikenal dengan musik mbalax, budaya teranga (keramahan), dan sebagai pintu gerbang ke Afrika Barat. Dakar adalah pusat budaya dan ekonomi.",
+    "facts": [
+      "Musik mbalax dan alat musik sabar",
+      "Budaya teranga (keramahan)",
+      "Pulau Gorée adalah situs sejarah perbudakan",
+      "Salah satu negara paling stabil di Afrika Barat"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1966: Dakar menjadi tuan rumah Festival Seni Negro Pertama",
+      "2000: Alternance politik damai",
+      "2012: Pemilu damai"
+    ],
+    "images": [
+      "assets/images/senegal.jpg"
+    ],
+    "population": 17600000,
+    "area": 196722
+  },
+  {
+    "id": "sl",
+    "name": "Sierra Leone",
+    "officialName": "Republic of Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Afrika",
+    "currency": "Leone Sierra Leone",
+    "languages": [
+      "Inggris",
+      "Krio"
+    ],
+    "description": "Sierra Leone adalah negara di Afrika Barat yang memiliki pantai Atlantik dan hutan hujan tropis. Negara ini terkenal dengan konflik berdarah dan kini berusaha membangun kembali.",
+    "facts": [
+      "Pantai Atlantik yang indah",
+      "Salah satu produsen berlian terbesar",
+      "Krio adalah bahasa kreol yang umum",
+      "Pemulihan setelah perang saudara"
+    ],
+    "history": [
+      "1961: Kemerdekaan dari Britania Raya",
+      "1991-2002: Perang saudara",
+      "2002: Perdamaian dan pemilu",
+      "2014: Wabah Ebola"
+    ],
+    "images": [
+      "assets/images/sierra-leone.jpg"
+    ],
+    "population": 8100000,
+    "area": 71740
+  },
+  {
+    "id": "so",
+    "name": "Somalia",
+    "officialName": "Federal Republic of Somalia",
+    "capital": "Mogadishu",
+    "continent": "Afrika",
+    "currency": "Shilling Somalia",
+    "languages": [
+      "Somali",
+      "Arab"
+    ],
+    "description": "Somalia adalah negara di Tanduk Afrika yang terletak di pesisir Samudra Hindia. Negara ini memiliki budaya pastoral nomaden dan menghadapi tantangan keamanan yang kompleks.",
+    "facts": [
+      "Salah satu negara dengan garis pantai terpanjang di Afrika",
+      "Budaya pastoral nomaden",
+      "Somaliland dan Puntland memiliki otonomi sendiri",
+      "Salah satu negara termiskin di dunia"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Italia dan Britania",
+      "1969: Kudeta militer Siad Barre",
+      "1991: Perang saudara",
+      "2012: Pemerintah federal dibentuk"
+    ],
+    "images": [
+      "assets/images/somalia.jpg"
+    ],
+    "population": 15900000,
+    "area": 637657
+  },
+  {
+    "id": "sd",
+    "name": "Sudan",
+    "officialName": "Republic of the Sudan",
+    "capital": "Khartoum",
+    "continent": "Afrika",
+    "currency": "Pound Sudan",
+    "languages": [
+      "Arab",
+      "Inggris"
+    ],
+    "description": "Sudan adalah negara di Afrika Timur Laut yang terletak di pertemuan Sungai Nil Biru dan Nil Putih. Negara ini memiliki sejarah panjang peradaban Nubia dan piramida kuno.",
+    "facts": [
+      "Pertemuan Sungai Nil Biru dan Nil Putih di Khartoum",
+      "Piramida Nubia di Meroë",
+      "Gurun Nubia yang luas",
+      "Budaya Arab-Afrika yang kaya"
+    ],
+    "history": [
+      "1956: Kemerdekaan dari Britania Raya",
+      "1989: Kudeta militer",
+      "2011: Sudan Selatan memisahkan diri",
+      "2019: Revolusi menggulingkan Bashir"
+    ],
+    "images": [
+      "assets/images/sudan.jpg"
+    ],
+    "population": 44900000,
+    "area": 1886068
+  },
+  {
+    "id": "tz",
+    "name": "Tanzania",
+    "officialName": "United Republic of Tanzania",
+    "capital": "Dodoma",
+    "continent": "Afrika",
+    "currency": "Shilling Tanzania",
+    "languages": [
+      "Swahili",
+      "Inggris"
+    ],
+    "description": "Tanzania adalah negara di Afrika Timur yang terkenal dengan Gunung Kilimanjaro, pulau Zanzibar, dan taman nasional Serengeti. Negara ini memiliki keanekaragaman alam dan budaya yang luar biasa.",
+    "facts": [
+      "Gunung Kilimanjaro adalah puncak tertinggi di Afrika",
+      "Serengeti adalah rumah migrasi besar satwa liar",
+      "Zanzibar terkenal dengan pantai dan rempah-rempah",
+      "Budaya Swahili yang kaya"
+    ],
+    "history": [
+      "1961: Kemerdekaan dari Britania",
+      "1964: Penyatuan Tanganyika dan Zanzibar",
+      "1990an: Reformasi ekonomi",
+      "2015: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/tanzania.jpg"
+    ],
+    "population": 61400000,
+    "area": 945087
+  },
+  {
+    "id": "tn",
+    "name": "Tunisia",
+    "officialName": "Republic of Tunisia",
+    "capital": "Tunis",
+    "continent": "Afrika",
+    "currency": "Dinar Tunisia",
+    "languages": [
+      "Arab",
+      "Prancis"
+    ],
+    "description": "Tunisia adalah negara di Afrika Utara yang terkenal dengan situs arkeologi Carthage, pantai Mediterania, dan sebagai tempat lahirnya Arab Spring. Negara ini memiliki campuran budaya Arab, Berber, dan Eropa.",
+    "facts": [
+      "Situs arkeologi Carthage adalah Warisan Dunia",
+      "Tempat lahirnya Arab Spring 2011",
+      "Pantai Mediterania yang indah",
+      "Budaya campuran Arab-Berber-Eropa"
+    ],
+    "history": [
+      "1956: Kemerdekaan dari Prancis",
+      "1987: Transisi politik",
+      "2011: Revolusi Arab Spring",
+      "2014: Konstitusi baru"
+    ],
+    "images": [
+      "assets/images/tunisia.jpg"
+    ],
+    "population": 12100000,
+    "area": 163610
+  },
+  {
+    "id": "ug",
+    "name": "Uganda",
+    "officialName": "Republic of Uganda",
+    "capital": "Kampala",
+    "continent": "Afrika",
+    "currency": "Shilling Uganda",
+    "languages": [
+      "Swahili",
+      "Inggris"
+    ],
+    "description": "Uganda adalah negara terkurung daratan di Afrika Timur yang terkenal dengan Danau Victoria, gorila gunung, dan sumber Sungai Nil. Negara ini dijuluki 'Mutiara Afrika'.",
+    "facts": [
+      "Danau Victoria adalah danau air tawar terbesar di Afrika",
+      "Gorila gunung di Taman Nasional Bwindi",
+      "Sumber Sungai Nil di Jinja",
+      "Dijuluki 'Mutiara Afrika'"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Britania",
+      "1971-1979: Rezim Idi Amin",
+      "1986: Yoweri Museveni berkuasa",
+      "2005: Transisi demokrasi"
+    ],
+    "images": [
+      "assets/images/uganda.jpg"
+    ],
+    "population": 45700000,
+    "area": 241038
+  },
+  {
+    "id": "zm",
+    "name": "Zambia",
+    "officialName": "Republic of Zambia",
+    "capital": "Lusaka",
+    "continent": "Afrika",
+    "currency": "Kwacha Zambia",
+    "languages": [
+      "Inggris",
+      "Bemba",
+      "Nyanja"
+    ],
+    "description": "Zambia adalah negara terkurung daratan di Afrika bagian selatan yang terkenal dengan Air Terjun Victoria, Sungai Zambezi, dan satwa liar yang melimpah.",
+    "facts": [
+      "Air Terjun Victoria adalah salah satu yang terbesar di dunia",
+      "Sungai Zambezi menjadi perbatasan selatan",
+      "Taman Nasional South Luangwa kaya satwa",
+      "Salah satu produsen tembaga terbesar di dunia"
+    ],
+    "history": [
+      "1964: Kemerdekaan dari Britania",
+      "1972: Menjadi republik satu partai",
+      "1991: Demokrasi multipartai",
+      "2010an: Pertumbuhan ekonomi"
+    ],
+    "images": [
+      "assets/images/zambia.jpg"
+    ],
+    "population": 19500000,
+    "area": 752612
+  },
+  {
+    "id": "zw",
+    "name": "Zimbabwe",
+    "officialName": "Republic of Zimbabwe",
+    "capital": "Harare",
+    "continent": "Afrika",
+    "currency": "Dolar Zimbabwe",
+    "languages": [
+      "Inggris",
+      "Shona",
+      "Ndebele"
+    ],
+    "description": "Zimbabwe adalah negara terkurung daratan di Afrika bagian selatan yang terkenal dengan Air Terjun Victoria, Great Zimbabwe, dan satwa liar. Negara ini memiliki sejarah yang kaya dan ekonomi yang menantang.",
+    "facts": [
+      "Great Zimbabwe adalah reruntuhan batu kuno",
+      "Air Terjun Victoria di perbatasan barat",
+      "Salah satu negara paling miskin di dunia",
+      "Satwa liar di Taman Nasional Hwange"
+    ],
+    "history": [
+      "1980: Kemerdekaan dari Britania",
+      "1990an: Reformasi tanah kontroversial",
+      "2000an: Krisis ekonomi",
+      "2017: Kudeta militer"
+    ],
+    "images": [
+      "assets/images/zimbabwe.jpg"
+    ],
+    "population": 15900000,
+    "area": 390757
+  },
+  {
+    "id": "cr",
+    "name": "Costa Rica",
+    "officialName": "Republic of Costa Rica",
+    "capital": "San José",
+    "continent": "Amerika Utara",
+    "currency": "Colón Kosta Rika",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Kosta Rika adalah negara di Amerika Tengah yang terkenal dengan keanekaragaman hayati, pantai, dan gunung berapi. Negara ini juga dikenal sebagai salah satu negara paling damai di dunia.",
+    "facts": [
+      "Salah satu negara paling damai di dunia",
+      "Keanekaragaman hayati yang luar biasa",
+      "Pantai Karibia dan Pasifik",
+      "Gunung berapi aktif seperti Arenal"
+    ],
+    "history": [
+      "1821: Kemerdekaan dari Spanyol",
+      "1948: Penghapusan tentara",
+      "1983: Taman Nasional Manuel Antonio didirikan",
+      "2010: Presiden perempuan pertama"
+    ],
+    "images": [
+      "assets/images/costa-rica.jpg"
+    ],
+    "population": 5100000,
+    "area": 51100
+  },
+  {
+    "id": "cu",
+    "name": "Cuba",
+    "officialName": "Republic of Cuba",
+    "capital": "Havana",
+    "continent": "Amerika Utara",
+    "currency": "Peso Kuba",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Kuba adalah negara pulau di Karibia yang terkenal dengan mobil klasik, musik salsa, dan sejarah revolusi. Havana adalah ibu kota dengan arsitektur kolonial yang memikat.",
+    "facts": [
+      "Terkenal dengan mobil klasik Amerika",
+      "Musik salsa dan rumba",
+      "Havana memiliki arsitektur kolonial",
+      "Salah satu negara sosialis terakhir"
+    ],
+    "history": [
+      "1959: Revolusi Kuba",
+      "1962: Krisis Rudal Kuba",
+      "1991: Krisis ekonomi setelah Uni Soviet runtuh",
+      "2008: Raúl Castro menjadi presiden"
+    ],
+    "images": [
+      "assets/images/cuba.jpg"
+    ],
+    "population": 11300000,
+    "area": 109884
+  },
+  {
+    "id": "do",
+    "name": "Dominican Republic",
+    "officialName": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "Amerika Utara",
+    "currency": "Peso Dominika",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Republik Dominika adalah negara Karibia yang berbagi pulau Hispaniola dengan Haiti. Negara ini terkenal dengan pantai-pantai eksotis, musik merengue, dan resor wisata.",
+    "facts": [
+      "Pantai-pantai eksotis seperti Punta Cana",
+      "Musik merengue berasal dari sini",
+      "Santo Domingo adalah kota tertua di Amerika",
+      "Salah satu tujuan wisata terpopuler di Karibia"
+    ],
+    "history": [
+      "1844: Kemerdekaan dari Haiti",
+      "1916-1924: Pendudukan AS",
+      "1965: Perang saudara",
+      "1996: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/dominican-republic.jpg"
+    ],
+    "population": 10900000,
+    "area": 48671
+  },
+  {
+    "id": "gt",
+    "name": "Guatemala",
+    "officialName": "Republic of Guatemala",
+    "capital": "Guatemala City",
+    "continent": "Amerika Utara",
+    "currency": "Quetzal Guatemala",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Guatemala adalah negara di Amerika Tengah yang kaya akan warisan Maya, pegunungan, dan danau. Situs arkeologi Tikal adalah salah satu kota Maya terbesar.",
+    "facts": [
+      "Situs arkeologi Tikal adalah Warisan Dunia",
+      "Danau Atitlán yang indah",
+      "Budaya Maya yang masih hidup",
+      "Pegunungan Sierra Madre"
+    ],
+    "history": [
+      "1821: Kemerdekaan dari Spanyol",
+      "1960-1996: Perang saudara",
+      "1996: Perjanjian perdamaian",
+      "2010an: Reformasi hukum"
+    ],
+    "images": [
+      "assets/images/guatemala.jpg"
+    ],
+    "population": 17300000,
+    "area": 108889
+  },
+  {
+    "id": "ht",
+    "name": "Haiti",
+    "officialName": "Republic of Haiti",
+    "capital": "Port-au-Prince",
+    "continent": "Amerika Utara",
+    "currency": "Gourde Haiti",
+    "languages": [
+      "Prancis",
+      "Kreol Haiti"
+    ],
+    "description": "Haiti adalah negara Karibia yang berbagi pulau Hispaniola dengan Republik Dominika. Negara ini dikenal sebagai negara merdeka pertama dari budak Afrika dan kaya budaya Vodou.",
+    "facts": [
+      "Negara merdeka pertama dari budak Afrika",
+      "Budaya Vodou yang khas",
+      "Salah satu negara termiskin di dunia",
+      "Pantai Karibia yang belum terjamah"
+    ],
+    "history": [
+      "1804: Kemerdekaan dari Prancis",
+      "1915-1934: Pendudukan AS",
+      "2010: Gempa bumi besar",
+      "2021: Krisis politik"
+    ],
+    "images": [
+      "assets/images/haiti.jpg"
+    ],
+    "population": 11400000,
+    "area": 27750
+  },
+  {
+    "id": "hn",
+    "name": "Honduras",
+    "officialName": "Republic of Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "Amerika Utara",
+    "currency": "Lempira Honduras",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Honduras adalah negara di Amerika Tengah yang memiliki pantai Karibia, pulau-pulau indah, dan situs Maya Copán. Negara ini kaya akan alam namun menghadapi tantangan keamanan.",
+    "facts": [
+      "Situs Maya Copán adalah Warisan Dunia",
+      "Pulau Roatán terkenal untuk diving",
+      "Pantai Karibia yang panjang",
+      "Pegunungan dan hutan hujan tropis"
+    ],
+    "history": [
+      "1821: Kemerdekaan dari Spanyol",
+      "1880: Tegucigalpa menjadi ibu kota",
+      "1998: Badai Mitch",
+      "2009: Krisis politik"
+    ],
+    "images": [
+      "assets/images/honduras.jpg"
+    ],
+    "population": 10300000,
+    "area": 112492
+  },
+  {
+    "id": "ni",
+    "name": "Nicaragua",
+    "officialName": "Republic of Nicaragua",
+    "capital": "Managua",
+    "continent": "Amerika Utara",
+    "currency": "Córdoba Nikaragua",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Nikaragua adalah negara di Amerika Tengah yang terkenal dengan danau terbesar di kawasan, gunung berapi, dan budaya kolonial. Negara ini memiliki potensi wisata besar.",
+    "facts": [
+      "Danau Nikaragua adalah danau terbesar di Amerika Tengah",
+      "Gunung berapi Momotombo",
+      "Granada adalah kota kolonial tua",
+      "Salah satu negara paling aman di Amerika Tengah"
+    ],
+    "history": [
+      "1821: Kemerdekaan dari Spanyol",
+      "1979-1990: Revolusi Sandinista",
+      "1990an: Demokrasi",
+      "2010an: Krisis politik"
+    ],
+    "images": [
+      "assets/images/nicaragua.jpg"
+    ],
+    "population": 6700000,
+    "area": 130373
+  },
+  {
+    "id": "pa",
+    "name": "Panama",
+    "officialName": "Republic of Panama",
+    "capital": "Panama City",
+    "continent": "Amerika Utara",
+    "currency": "Balboa Panama",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Panama adalah negara di Amerika Tengah yang terkenal dengan Terusan Panama, jalur air vital antara Atlantik dan Pasifik. Negara ini menjadi pusat keuangan dan logistik.",
+    "facts": [
+      "Terusan Panama menghubungkan Atlantik dan Pasifik",
+      "Salah satu pusat keuangan terbesar di kawasan",
+      "Keanekaragaman hayati tinggi",
+      "Panama City memiliki arsitektur modern"
+    ],
+    "history": [
+      "1903: Kemerdekaan dari Kolombia",
+      "1914: Terusan Panama dibuka",
+      "1989: Invasi AS menggulingkan Noriega",
+      "1999: Pengelolaan terusan diserahkan ke Panama"
+    ],
+    "images": [
+      "assets/images/panama.jpg"
+    ],
+    "population": 4300000,
+    "area": 75417
+  },
+  {
+    "id": "bb",
+    "name": "Barbados",
+    "officialName": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Barbados",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Barbados adalah negara kepulauan di Karibia yang terkenal dengan pantai pasir putih, air jernih, dan budaya Inggris-Karibia. Negara ini menjadi republik pada 2021 setelah sebelumnya dipimpin Ratu Inggris.",
+    "facts": [
+      "Pantai pasir putih yang indah",
+      "Salah satu negara paling maju di Karibia",
+      "Menjadi republik pada 2021",
+      "Budaya campuran Inggris-Karibia"
+    ],
+    "history": [
+      "1966: Kemerdekaan dari Britania Raya",
+      "2021: Menjadi republik",
+      "2021: Presiden pertama dilantik",
+      "2022: Pemilu damai"
+    ],
+    "images": [
+      "assets/images/barbados.jpg"
+    ],
+    "population": 287000,
+    "area": 430
+  },
+  {
+    "id": "bs",
+    "name": "Bahamas",
+    "officialName": "Commonwealth of The Bahamas",
+    "capital": "Nassau",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Bahama",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Bahama adalah negara kepulauan di Karibia yang terdiri dari lebih dari 700 pulau dan 2.400 pulau kecil. Negara ini terkenal dengan perairan biru kehijauan, terumbu karang, dan pariwisata mewah.",
+    "facts": [
+      "Terdiri dari lebih dari 700 pulau",
+      "Perairan biru kehijauan yang jernih",
+      "Salah satu tujuan wisata mewah terpopuler",
+      "Terumbu karang terbesar ketiga di dunia"
+    ],
+    "history": [
+      "1973: Kemerdekaan dari Britania Raya",
+      "1973: Bergabung dengan PBB",
+      "1990an: Pertumbuhan pariwisata",
+      "2010an: Pusat keuangan lepas pantai"
+    ],
+    "images": [
+      "assets/images/bahamas.jpg"
+    ],
+    "population": 400000,
+    "area": 13943
+  },
+  {
+    "id": "bz",
+    "name": "Belize",
+    "officialName": "Belize",
+    "capital": "Belmopan",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Belize",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Belize adalah negara kecil di Amerika Tengah yang memiliki pantai Karibia dan hutan hujan tropis. Negara ini terkenal dengan Barrier Reef Belize, situs Warisan Dunia UNESCO.",
+    "facts": [
+      "Barrier Reef Belize adalah Warisan Dunia",
+      "Satu-satunya negara Amerika Tengah dengan bahasa Inggris resmi",
+      "Hutan hujan tropis yang luas",
+      "Great Blue Hole adalah fenomena alam terkenal"
+    ],
+    "history": [
+      "1981: Kemerdekaan dari Britania Raya",
+      "1981: Bergabung dengan PBB",
+      "2000an: Pariwisata berkembang",
+      "2010an: Klaim teritorial Guatemala"
+    ],
+    "images": [
+      "assets/images/belize.jpg"
+    ],
+    "population": 410000,
+    "area": 22966
+  },
+  {
+    "id": "dm",
+    "name": "Dominica",
+    "officialName": "Commonwealth of Dominica",
+    "capital": "Roseau",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Dominika adalah negara pulau di Karibia yang terkenal dengan alamnya yang masih alami, air terjun, dan gunung berapi. Pulau ini dijuluki 'Pulau Alam Karibia'.",
+    "facts": [
+      "Dijuluki 'Pulau Alam Karibia'",
+      "Air terjun dan sungai alami",
+      "Boiling Lake adalah danau air panas terbesar kedua di dunia",
+      "Salah satu negara paling sedikit penduduknya di Karibia"
+    ],
+    "history": [
+      "1978: Kemerdekaan dari Britania Raya",
+      "1978: Bergabung dengan PBB",
+      "2017: Badai Maria menghantam",
+      "2020an: Pemulihan dan pembangunan"
+    ],
+    "images": [
+      "assets/images/dominica.jpg"
+    ],
+    "population": 72000,
+    "area": 751
+  },
+  {
+    "id": "gd",
+    "name": "Grenada",
+    "officialName": "Grenada",
+    "capital": "St. George's",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Grenada adalah negara pulau di Karibia yang terkenal dengan produksi rempah-rempah, terutama pala dan bunga pala. Pulau ini dijuluki 'Pulau Rempah'.",
+    "facts": [
+      "Dijuluki 'Pulau Rempah'",
+      "Produsen pala terbesar di Karibia",
+      "Pantai Grand Anse yang terkenal",
+      "Salah satu negara terkecil di Karibia"
+    ],
+    "history": [
+      "1974: Kemerdekaan dari Britania Raya",
+      "1983: Invasi AS setelah kudeta",
+      "2004: Badai Ivan menghancurkan",
+      "2010an: Pemulihan ekonomi"
+    ],
+    "images": [
+      "assets/images/grenada.jpg"
+    ],
+    "population": 112000,
+    "area": 344
+  },
+  {
+    "id": "jm",
+    "name": "Jamaica",
+    "officialName": "Jamaica",
+    "capital": "Kingston",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Jamaika",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Jamaika adalah negara pulau di Karibia yang terkenal dengan musik reggae, Bob Marley, dan pantai yang indah. Negara ini juga dikenal dengan kopi Blue Mountain yang mahal.",
+    "facts": [
+      "Musik reggae dan Bob Marley",
+      "Kopi Blue Mountain yang mahal",
+      "Pantai Seven Mile di Negril",
+      "Salah satu negara paling populer di Karibia"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Britania Raya",
+      "1970an: Musik reggae mendunia",
+      "1990an: Pariwisata berkembang",
+      "2010an: Reformasi ekonomi"
+    ],
+    "images": [
+      "assets/images/jamaica.jpg"
+    ],
+    "population": 2900000,
+    "area": 10991
+  },
+  {
+    "id": "kn",
+    "name": "Saint Kitts and Nevis",
+    "officialName": "Federation of Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Saint Kitts dan Nevis adalah negara pulau kecil di Karibia yang terkenal dengan gunung berapi, pantai, dan perkebunan gula tua. Negara ini merupakan federasi dua pulau.",
+    "facts": [
+      "Terdiri dari dua pulau utama",
+      "Gunung berapi di Saint Kitts",
+      "Perkebunan gula bersejarah",
+      "Salah satu negara terkecil di dunia"
+    ],
+    "history": [
+      "1983: Kemerdekaan dari Britania Raya",
+      "1983: Federasi Saint Kitts dan Nevis",
+      "2000an: Pariwisata berkembang",
+      "2010an: Program kewarganegaraan ekonomi"
+    ],
+    "images": [
+      "assets/images/saint-kitts-and-nevis.jpg"
+    ],
+    "population": 53000,
+    "area": 261
+  },
+  {
+    "id": "lc",
+    "name": "Saint Lucia",
+    "officialName": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Saint Lucia adalah negara pulau di Karibia yang terkenal dengan Pitons, dua puncak vulkanik yang ikonik. Pulau ini merupakan tujuan bulan madu populer.",
+    "facts": [
+      "Pitons adalah dua puncak vulkanik ikonik",
+      "Salah satu tujuan bulan madu terbaik",
+      "Pantai dan hutan hujan tropis",
+      "Budaya campuran Afrika-Prancis-Inggris"
+    ],
+    "history": [
+      "1979: Kemerdekaan dari Britania Raya",
+      "1979: Bergabung dengan PBB",
+      "2000an: Pariwisata mewah berkembang",
+      "2010an: Pembangunan infrastruktur"
+    ],
+    "images": [
+      "assets/images/saint-lucia.jpg"
+    ],
+    "population": 183000,
+    "area": 616
+  },
+  {
+    "id": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "officialName": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Saint Vincent dan Grenadines adalah negara kepulauan di Karibia yang terkenal dengan layar dan pulau-pulau kecil. Negara ini memiliki gunung berapi aktif La Soufrière.",
+    "facts": [
+      "Gunung berapi aktif La Soufrière",
+      "Populer untuk wisata layar",
+      "Pulau-pulau kecil yang indah",
+      "Budaya campuran Afrika-Karibia"
+    ],
+    "history": [
+      "1979: Kemerdekaan dari Britania Raya",
+      "1979: Bergabung dengan PBB",
+      "2010an: Pengembangan pariwisata",
+      "2021: Erupsi La Soufrière"
+    ],
+    "images": [
+      "assets/images/saint-vincent-and-the-grenadines.jpg"
+    ],
+    "population": 110000,
+    "area": 389
+  },
+  {
+    "id": "tt",
+    "name": "Trinidad and Tobago",
+    "officialName": "Republic of Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Trinidad",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Trinidad dan Tobago adalah negara Karibia yang kaya akan minyak dan gas. Negara ini terkenal dengan karnaval, musik calypso, dan steelpan.",
+    "facts": [
+      "Musik calypso dan steelpan berasal dari sini",
+      "Karnaval Trinidad yang meriah",
+      "Salah satu produsen minyak terbesar di Karibia",
+      "Pantai Pigeon Point di Tobago"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Britania Raya",
+      "1976: Menjadi republik",
+      "1990an: Ekonomi berbasis minyak",
+      "2010an: Diversifikasi ekonomi"
+    ],
+    "images": [
+      "assets/images/trinidad-and-tobago.jpg"
+    ],
+    "population": 1400000,
+    "area": 5130
+  },
+  {
+    "id": "bo",
+    "name": "Bolivia",
+    "officialName": "Plurinational State of Bolivia",
+    "capital": "Sucre",
+    "continent": "Amerika Selatan",
+    "currency": "Boliviano Bolivia",
+    "languages": [
+      "Spanyol",
+      "Quechua",
+      "Aymara"
+    ],
+    "description": "Bolivia adalah negara terkurung daratan di Amerika Selatan yang terkenal dengan Pegunungan Andes, Danau Titicaca, dan Salar de Uyuni. Negara ini memiliki penduduk asli yang besar.",
+    "facts": [
+      "Salar de Uyuni adalah dataran garam terbesar di dunia",
+      "Danau Titicaca adalah danau tertinggi yang bisa dilayari",
+      "Salah satu negara dengan penduduk asli terbanyak",
+      "Pegunungan Andes yang dramatis"
+    ],
+    "history": [
+      "1825: Kemerdekaan dari Spanyol",
+      "1952: Revolusi Nasional",
+      "2006: Evo Morales menjadi presiden pribumi pertama",
+      "2019: Krisis politik"
+    ],
+    "images": [
+      "assets/images/bolivia.jpg"
+    ],
+    "population": 11800000,
+    "area": 1098581
+  },
+  {
+    "id": "ec",
+    "name": "Ecuador",
+    "officialName": "Republic of Ecuador",
+    "capital": "Quito",
+    "continent": "Amerika Selatan",
+    "currency": "Dolar AS",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Ekuador adalah negara di Amerika Selatan yang terkenal dengan Galapagos Islands, gunung berapi, dan hutan hujan Amazon. Negara ini dinamai dari garis khatulistiwa.",
+    "facts": [
+      "Galapagos Islands adalah situs Warisan Dunia",
+      "Gunung Chimborazo adalah titik terjauh dari pusat bumi",
+      "Hutan hujan Amazon di timur",
+      "Nama negara berarti 'khatulistiwa'"
+    ],
+    "history": [
+      "1822: Kemerdekaan dari Spanyol",
+      "1830: Ekuador merdeka",
+      "1979: Demokrasi dipulihkan",
+      "2000: Mengadopsi dolar AS"
+    ],
+    "images": [
+      "assets/images/ecuador.jpg"
+    ],
+    "population": 17800000,
+    "area": 256370
+  },
+  {
+    "id": "gy",
+    "name": "Guyana",
+    "officialName": "Co-operative Republic of Guyana",
+    "capital": "Georgetown",
+    "continent": "Amerika Selatan",
+    "currency": "Dolar Guyana",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Guyana adalah negara di Amerika Selatan bagian utara yang terkenal dengan hutan hujan dan penemuan minyak besar baru-baru ini. Negara ini merupakan bagian dari kawasan Karibia meski berada di daratan Amerika Selatan.",
+    "facts": [
+      "Penemuan minyak besar baru-baru ini",
+      "Hutan hujan yang masih alami",
+      "Satu-satunya negara Amerika Selatan dengan bahasa Inggris resmi",
+      "Sungai Essequibo adalah sungai terbesar"
+    ],
+    "history": [
+      "1966: Kemerdekaan dari Britania Raya",
+      "1970: Menjadi republik kooperatif",
+      "1990an: Reformasi ekonomi",
+      "2015: Penemuan minyak besar"
+    ],
+    "images": [
+      "assets/images/guyana.jpg"
+    ],
+    "population": 790000,
+    "area": 214969
+  },
+  {
+    "id": "py",
+    "name": "Paraguay",
+    "officialName": "Republic of Paraguay",
+    "capital": "Asunción",
+    "continent": "Amerika Selatan",
+    "currency": "Guarani Paraguay",
+    "languages": [
+      "Spanyol",
+      "Guarani"
+    ],
+    "description": "Paraguay adalah negara terkurung daratan di Amerika Selatan yang terkenal dengan sungai-sungai besar, budaya Guarani, dan pembangkit listrik tenaga air terbesar di dunia.",
+    "facts": [
+      "Pembangkit listrik Itaipu adalah salah satu terbesar di dunia",
+      "Budaya Guarani yang kuat",
+      "Sungai Paraguay membelah negara",
+      "Salah satu negara dengan hutan terluas di Amerika Selatan"
+    ],
+    "history": [
+      "1811: Kemerdekaan dari Spanyol",
+      "1864-1870: Perang Paraguay",
+      "1954: Rezim Stroessner",
+      "1989: Demokrasi dipulihkan"
+    ],
+    "images": [
+      "assets/images/paraguay.jpg"
+    ],
+    "population": 7300000,
+    "area": 406752
+  },
+  {
+    "id": "sr",
+    "name": "Suriname",
+    "officialName": "Republic of Suriname",
+    "capital": "Paramaribo",
+    "continent": "Amerika Selatan",
+    "currency": "Dolar Suriname",
+    "languages": [
+      "Belanda"
+    ],
+    "description": "Suriname adalah negara kecil di Amerika Selatan yang kaya akan hutan hujan dan keanekaragaman budaya. Negara ini merupakan bekas koloni Belanda.",
+    "facts": [
+      "Salah satu negara terkecil di Amerika Selatan",
+      "Hutan hujan menutupi lebih dari 90% wilayah",
+      "Budaya campuran Jawa, India, Afrika, dan Belanda",
+      "Sungai Suriname mengalir melalui negara"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Belanda",
+      "1980: Kudeta militer",
+      "1991: Demokrasi dipulihkan",
+      "2010an: Pengembangan tambang"
+    ],
+    "images": [
+      "assets/images/suriname.jpg"
+    ],
+    "population": 590000,
+    "area": 163820
+  },
+  {
+    "id": "uy",
+    "name": "Uruguay",
+    "officialName": "Oriental Republic of Uruguay",
+    "capital": "Montevideo",
+    "continent": "Amerika Selatan",
+    "currency": "Peso Uruguay",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "Uruguay adalah negara kecil di Amerika Selatan yang terkenal dengan stabilitas politik, pantai, dan daging sapi. Negara ini merupakan salah satu yang paling maju di kawasan.",
+    "facts": [
+      "Salah satu negara paling stabil di Amerika Selatan",
+      "Pantai Atlantik seperti Punta del Este",
+      "Salah satu konsumen daging sapi terbesar per kapita",
+      "Pionir dalam energi terbarukan"
+    ],
+    "history": [
+      "1828: Kemerdekaan dari Brasil",
+      "1903: Reformasi sosial awal",
+      "1973-1985: Kediktatoran militer",
+      "2005: Frente Amplio berkuasa"
+    ],
+    "images": [
+      "assets/images/uruguay.jpg"
+    ],
+    "population": 3500000,
+    "area": 176215
+  },
+  {
+    "id": "fj",
+    "name": "Fiji",
+    "officialName": "Republic of Fiji",
+    "capital": "Suva",
+    "continent": "Oseania",
+    "currency": "Dolar Fiji",
+    "languages": [
+      "Inggris",
+      "Fiji",
+      "Hindi Fiji"
+    ],
+    "description": "Fiji adalah negara kepulauan di Pasifik Selatan yang terkenal dengan pantai, terumbu karang, dan budaya ramah. Negara ini merupakan pusat pariwisata di kawasan.",
+    "facts": [
+      "Terumbu karang yang indah",
+      "Pantai-pantai tropis",
+      "Budaya campuran Melanesia, Polinesia, dan India",
+      "Salah satu negara paling maju di Pasifik"
+    ],
+    "history": [
+      "1970: Kemerdekaan dari Britania Raya",
+      "1987: Kudeta militer",
+      "2006: Kudeta lainnya",
+      "2014: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/fiji.jpg"
+    ],
+    "population": 900000,
+    "area": 18274
+  },
+  {
+    "id": "pg",
+    "name": "Papua New Guinea",
+    "officialName": "Independent State of Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "Oseania",
+    "currency": "Kina Papua New Guinea",
+    "languages": [
+      "Inggris",
+      "Tok Pisin",
+      "Hiri Motu"
+    ],
+    "description": "Papua New Guinea adalah negara di Pasifik Selatan yang memiliki keanekaragaman budaya dan bahasa tertinggi di dunia. Pulau ini kaya akan alam liar dan budaya tradisional.",
+    "facts": [
+      "Salah satu negara dengan bahasa terbanyak di dunia",
+      "Hutan hujan tropis yang luas",
+      "Gunung Wilhelm adalah puncak tertinggi",
+      "Budaya tradisional yang masih kuat"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Australia",
+      "1975: Bergabung dengan PBB",
+      "1990an: Konflik Bougainville",
+      "2010an: Pertumbuhan ekonomi"
+    ],
+    "images": [
+      "assets/images/papua-new-guinea.jpg"
+    ],
+    "population": 9000000,
+    "area": 462840
+  },
+  {
+    "id": "sb",
+    "name": "Solomon Islands",
+    "officialName": "Solomon Islands",
+    "capital": "Honiara",
+    "continent": "Oseania",
+    "currency": "Dolar Solomon",
+    "languages": [
+      "Inggris",
+      "Pijin Solomon"
+    ],
+    "description": "Solomon Islands adalah negara kepulauan di Pasifik Selatan yang terkenal dengan hutan hujan, terumbu karang, dan budaya Melanesia. Negara ini memiliki banyak pulau kecil.",
+    "facts": [
+      "Terumbu karang yang kaya",
+      "Hutan hujan tropis",
+      "Budaya Melanesia",
+      "Salah satu negara termiskin di Pasifik"
+    ],
+    "history": [
+      "1978: Kemerdekaan dari Britania Raya",
+      "1998-2003: Konflik etnis",
+      "2003: Misi bantuan internasional",
+      "2010an: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/solomon-islands.jpg"
+    ],
+    "population": 700000,
+    "area": 28896
+  },
+  {
+    "id": "vu",
+    "name": "Vanuatu",
+    "officialName": "Republic of Vanuatu",
+    "capital": "Port Vila",
+    "continent": "Oseania",
+    "currency": "Vatu Vanuatu",
+    "languages": [
+      "Bislama",
+      "Prancis",
+      "Inggris"
+    ],
+    "description": "Vanuatu adalah negara kepulauan di Pasifik Selatan yang terkenal dengan gunung berapi aktif, budaya kastom, dan pantai tropis. Negara ini memiliki banyak bahasa lokal.",
+    "facts": [
+      "Gunung berapi aktif Yasur",
+      "Budaya kastom yang kuat",
+      "Pantai tropis yang indah",
+      "Salah satu negara dengan bahasa terbanyak per kapita"
+    ],
+    "history": [
+      "1980: Kemerdekaan dari Prancis dan Britania",
+      "1980: Bergabung dengan PBB",
+      "1990an: Pemilu demokratis",
+      "2015: Badai Pam menghantam"
+    ],
+    "images": [
+      "assets/images/vanuatu.jpg"
+    ],
+    "population": 300000,
+    "area": 12189
+  },
+  {
+    "id": "bf",
+    "name": "Burkina Faso",
+    "officialName": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis",
+      "Mooré",
+      "Dioula"
+    ],
+    "description": "Burkina Faso adalah negara terkurung daratan di Afrika Barat yang dikenal dengan festival film FESPACO dan budaya musik. Negara ini memiliki banyak kelompok etnis dan tradisi yang kaya.",
+    "facts": [
+      "FESPACO adalah festival film terbesar di Afrika",
+      "Salah satu negara termiskin di dunia",
+      "Kaya akan budaya musik dan tari",
+      "Lebih dari 60 kelompok etnis"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1983: Revolusi Thomas Sankara",
+      "1987: Kudeta militer",
+      "2014: Transisi demokrasi"
+    ],
+    "images": [
+      "assets/images/burkina-faso.jpg"
+    ],
+    "population": 21500000,
+    "area": 274200
+  },
+  {
+    "id": "bi",
+    "name": "Burundi",
+    "officialName": "Republic of Burundi",
+    "capital": "Gitega",
+    "continent": "Afrika",
+    "currency": "Franc Burundi",
+    "languages": [
+      "Kirundi",
+      "Prancis"
+    ],
+    "description": "Burundi adalah negara kecil di Afrika Timur yang terkenal dengan danau, pegunungan, dan konflik etnis. Negara ini memiliki budaya musik drum yang khas.",
+    "facts": [
+      "Danau Tanganyika adalah danau air tawar terpanjang di dunia",
+      "Budaya drum Burundi yang terkenal",
+      "Salah satu negara termiskin di dunia",
+      "Pegunungan yang indah"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Belgia",
+      "1993-2005: Perang saudara",
+      "2005: Pemilu damai",
+      "2019: Ibu kota pindah ke Gitega"
+    ],
+    "images": [
+      "assets/images/burundi.jpg"
+    ],
+    "population": 12500000,
+    "area": 27834
+  },
+  {
+    "id": "cv",
+    "name": "Cabo Verde",
+    "officialName": "Republic of Cabo Verde",
+    "capital": "Praia",
+    "continent": "Afrika",
+    "currency": "Escudo Tanjung Verde",
+    "languages": [
+      "Portugis",
+      "Kreol Tanjung Verde"
+    ],
+    "description": "Tanjung Verde adalah negara kepulauan di Samudra Atlantik yang terdiri dari 10 pulau vulkanik. Negara ini terkenal dengan musik morna, pantai, dan budaya campuran Afrika-Portugis.",
+    "facts": [
+      "Musik morna yang melankolis",
+      "Pantai dan pemandangan vulkanik",
+      "Budaya campuran Afrika-Portugis",
+      "Salah satu negara paling stabil di Afrika Barat"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Portugal",
+      "1991: Demokrasi multipartai",
+      "2007: Menjadi negara berkembang menengah",
+      "2013: Nama resmi diubah menjadi Cabo Verde"
+    ],
+    "images": [
+      "assets/images/cabo-verde.jpg"
+    ],
+    "population": 560000,
+    "area": 4033
+  },
+  {
+    "id": "cf",
+    "name": "Central African Republic",
+    "officialName": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Tengah",
+    "languages": [
+      "Prancis",
+      "Sango"
+    ],
+    "description": "Republik Afrika Tengah adalah negara terkurung daratan di Afrika Tengah yang kaya akan hutan hujan dan satwa liar. Negara ini menghadapi konflik berkepanjangan dan kemiskinan.",
+    "facts": [
+      "Hutan hujan tropis yang luas",
+      "Satwa liar seperti gajah dan gorila",
+      "Salah satu negara termiskin di dunia",
+      "Sungai Ubangi adalah jalur transportasi penting"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1966: Kudeta militer",
+      "2013: Perang saudara",
+      "2016: Pemerintahan transisi"
+    ],
+    "images": [
+      "assets/images/central-african-republic.jpg"
+    ],
+    "population": 5500000,
+    "area": 622984
+  },
+  {
+    "id": "td",
+    "name": "Chad",
+    "officialName": "Republic of Chad",
+    "capital": "N'Djamena",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Tengah",
+    "languages": [
+      "Prancis",
+      "Arab"
+    ],
+    "description": "Chad adalah negara terkurung daratan di Afrika Tengah yang sebagian besar berupa Gurun Sahara di utara dan sabana di selatan. Negara ini kaya akan minyak namun menghadapi kemiskinan.",
+    "facts": [
+      "Gurun Sahara di utara",
+      "Danau Chad adalah danau dangkal yang menyusut",
+      "Salah satu negara termiskin di dunia",
+      "Kaya akan minyak dan emas"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1980an: Konflik Libya",
+      "2003: Produksi minyak dimulai",
+      "2010an: Ancaman terorisme"
+    ],
+    "images": [
+      "assets/images/chad.jpg"
+    ],
+    "population": 17000000,
+    "area": 1284000
+  },
+  {
+    "id": "ck",
+    "name": "Cook Islands",
+    "officialName": "Cook Islands",
+    "capital": "Avarua",
+    "continent": "Oseania",
+    "currency": "Dolar Selandia Baru",
+    "languages": [
+      "Inggris",
+      "Maori Kepulauan Cook"
+    ],
+    "description": "Kepulauan Cook adalah negara kepulauan di Pasifik Selatan yang memiliki hubungan bebas dengan Selandia Baru. Pulau-pulau ini terkenal dengan laguna biru dan budaya Polinesia.",
+    "facts": [
+      "Laguna biru yang indah",
+      "Budaya Polinesia yang masih terjaga",
+      "Hubungan bebas dengan Selandia Baru",
+      "Salah satu tujuan wisata eksotis"
+    ],
+    "history": [
+      "1888: Menjadi protektorat Britania",
+      "1901: Diberikan ke Selandia Baru",
+      "1965: Pemerintahan mandiri",
+      "1990an: Pariwisata berkembang"
+    ],
+    "images": [
+      "assets/images/cook-islands.jpg"
+    ],
+    "population": 17500,
+    "area": 236
+  },
+  {
+    "id": "cw",
+    "name": "Curaçao",
+    "officialName": "Country of Curaçao",
+    "capital": "Willemstad",
+    "continent": "Amerika Utara",
+    "currency": "Guilder Antillen Belanda",
+    "languages": [
+      "Belanda",
+      "Papiamento",
+      "Inggris"
+    ],
+    "description": "Curaçao adalah pulau di Karibia selatan yang merupakan negara konstituen Kerajaan Belanda. Willemstad terkenal dengan bangunan berwarna-warni dan pelabuhan alami.",
+    "facts": [
+      "Willemstad adalah situs Warisan Dunia UNESCO",
+      "Bangunan berwarna-warni gaya Belanda",
+      "Budaya campuran Afrika-Karibia-Belanda",
+      "Salah satu pulau Karibia yang paling beragam"
+    ],
+    "history": [
+      "1634: Dikuasai Belanda",
+      "1954: Menjadi bagian Antillen Belanda",
+      "2010: Menjadi negara konstituen",
+      "2010an: Pariwisata dan keuangan berkembang"
+    ],
+    "images": [
+      "assets/images/curacao.jpg"
+    ],
+    "population": 160000,
+    "area": 444
+  },
+  {
+    "id": "ki",
+    "name": "Kiribati",
+    "officialName": "Republic of Kiribati",
+    "capital": "Tarawa",
+    "continent": "Oseania",
+    "currency": "Dolar Australia",
+    "languages": [
+      "Inggris",
+      "Gilbertese"
+    ],
+    "description": "Kiribati adalah negara kepulauan di Pasifik yang terdiri dari 33 atol dan pulau karang. Negara ini rentan terhadap kenaikan permukaan laut dan perubahan iklim.",
+    "facts": [
+      "Salah satu negara paling rentan terhadap perubahan iklim",
+      "Terdiri dari 33 atol dan pulau",
+      "Garis tanggal internasional pernah digeser",
+      "Budaya Polinesia-Mikronesia"
+    ],
+    "history": [
+      "1979: Kemerdekaan dari Britania Raya",
+      "1983: Perjanjian dengan AS",
+      "2000an: Adaptasi perubahan iklim",
+      "2010an: Pengembangan perikanan"
+    ],
+    "images": [
+      "assets/images/kiribati.jpg"
+    ],
+    "population": 120000,
+    "area": 811
+  },
+  {
+    "id": "kp",
+    "name": "North Korea",
+    "officialName": "Democratic People's Republic of Korea",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "currency": "Won Korea Utara",
+    "languages": [
+      "Korea"
+    ],
+    "description": "Korea Utara adalah negara di Asia Timur yang sangat tertutup dan terisolasi. Negara ini dipimpin oleh rezim komunis dengan militer yang kuat dan ekonomi terpusat.",
+    "facts": [
+      "Salah satu negara paling tertutup di dunia",
+      "Rezim komunis dengan cult of personality",
+      "Militer yang besar",
+      "Ekonomi terpusat"
+    ],
+    "history": [
+      "1948: Republik Demokratik Rakyat Korea didirikan",
+      "1950-1953: Perang Korea",
+      "1994: Kim Il-sung meninggal",
+      "2011: Kim Jong-un berkuasa"
+    ],
+    "images": [
+      "assets/images/north-korea.jpg"
+    ],
+    "population": 25700000,
+    "area": 120538
+  },
+  {
+    "id": "kw",
+    "name": "Kuwait",
+    "officialName": "State of Kuwait",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "currency": "Dinar Kuwait",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Kuwait adalah negara kecil di Teluk Persia yang kaya akan minyak. Negara ini memiliki salah satu mata uang dengan nilai tertinggi di dunia.",
+    "facts": [
+      "Salah satu mata uang tertinggi di dunia",
+      "Kaya akan minyak",
+      "Terletak di Teluk Persia",
+      "Ibu kota modern dengan menara ikonik"
+    ],
+    "history": [
+      "1961: Kemerdekaan dari Britania Raya",
+      "1990: Invasi Irak",
+      "1991: Pembebasan oleh koalisi",
+      "2000an: Pembangunan ekonomi"
+    ],
+    "images": [
+      "assets/images/kuwait.jpg"
+    ],
+    "population": 4200000,
+    "area": 17818
+  },
+  {
+    "id": "lv",
+    "name": "Latvia",
+    "officialName": "Republic of Latvia",
+    "capital": "Riga",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Latvia"
+    ],
+    "description": "Latvia adalah negara Baltik di Eropa Utara yang terkenal dengan arsitektur Art Nouveau di Riga, hutan, dan pantai Baltik.",
+    "facts": [
+      "Riga memiliki koleksi Art Nouveau terbesar di dunia",
+      "Hutan menutupi hampir separuh wilayah",
+      "Pantai Baltik yang indah",
+      "Salah satu negara dengan pertumbuhan ekonomi cepat di Uni Eropa"
+    ],
+    "history": [
+      "1918: Kemerdekaan dari Rusia",
+      "1940: Pendudukan Soviet",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2004: Bergabung dengan Uni Eropa"
+    ],
+    "images": [
+      "assets/images/latvia.jpg"
+    ],
+    "population": 1900000,
+    "area": 64589
+  },
+  {
+    "id": "mg",
+    "name": "Madagascar",
+    "officialName": "Republic of Madagascar",
+    "capital": "Antananarivo",
+    "continent": "Afrika",
+    "currency": "Ariary Madagaskar",
+    "languages": [
+      "Malagasi",
+      "Prancis"
+    ],
+    "description": "Madagaskar adalah negara pulau di Samudra Hindia yang terkenal dengan keanekaragaman hayati unik, seperti lemur dan baobab. Pulau ini memiliki ekosistem yang berbeda dari daratan Afrika.",
+    "facts": [
+      "Rumah bagi lemur dan baobab",
+      "Keanekaragaman hayati yang unik",
+      "Salah satu pulau terbesar di dunia",
+      "Budaya campuran Afrika dan Asia"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1975: Republik Demokratik Madagaskar",
+      "1992: Demokrasi multipartai",
+      "2009: Krisis politik"
+    ],
+    "images": [
+      "assets/images/madagascar.jpg"
+    ],
+    "population": 28000000,
+    "area": 587041
+  },
+  {
+    "id": "mv",
+    "name": "Maldives",
+    "officialName": "Republic of Maldives",
+    "capital": "Malé",
+    "continent": "Asia",
+    "currency": "Rufiyaa Maladewa",
+    "languages": [
+      "Divehi"
+    ],
+    "description": "Maladewa adalah negara kepulauan di Samudra Hindia yang terkenal dengan resor mewah, pantai pasir putih, dan terumbu karang. Negara ini merupakan negara terendah di dunia.",
+    "facts": [
+      "Negara terendah di dunia",
+      "Resor mewah dan pantai pasir putih",
+      "Terumbu karang yang indah",
+      "Salah satu tujuan bulan madu terpopuler"
+    ],
+    "history": [
+      "1965: Kemerdekaan dari Britania Raya",
+      "1968: Menjadi republik",
+      "2000an: Pariwisata mewah berkembang",
+      "2010an: Demokrasi multipartai"
+    ],
+    "images": [
+      "assets/images/maldives.jpg"
+    ],
+    "population": 540000,
+    "area": 298
+  },
+  {
+    "id": "mh",
+    "name": "Marshall Islands",
+    "officialName": "Republic of the Marshall Islands",
+    "capital": "Majuro",
+    "continent": "Oseania",
+    "currency": "Dolar AS",
+    "languages": [
+      "Inggris",
+      "Marshall"
+    ],
+    "description": "Kepulauan Marshall adalah negara kepulauan di Pasifik yang terdiri dari atol dan pulau karang. Negara ini memiliki hubungan bebas dengan Amerika Serikat.",
+    "facts": [
+      "Terdiri dari 29 atol dan 5 pulau",
+      "Hubungan bebas dengan AS",
+      "Rentan terhadap kenaikan permukaan laut",
+      "Budaya Mikronesia"
+    ],
+    "history": [
+      "1986: Kemerdekaan dari AS",
+      "1986: Perjanjian Asosiasi Bebas",
+      "1990an: Bergabung dengan PBB",
+      "2010an: Perubahan iklim"
+    ],
+    "images": [
+      "assets/images/marshall-islands.jpg"
+    ],
+    "population": 59000,
+    "area": 181
+  },
+  {
+    "id": "mu",
+    "name": "Mauritius",
+    "officialName": "Republic of Mauritius",
+    "capital": "Port Louis",
+    "continent": "Afrika",
+    "currency": "Rupee Mauritius",
+    "languages": [
+      "Inggris",
+      "Prancis",
+      "Kreol Mauritius"
+    ],
+    "description": "Mauritius adalah negara pulau di Samudra Hindia yang terkenal dengan pantai, terumbu karang, dan ekonomi yang maju. Negara ini merupakan salah satu yang terkaya di Afrika.",
+    "facts": [
+      "Salah satu negara terkaya di Afrika",
+      "Pantai dan terumbu karang",
+      "Budaya campuran India, Afrika, dan Eropa",
+      "Taman Nasional Black River Gorges"
+    ],
+    "history": [
+      "1968: Kemerdekaan dari Britania Raya",
+      "1992: Menjadi republik",
+      "2000an: Ekonomi berbasis pariwisata dan keuangan",
+      "2010an: Pertumbuhan ekonomi"
+    ],
+    "images": [
+      "assets/images/mauritius.jpg"
+    ],
+    "population": 1300000,
+    "area": 2040
+  },
+  {
+    "id": "fm",
+    "name": "Micronesia",
+    "officialName": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "continent": "Oseania",
+    "currency": "Dolar AS",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Mikronesia adalah negara kepulauan di Pasifik yang terdiri dari empat negara bagian. Negara ini memiliki hubungan bebas dengan Amerika Serikat.",
+    "facts": [
+      "Terdiri dari empat negara bagian",
+      "Hubungan bebas dengan AS",
+      "Terumbu karang dan atol",
+      "Budaya Mikronesia"
+    ],
+    "history": [
+      "1986: Kemerdekaan dari AS",
+      "1986: Perjanjian Asosiasi Bebas",
+      "1990an: Bergabung dengan PBB",
+      "2010an: Perubahan iklim"
+    ],
+    "images": [
+      "assets/images/micronesia.jpg"
+    ],
+    "population": 113000,
+    "area": 702
+  },
+  {
+    "id": "mc",
+    "name": "Monaco",
+    "officialName": "Principality of Monaco",
+    "capital": "Monaco",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Monako adalah negara kota kecil di Riviera Prancis yang terkenal dengan kasino, balap Formula Satu, dan kekayaan. Negara ini merupakan salah satu yang terkecil dan terpadat di dunia.",
+    "facts": [
+      "Salah satu negara terkecil di dunia",
+      "Terkenal dengan Grand Prix Monako",
+      "Kasino Monte Carlo yang legendaris",
+      "Tidak memiliki pajak penghasilan pribadi"
+    ],
+    "history": [
+      "1297: Dinasti Grimaldi berkuasa",
+      "1861: Perjanjian dengan Prancis",
+      "1911: Konstitusi pertama",
+      "2005: Pangeran Albert II naik tahta"
+    ],
+    "images": [
+      "assets/images/monaco.jpg"
+    ],
+    "population": 39000,
+    "area": 2.02
+  },
+  {
+    "id": "mn",
+    "name": "Mongolia",
+    "officialName": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "continent": "Asia",
+    "currency": "Tugrik Mongolia",
+    "languages": [
+      "Mongolia"
+    ],
+    "description": "Mongolia adalah negara terkurung daratan di Asia Timur yang terkenal dengan budaya nomaden, Gurun Gobi, dan sejarah Kekaisaran Mongol. Negara ini memiliki kepadatan penduduk terendah di dunia.",
+    "facts": [
+      "Kepadatan penduduk terendah di dunia",
+      "Budaya nomaden dan yurt",
+      "Gurun Gobi yang luas",
+      "Warisan Kekaisaran Mongol"
+    ],
+    "history": [
+      "1206: Kekaisaran Mongol didirikan oleh Genghis Khan",
+      "1911: Kemerdekaan dari Tiongkok",
+      "1924: Republik Rakyat Mongolia",
+      "1992: Demokrasi multipartai"
+    ],
+    "images": [
+      "assets/images/mongolia.jpg"
+    ],
+    "population": 3300000,
+    "area": 1564110
+  },
+  {
+    "id": "nr",
+    "name": "Nauru",
+    "officialName": "Republic of Nauru",
+    "capital": "Yaren",
+    "continent": "Oseania",
+    "currency": "Dolar Australia",
+    "languages": [
+      "Nauru",
+      "Inggris"
+    ],
+    "description": "Nauru adalah negara pulau terkecil di dunia yang terletak di Pasifik. Negara ini pernah kaya karena fosfat, namun kini menghadapi tantangan ekonomi.",
+    "facts": [
+      "Negara pulau terkecil di dunia",
+      "Pernah kaya dari tambang fosfat",
+      "Tidak memiliki ibu kota resmi",
+      "Rentan terhadap perubahan iklim"
+    ],
+    "history": [
+      "1968: Kemerdekaan dari Australia",
+      "1970an: Kekayaan dari fosfat",
+      "1990an: Krisis ekonomi",
+      "2000an: Pemulihan dan bantuan internasional"
+    ],
+    "images": [
+      "assets/images/nauru.jpg"
+    ],
+    "population": 10800,
+    "area": 21
+  },
+  {
+    "id": "om",
+    "name": "Oman",
+    "officialName": "Sultanate of Oman",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "currency": "Rial Oman",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Oman adalah negara di Semenanjung Arab yang terkenal dengan bentang alam pegunungan, pantai, dan budaya Arab yang kaya. Negara ini relatif stabil dan makmur.",
+    "facts": [
+      "Pegunungan Al Hajar yang dramatis",
+      "Pantai dan laut yang jernih",
+      "Budaya Arab yang kaya",
+      "Salah satu negara paling stabil di Timur Tengah"
+    ],
+    "history": [
+      "1650: Pengusiran Portugis",
+      "1970: Sultan Qaboos berkuasa",
+      "1996: Konstitusi dasar",
+      "2020: Sultan Haitham naik tahta"
+    ],
+    "images": [
+      "assets/images/oman.jpg"
+    ],
+    "population": 5100000,
+    "area": 309500
+  },
+  {
+    "id": "pw",
+    "name": "Palau",
+    "officialName": "Republic of Palau",
+    "capital": "Ngerulmud",
+    "continent": "Oseania",
+    "currency": "Dolar AS",
+    "languages": [
+      "Palau",
+      "Inggris"
+    ],
+    "description": "Palau adalah negara kepulauan di Pasifik yang terkenal dengan danau ubur-ubur, terumbu karang, dan keanekaragaman hayati laut. Negara ini merupakan tujuan diving kelas dunia.",
+    "facts": [
+      "Danau ubur-ubur yang terkenal",
+      "Terumbu karang yang kaya",
+      "Salah satu negara dengan keanekaragaman hayati laut tertinggi",
+      "Hubungan bebas dengan AS"
+    ],
+    "history": [
+      "1994: Kemerdekaan dari AS",
+      "1994: Perjanjian Asosiasi Bebas",
+      "2000an: Pariwisata berkembang",
+      "2010an: Konservasi laut"
+    ],
+    "images": [
+      "assets/images/palau.jpg"
+    ],
+    "population": 18000,
+    "area": 459
+  },
+  {
+    "id": "qa",
+    "name": "Qatar",
+    "officialName": "State of Qatar",
+    "capital": "Doha",
+    "continent": "Asia",
+    "currency": "Riyal Qatar",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Qatar adalah negara kaya minyak dan gas di Teluk Persia. Negara ini menjadi tuan rumah Piala Dunia FIFA 2022 dan memiliki arsitektur modern yang mencolok.",
+    "facts": [
+      "Salah satu negara terkaya per kapita di dunia",
+      "Tuan rumah Piala Dunia FIFA 2022",
+      "Doha memiliki arsitektur futuristik",
+      "Kaya akan gas alam"
+    ],
+    "history": [
+      "1971: Kemerdekaan dari Britania Raya",
+      "1995: Sheikh Hamad berkuasa",
+      "2005: Konstitusi permanen",
+      "2013: Sheikh Tamim menjadi emir"
+    ],
+    "images": [
+      "assets/images/qatar.jpg"
+    ],
+    "population": 2900000,
+    "area": 11586
+  },
+  {
+    "id": "ws",
+    "name": "Samoa",
+    "officialName": "Independent State of Samoa",
+    "capital": "Apia",
+    "continent": "Oseania",
+    "currency": "Tala Samoa",
+    "languages": [
+      "Samoa",
+      "Inggris"
+    ],
+    "description": "Samoa adalah negara kepulauan di Pasifik Selatan yang terkenal dengan budaya Fa'a Samoa, pantai, dan air terjun. Negara ini merupakan salah satu yang pertama merdeka di Pasifik.",
+    "facts": [
+      "Budaya Fa'a Samoa yang kuat",
+      "Pantai dan air terjun",
+      "Salah satu negara pertama merdeka di Pasifik",
+      "Desa-desa tradisional"
+    ],
+    "history": [
+      "1962: Kemerdekaan dari Selandia Baru",
+      "1970: Bergabung dengan PBB",
+      "1997: Nama resmi diubah menjadi Samoa",
+      "2000an: Pengembangan pariwisata"
+    ],
+    "images": [
+      "assets/images/samoa.jpg"
+    ],
+    "population": 200000,
+    "area": 2842
+  },
+  {
+    "id": "sm",
+    "name": "San Marino",
+    "officialName": "Republic of San Marino",
+    "capital": "San Marino",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Italia"
+    ],
+    "description": "San Marino adalah negara mikro di Italia utara yang merupakan salah satu republik tertua di dunia. Negara ini terkenal dengan benteng abad pertengahan dan pemandangan pegunungan Apennine.",
+    "facts": [
+      "Salah satu republik tertua di dunia",
+      "Benteng abad pertengahan di Monte Titano",
+      "Sepenuhnya dikelilingi Italia",
+      "Tidak memiliki utang nasional"
+    ],
+    "history": [
+      "301: Didirikan oleh Santo Marinus",
+      "1600: Konstitusi diadopsi",
+      "1862: Diakui oleh Italia",
+      "1992: Bergabung dengan PBB"
+    ],
+    "images": [
+      "assets/images/san-marino.jpg"
+    ],
+    "population": 34000,
+    "area": 61
+  },
+  {
+    "id": "st",
+    "name": "Sao Tome and Principe",
+    "officialName": "Democratic Republic of Sao Tome and Principe",
+    "capital": "São Tomé",
+    "continent": "Afrika",
+    "currency": "Dobra Sao Tome",
+    "languages": [
+      "Portugis"
+    ],
+    "description": "Sao Tome dan Principe adalah negara kepulauan kecil di Teluk Guinea yang terkenal dengan pantai, hutan hujan, dan produksi kakao organik.",
+    "facts": [
+      "Salah satu negara terkecil di Afrika",
+      "Pantai dan hutan hujan tropis",
+      "Produsen kakao organik",
+      "Budaya campuran Afrika-Portugis"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Portugal",
+      "1991: Demokrasi multipartai",
+      "2000an: Pengembangan pariwisata",
+      "2010an: Eksplorasi minyak"
+    ],
+    "images": [
+      "assets/images/sao-tome-and-principe.jpg"
+    ],
+    "population": 220000,
+    "area": 964
+  },
+  {
+    "id": "sc",
+    "name": "Seychelles",
+    "officialName": "Republic of Seychelles",
+    "capital": "Victoria",
+    "continent": "Afrika",
+    "currency": "Rupee Seychelles",
+    "languages": [
+      "Inggris",
+      "Prancis",
+      "Kreol Seychelles"
+    ],
+    "description": "Seychelles adalah negara kepulauan di Samudra Hindia yang terkenal dengan pantai pasir putih, batu granit raksasa, dan keanekaragaman hayati laut. Negara ini merupakan tujuan wisata mewah.",
+    "facts": [
+      "Pantai pasir putih yang indah",
+      "Batu granit raksasa yang ikonik",
+      "Keanekaragaman hayati laut yang kaya",
+      "Salah satu tujuan wisata mewah terbaik"
+    ],
+    "history": [
+      "1976: Kemerdekaan dari Britania Raya",
+      "1977: Kudeta tanpa kekerasan",
+      "1993: Demokrasi multipartai",
+      "2000an: Pariwisata mewah berkembang"
+    ],
+    "images": [
+      "assets/images/seychelles.jpg"
+    ],
+    "population": 98000,
+    "area": 455
+  },
+  {
+    "id": "sg",
+    "name": "Singapore",
+    "officialName": "Republic of Singapore",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "currency": "Dolar Singapura",
+    "languages": [
+      "Inggris",
+      "Melayu",
+      "Mandarin",
+      "Tamil"
+    ],
+    "description": "Singapura adalah negara kota di Asia Tenggara yang terkenal dengan ekonomi maju, arsitektur modern, dan keragaman budaya. Negara ini merupakan salah satu pusat keuangan dunia.",
+    "facts": [
+      "Salah satu pusat keuangan terbesar di dunia",
+      "Arsitektur modern seperti Marina Bay Sands",
+      "Keragaman budaya yang harmonis",
+      "Salah satu negara paling aman di dunia"
+    ],
+    "history": [
+      "1819: Didirikan oleh Stamford Raffles",
+      "1965: Kemerdekaan dari Malaysia",
+      "1990an: Pertumbuhan ekonomi pesat",
+      "2010an: Inovasi dan teknologi"
+    ],
+    "images": [
+      "assets/images/singapore.jpg"
+    ],
+    "population": 5700000,
+    "area": 728
+  },
+  {
+    "id": "ss",
+    "name": "South Sudan",
+    "officialName": "Republic of South Sudan",
+    "capital": "Juba",
+    "continent": "Afrika",
+    "currency": "Pound Sudan Selatan",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Sudan Selatan adalah negara termuda di dunia yang memperoleh kemerdekaan dari Sudan pada tahun 2011. Negara ini kaya akan minyak tetapi menghadapi konflik dan kemiskinan.",
+    "facts": [
+      "Negara termuda di dunia",
+      "Kaya akan minyak",
+      "Salah satu negara termiskin di dunia",
+      "Konflik berkepanjangan"
+    ],
+    "history": [
+      "2011: Kemerdekaan dari Sudan",
+      "2013-2018: Perang saudara",
+      "2018: Perjanjian damai",
+      "2020an: Implementasi damai"
+    ],
+    "images": [
+      "assets/images/south-sudan.jpg"
+    ],
+    "population": 11200000,
+    "area": 619745
+  },
+  {
+    "id": "sy",
+    "name": "Syria",
+    "officialName": "Syrian Arab Republic",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "currency": "Pound Suriah",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Suriah adalah negara di Asia Barat yang memiliki sejarah panjang peradaban kuno, termasuk kota Damaskus yang merupakan salah satu kota tertua di dunia. Negara ini menghadapi konflik besar sejak 2011.",
+    "facts": [
+      "Damaskus adalah salah satu kota tertua yang terus dihuni",
+      "Kaya akan situs arkeologi Romawi dan Islam",
+      "Sungai Efrat melintasi negara",
+      "Konflik berkepanjangan sejak 2011"
+    ],
+    "history": [
+      "1946: Kemerdekaan dari Prancis",
+      "1958-1961: Bersatu dengan Mesir",
+      "1970: Hafez al-Assad berkuasa",
+      "2011: Perang saudara dimulai"
+    ],
+    "images": [
+      "assets/images/syria.jpg"
+    ],
+    "population": 17500000,
+    "area": 185180
+  },
+  {
+    "id": "tj",
+    "name": "Tajikistan",
+    "officialName": "Republic of Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "currency": "Somoni Tajikistan",
+    "languages": [
+      "Tajik"
+    ],
+    "description": "Tajikistan adalah negara terkurung daratan di Asia Tengah yang didominasi pegunungan Pamir. Negara ini terkenal dengan budaya Persia dan pemandangan alam yang dramatis.",
+    "facts": [
+      "Pegunungan Pamir dijuluki 'Atap Dunia'",
+      "Budaya Persia yang kuat",
+      "Salah satu negara termiskin di Asia Tengah",
+      "Sungai Amu Darya menjadi perbatasan"
+    ],
+    "history": [
+      "1929: Republik Soviet Tajikistan",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "1992-1997: Perang saudara",
+      "1997: Perjanjian damai"
+    ],
+    "images": [
+      "assets/images/tajikistan.jpg"
+    ],
+    "population": 9500000,
+    "area": 143100
+  },
+  {
+    "id": "tg",
+    "name": "Togo",
+    "officialName": "Togolese Republic",
+    "capital": "Lomé",
+    "continent": "Afrika",
+    "currency": "Franc CFA Afrika Barat",
+    "languages": [
+      "Prancis"
+    ],
+    "description": "Togo adalah negara kecil di Afrika Barat yang terkenal dengan pantai, pasar tradisional, dan budaya voodoo. Negara ini memiliki ekonomi berbasis pertanian.",
+    "facts": [
+      "Salah satu negara terkecil di Afrika",
+      "Budaya voodoo yang masih hidup",
+      "Pasar tradisional di Lomé",
+      "Pantai Atlantik yang indah"
+    ],
+    "history": [
+      "1960: Kemerdekaan dari Prancis",
+      "1967: Gnassingbé Eyadéma berkuasa",
+      "2005: Transisi kepemimpinan",
+      "2010an: Reformasi politik"
+    ],
+    "images": [
+      "assets/images/togo.jpg"
+    ],
+    "population": 8500000,
+    "area": 56785
+  },
+  {
+    "id": "to",
+    "name": "Tonga",
+    "officialName": "Kingdom of Tonga",
+    "capital": "Nuku'alofa",
+    "continent": "Oseania",
+    "currency": "Pa'anga Tonga",
+    "languages": [
+      "Tonga",
+      "Inggris"
+    ],
+    "description": "Tonga adalah negara kepulauan di Pasifik Selatan yang merupakan satu-satunya monarki di kawasan. Negara ini terkenal dengan budaya Polinesia dan pantai tropis.",
+    "facts": [
+      "Satu-satunya monarki di Pasifik",
+      "Budaya Polinesia yang kuat",
+      "Pantai tropis dan terumbu karang",
+      "Salah satu negara pertama merdeka di Pasifik"
+    ],
+    "history": [
+      "1875: Konstitusi Tonga diadopsi",
+      "1900: Protektorat Britania",
+      "1970: Kemerdekaan penuh",
+      "2010: Reformasi demokrasi"
+    ],
+    "images": [
+      "assets/images/tonga.jpg"
+    ],
+    "population": 100000,
+    "area": 747
+  },
+  {
+    "id": "tm",
+    "name": "Turkmenistan",
+    "officialName": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "currency": "Manat Turkmenistan",
+    "languages": [
+      "Turkmen"
+    ],
+    "description": "Turkmenistan adalah negara di Asia Tengah yang sebagian besar berupa Gurun Karakum. Negara ini kaya akan gas alam dan memiliki arsitektur putih yang mencolok di ibukotanya.",
+    "facts": [
+      "Sebagian besar wilayah adalah Gurun Karakum",
+      "Kaya akan gas alam",
+      "Ashgabat memiliki arsitektur marmer putih",
+      "Salah satu negara paling tertutup di dunia"
+    ],
+    "history": [
+      "1924: Republik Soviet Turkmenistan",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2006: Kematian presiden pertama",
+      "2010an: Pembangunan infrastruktur"
+    ],
+    "images": [
+      "assets/images/turkmenistan.jpg"
+    ],
+    "population": 6000000,
+    "area": 488100
+  },
+  {
+    "id": "tv",
+    "name": "Tuvalu",
+    "officialName": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "Oseania",
+    "currency": "Dolar Australia",
+    "languages": [
+      "Tuvalu",
+      "Inggris"
+    ],
+    "description": "Tuvalu adalah negara kepulauan kecil di Pasifik yang sangat rentan terhadap kenaikan permukaan laut. Negara ini merupakan salah satu yang terkecil dan terendah di dunia.",
+    "facts": [
+      "Salah satu negara terkecil di dunia",
+      "Rentan terhadap kenaikan permukaan laut",
+      "Atol dan pulau karang",
+      "Budaya Polinesia"
+    ],
+    "history": [
+      "1978: Kemerdekaan dari Britania Raya",
+      "1979: Persetujuan dengan AS",
+      "2000an: Perubahan iklim",
+      "2010an: Adaptasi"
+    ],
+    "images": [
+      "assets/images/tuvalu.jpg"
+    ],
+    "population": 11000,
+    "area": 26
+  },
+  {
+    "id": "ae",
+    "name": "United Arab Emirates",
+    "officialName": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "currency": "Dirham UEA",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Uni Emirat Arab adalah negara di Teluk Persia yang terkenal dengan arsitektur futuristik, pusat keuangan, dan cadangan minyak. Dubai dan Abu Dhabi adalah kota paling dikenal.",
+    "facts": [
+      "Dubai memiliki Burj Khalifa, gedung tertinggi di dunia",
+      "Salah satu pusat keuangan global",
+      "Kaya akan minyak dan gas",
+      "Monarki federal"
+    ],
+    "history": [
+      "1971: Federasi UEA dibentuk",
+      "1973: Bergabung dengan OPEC",
+      "2000an: Diversifikasi ekonomi",
+      "2020an: Eksplorasi luar angkasa"
+    ],
+    "images": [
+      "assets/images/united-arab-emirates.jpg"
+    ],
+    "population": 9900000,
+    "area": 83600
+  },
+  {
+    "id": "ye",
+    "name": "Yemen",
+    "officialName": "Republic of Yemen",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "currency": "Rial Yaman",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Yaman adalah negara di Semenanjung Arab yang memiliki sejarah kuno dan arsitektur unik. Negara ini menghadapi konflik dan krisis kemanusiaan sejak 2015.",
+    "facts": [
+      "Kota Tua Sana'a adalah Warisan Dunia",
+      "Arsitektur menara tanah liat yang unik",
+      "Pulau Socotra dengan keanekaragaman hayati unik",
+      "Salah satu negara termiskin di dunia"
+    ],
+    "history": [
+      "1918: Kerajaan Yaman merdeka",
+      "1962: Republik Arab Yaman",
+      "1990: Penyatuan Yaman",
+      "2015: Perang saudara dan intervensi asing"
+    ],
+    "images": [
+      "assets/images/yemen.jpg"
+    ],
+    "population": 30490000,
+    "area": 527968
+  },
+  {
+    "id": "ee",
+    "name": "Estonia",
+    "officialName": "Republic of Estonia",
+    "capital": "Tallinn",
+    "continent": "Eropa",
+    "currency": "Euro",
+    "languages": [
+      "Estonia"
+    ],
+    "description": "Estonia adalah negara Baltik di Eropa Utara yang terkenal dengan kemajuan digital, kota tua abad pertengahan di Tallinn, dan alam yang indah.",
+    "facts": [
+      "Salah satu negara paling digital di dunia",
+      "Tallinn memiliki kota tua abad pertengahan yang terawat",
+      "Memiliki lebih dari 2.000 pulau",
+      "Anggota Uni Eropa dan NATO"
+    ],
+    "history": [
+      "1918: Kemerdekaan dari Rusia",
+      "1940: Pendudukan Soviet",
+      "1991: Kemerdekaan dari Uni Soviet",
+      "2004: Bergabung dengan Uni Eropa dan NATO"
+    ],
+    "images": [
+      "assets/images/estonia.jpg"
+    ],
+    "population": 1330000,
+    "area": 45227
+  },
+  {
+    "id": "bh",
+    "name": "Bahrain",
+    "officialName": "Kingdom of Bahrain",
+    "capital": "Manama",
+    "continent": "Asia",
+    "currency": "Dinar Bahrain",
+    "languages": [
+      "Arab"
+    ],
+    "description": "Bahrain adalah negara kepulauan kecil di Teluk Persia yang terkenal dengan sektor keuangan, mutiara, dan situs arkeologi kuno.",
+    "facts": [
+      "Salah satu pusat keuangan di Timur Tengah",
+      "Terkenal dengan mutiara alami",
+      "Memiliki benteng kuno Bahrain Fort",
+      "Tuan rumah Grand Prix Formula Satu"
+    ],
+    "history": [
+      "1971: Kemerdekaan dari Britania Raya",
+      "2002: Menjadi kerajaan konstitusional",
+      "2011: Demonstrasi pro-demokrasi",
+      "2020an: Normalisasi hubungan dengan Israel"
+    ],
+    "images": [
+      "assets/images/bahrain.jpg"
+    ],
+    "population": 1500000,
+    "area": 778
+  },
+  {
+    "id": "km",
+    "name": "Comoros",
+    "officialName": "Union of the Comoros",
+    "capital": "Moroni",
+    "continent": "Afrika",
+    "currency": "Franc Komoro",
+    "languages": [
+      "Komoro",
+      "Prancis",
+      "Arab"
+    ],
+    "description": "Komoro adalah negara kepulauan di Samudra Hindia yang terletak di antara Madagaskar dan Mozambik. Negara ini terkenal dengan pantai dan keanekaragaman budaya.",
+    "facts": [
+      "Salah satu negara terkecil di Afrika",
+      "Budaya campuran Afrika, Arab, dan Prancis",
+      "Pulau-pulau vulkanik yang indah",
+      "Mata pencaharian utama adalah pertanian"
+    ],
+    "history": [
+      "1975: Kemerdekaan dari Prancis",
+      "1997: Pulau Anjouan dan Moheli memberontak",
+      "2001: Konstitusi baru",
+      "2010an: Pemilu demokratis"
+    ],
+    "images": [
+      "assets/images/comoros.jpg"
+    ],
+    "population": 800000,
+    "area": 1862
+  },
+  {
+    "id": "ag",
+    "name": "Antigua and Barbuda",
+    "officialName": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "continent": "Amerika Utara",
+    "currency": "Dolar Karibia Timur",
+    "languages": [
+      "Inggris"
+    ],
+    "description": "Antigua dan Barbuda adalah negara kepulauan di Karibia yang terkenal dengan pantai, sejarah kolonial, dan pelayaran.",
+    "facts": [
+      "Memiliki 365 pantai (satu untuk setiap hari)",
+      "Bekas koloni Britania",
+      "Populer untuk wisata perahu layar",
+      "Pulau Barbuda memiliki pantai berpasir merah muda"
+    ],
+    "history": [
+      "1981: Kemerdekaan dari Britania Raya",
+      "1981: Bergabung dengan PBB",
+      "2017: Badai Irma merusak Barbuda",
+      "2020an: Pemulihan pariwisata"
+    ],
+    "images": [
+      "assets/images/antigua-and-barbuda.jpg"
+    ],
+    "population": 97000,
+    "area": 442
+  },
+  {
+    "id": "sv",
+    "name": "El Salvador",
+    "officialName": "Republic of El Salvador",
+    "capital": "San Salvador",
+    "continent": "Amerika Utara",
+    "currency": "Dolar AS",
+    "languages": [
+      "Spanyol"
+    ],
+    "description": "El Salvador adalah negara kecil di Amerika Tengah yang terkenal dengan gunung berapi, pantai, dan kopi. Negara ini adalah yang terkecil dan terpadat di kawasan.",
+    "facts": [
+      "Negara terkecil di Amerika Tengah",
+      "Memiliki banyak gunung berapi aktif",
+      "Penghasil kopi berkualitas",
+      "Dolar AS sebagai mata uang resmi"
+    ],
+    "history": [
+      "1821: Kemerdekaan dari Spanyol",
+      "1980-1992: Perang saudara",
+      "1992: Perjanjian damai",
+      "2001: Adopsi dolar AS"
+    ],
+    "images": [
+      "assets/images/el-salvador.jpg"
+    ],
+    "population": 6500000,
+    "area": 21041
+  },
+  {
+    "id": "li",
+    "name": "Liechtenstein",
+    "officialName": "Principality of Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "Eropa",
+    "currency": "Franc Swiss",
+    "languages": [
+      "Jerman"
+    ],
+    "description": "Liechtenstein adalah negara mikro di Eropa yang terletak di antara Swiss dan Austria. Negara ini terkenal dengan kastil, sektor keuangan, dan kualitas hidup tinggi.",
+    "facts": [
+      "Salah satu negara terkaya di dunia per kapita",
+      "Tidak memiliki bandara",
+      "Kastil Vaduz yang indah",
+      "Industri keuangan yang maju"
+    ],
+    "history": [
+      "1719: Kerajaan Liechtenstein didirikan",
+      "1866: Menjadi negara merdeka",
+      "1923: Uni bea cukai dengan Swiss",
+      "1990an: Bergabung dengan PBB"
+    ],
+    "images": [
+      "assets/images/liechtenstein.jpg"
+    ],
+    "population": 38000,
+    "area": 160
+  },
+  {
+    "id": "sz",
+    "name": "Eswatini",
+    "officialName": "Kingdom of Eswatini",
+    "capital": "Mbabane",
+    "continent": "Afrika",
+    "currency": "Lilangeni",
+    "languages": [
+      "Swati",
+      "Inggris"
+    ],
+    "description": "Eswatini adalah negara kecil di Afrika bagian selatan yang merupakan salah satu monarki absolut terakhir di dunia. Negara ini terkenal dengan budaya Swazi dan taman nasional.",
+    "facts": [
+      "Salah satu monarki absolut terakhir di dunia",
+      "Budaya Swazi yang masih kuat",
+      "Taman Nasional Hlane kaya satwa",
+      "Dikelilingi oleh Afrika Selatan dan Mozambik"
+    ],
+    "history": [
+      "1968: Kemerdekaan dari Britania Raya",
+      "1973: Raja Sobhuza II membubarkan parlemen",
+      "1986: Raja Mswati III naik tahta",
+      "2018: Nama resmi diubah menjadi Eswatini"
+    ],
+    "images": [
+      "assets/images/eswatini.jpg"
+    ],
+    "population": 1160000,
+    "area": 17364
+  },
+
+  {
+  "id": "ps",
+  "name": "Palestine",
+  "officialName": "State of Palestine",
+  "capital": "Ramallah",
+  "continent": "Asia",
+  "currency": "Shekel Israel",
+  "languages": ["Arab"],
+  "description": "Palestina adalah negara pengamat di PBB yang terletak di Timur Tengah, dengan wilayah yang terdiri dari Tepi Barat dan Jalur Gaza. Negara ini memiliki sejarah panjang dan menjadi pusat konflik geopolitik.",
+  "facts": [
+    "Negara pengamat non-anggota PBB sejak 2012",
+    "Wilayahnya terdiri dari Tepi Barat dan Jalur Gaza",
+    "Ibu kota administratif di Ramallah",
+    "Penduduk mayoritas Muslim dan Kristen Arab"
+  ],
+  "history": [
+    "1948: Nakba dan pembentukan Israel",
+    "1988: Deklarasi kemerdekaan Palestina",
+    "2012: Menjadi negara pengamat PBB",
+    "2020an: Upaya perdamaian berlanjut"
+  ],
+  "images": [
+    "assets/images/palestine.jpg"
+  ],
+  "population": 5200000,
+  "area": 6020
+},
+{
+  "id": "va",
+  "name": "Vatican City",
+  "officialName": "Vatican City State",
+  "capital": "Vatican City",
+  "continent": "Eropa",
+  "currency": "Euro",
+  "languages": ["Italia", "Latin"],
+  "description": "Vatican City adalah negara terkecil di dunia, terletak di dalam kota Roma, Italia. Negara ini merupakan pusat spiritual Gereja Katolik dan dipimpin oleh Paus.",
+  "facts": [
+    "Negara terkecil di dunia berdasarkan luas dan populasi",
+    "Pusat Gereja Katolik Roma",
+    "Dipimpin oleh Paus",
+    "Memiliki Basilika Santo Petrus dan Kapel Sistina"
+  ],
+  "history": [
+    "1929: Perjanjian Lateran membentuk negara Vatikan",
+    "1984: Hubungan diplomatik penuh dengan Italia",
+    "2013: Paus Fransiskus terpilih",
+    "2020an: Terus menjadi pusat spiritual Katolik"
+  ],
+  "images": [
+    "assets/images/vatican-city.jpg"   
+  ],
+  "population": 800,
+  "area": 0.44
+}
+]

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VEXILLO - Jelajahi Dunia</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=Outfit:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <!-- Custom cursor -->
+  <div id="custom-cursor" class="cursor-dot" aria-hidden="true"></div>
+  <div id="custom-cursor-ring" class="cursor-ring" aria-hidden="true"></div>
+
+  <!-- Globe canvases -->
+  <canvas id="globe-canvas" aria-hidden="true"></canvas>
+  <canvas id="quiz-globe-canvas" aria-hidden="true" style="display:none;"></canvas>
+  <canvas id="profile-globe-canvas" aria-hidden="true" style="display:none;"></canvas>
+
+  <!-- Navbar -->
+  <header class="navbar" id="navbar">
+    <a href="#" class="navbar-logo" data-view="home">VEXILLO</a>
+    <nav class="navbar-links">
+      <a href="#explore" class="nav-link active" data-view="explore">Explore</a>
+      <a href="#quiz" class="nav-link" data-view="quiz">Quiz</a>
+      <a href="#profile" class="nav-link" data-view="profile">Profile</a>
+
+      <!-- Backsound toggle -->
+      <button id="backsound-toggle" class="backsound-btn" title="Nyalakan backsound">
+        <svg class="icon-sound-on" width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 9V15H8L13 20V4L8 9H4Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M16 8.5C17.5 10 17.5 14 16 15.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <path d="M18.5 6C21 8 21 16 18.5 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <svg class="icon-sound-off" width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 9V15H8L13 20V4L8 9H4Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M17 9L22 14M22 9L17 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </nav>
+  </header>
+
+  <!-- Main App -->
+  <main id="app" style="position: relative; z-index: 2;">
+
+    <!-- Hero Section -->
+    <section class="hero-section" id="hero">
+      <div class="hero-content">
+        <h1 class="hero-title">VEXILLO</h1>
+        <p class="hero-subtitle" id="hero-explore-trigger">Jelajahi Dunia</p>
+        <div class="scroll-indicator">
+          <span>Scroll</span>
+          <div class="scroll-line"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Storytelling Section -->
+    <section class="storytelling-section" id="storytelling">
+      <div class="storytelling-pin">
+        <!-- Layer 1: Unsur-unsur Negara -->
+        <div class="story-layer" id="layer-unsur">
+          <div class="story-content">
+            <p class="story-eyebrow">KONSEP DASAR</p>
+            <h2 class="story-title">UNSUR-UNSUR<br />NEGARA</h2>
+            <div class="story-list">
+              <div class="story-item" data-layer="1">
+                <span class="story-num">01</span>
+                <span class="story-label">RAKYAT</span>
+                <p class="story-desc">Orang yang tinggal dan hidup di dalam wilayah itu.</p>
+              </div>
+              <div class="story-item" data-layer="2">
+                <span class="story-num">02</span>
+                <span class="story-label">WILAYAH</span>
+                <p class="story-desc">Daerah atau batas tanah dan air yang jelas.</p>
+              </div>
+              <div class="story-item" data-layer="3">
+                <span class="story-num">03</span>
+                <span class="story-label">PEMERINTAH</span>
+                <p class="story-desc">Orang yang mengatur aturan dan hukum.</p>
+              </div>
+              <div class="story-item" data-layer="4">
+                <span class="story-num">04</span>
+                <span class="story-label">KEDAULATAN</span>
+                <p class="story-desc">Kuasa penuh untuk mengatur negara sendiri tanpa campur tangan luar.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Layer 2: Kutipan Para Tokoh -->
+        <div class="story-layer" id="layer-quotes">
+          <div class="story-content">
+            <p class="story-eyebrow">PERSPEKTIF PARA AHLI</p>
+            <h2 class="story-title">APA KATA PARA TOKOH?</h2>
+            <div class="quote-selector">
+              <button class="quote-selector-btn active" data-quote="1">Miriam Budiardjo</button>
+              <button class="quote-selector-btn" data-quote="2">Max Weber</button>
+              <button class="quote-selector-btn" data-quote="3">Aristoteles</button>
+            </div>
+            <div class="quote-display" id="quote-display">
+              <!-- Kutipan akan tampil di sini -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Layer 3: Definisi + 195 -->
+        <div class="story-layer" id="layer-definisi">
+          <div class="story-content story-definisi-content">
+            <h2 class="story-definisi-text">Negara adalah sebuah wilayah di bumi<br />yang punya aturan, pemerintah,<br />dan rakyat sendiri.</h2>
+            <p class="story-definisi-sub">Menurut data Perserikatan Bangsa-Bangsa (PBB), ada</p>
+            <div class="story-big-number">195</div>
+            <p class="story-definisi-sub">negara resmi di dunia saat ini.</p>
+          </div>
+        </div>
+
+              <!-- Layer 4: Video Penjelasan -->
+        <div class="story-layer" id="layer-video">
+          <div class="story-content story-video-content">
+            <p class="story-eyebrow">VIDEO</p>
+            <h2 class="story-title story-video-title">APA ITU NEGARA?</h2>
+            <div class="story-video-wrapper">
+              <video class="story-video" id="story-video" controls playsinline>
+                <source src="assets/video/explore.mp4" type="video/mp4">
+                Browser Anda tidak mendukung video.
+              </video>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+
+        
+
+    </section>
+
+    <!-- Explore View -->
+    <section class="explore-view" id="explore-view" style="display: block;">
+      <div class="atlas-container">
+        <!-- Header: Title + Search -->
+        <div class="atlas-header">
+          <div class="atlas-title-area">
+            <p class="atlas-eyebrow">195 COUNTRIES — ENDLESS STORIES</p>
+            <h2 class="atlas-title">JELAJAHI<br>DUNIA</h2>
+            <p class="atlas-subtitle">Temukan negara, sejarah, budaya, dan masyarakatnya.</p>
+          </div>
+          <div class="atlas-search-area">
+            <div class="search-box">
+              <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21 21L16.65 16.65M19 11C19 15.4183 15.4183 19 11 19C6.58172 19 3 15.4183 3 11C3 6.58172 6.58172 3 11 3C15.4183 3 19 6.58172 19 11Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              <input type="text" id="search-input" class="search-input" placeholder="Cari negara atau ibu kota..." autocomplete="off">
+            </div>
+          </div>
+        </div>
+
+        <!-- Stats bar -->
+        <div class="stats-bar">
+          <div class="stats-item">
+            <span class="stats-value">195</span>
+            <span class="stats-label">Negara</span>
+          </div>
+          <div class="stats-item">
+            <span class="stats-value">8.1B</span>
+            <span class="stats-label">Populasi Dunia</span>
+          </div>
+          <div class="stats-item">
+            <span class="stats-value">7</span>
+            <span class="stats-label">Benua</span>
+          </div>
+          <div class="stats-item">
+            <span class="stats-value">6,000+</span>
+            <span class="stats-label">Bahasa Aktif</span>
+          </div>
+        </div>
+
+        <!-- Filter benua -->
+        <div class="filter-container" id="filter-container">
+          <button class="filter-btn active" data-continent="all">Semua</button>
+          <button class="filter-btn" data-continent="asia">Asia</button>
+          <button class="filter-btn" data-continent="eropa">Eropa</button>
+          <button class="filter-btn" data-continent="afrika">Afrika</button>
+          <button class="filter-btn" data-continent="amerika-utara">Amerika Utara</button>
+          <button class="filter-btn" data-continent="amerika-selatan">Amerika Selatan</button>
+          <button class="filter-btn" data-continent="oseania">Oseania</button>
+          <button class="filter-btn" data-continent="antartika">Antartika</button>
+          <span class="filter-count" id="filter-count">195 negara</span>
+        </div>
+
+        <!-- Sortir -->
+        <div class="sort-container">
+          <label for="sort-select" class="sort-label">Urutkan:</label>
+          <select id="sort-select" class="sort-select">
+            <option value="name-asc">Nama A-Z</option>
+            <option value="name-desc">Nama Z-A</option>
+            <option value="capital-asc">Ibu Kota A-Z</option>
+            <option value="capital-desc">Ibu Kota Z-A</option>
+            <option value="population-desc">Populasi Terbesar</option>
+            <option value="population-asc">Populasi Terkecil</option>
+            <option value="area-desc">Luas Wilayah Terbesar</option>
+            <option value="area-asc">Luas Wilayah Terkecil</option>
+          </select>
+        </div>
+
+        <!-- Country grid -->
+        <div class="country-grid" id="country-grid">
+          <!-- Cards akan dirender oleh JavaScript -->
+        </div>
+
+        <!-- Empty state -->
+        <div class="empty-state" id="empty-state" style="display: none;">
+          <p>Tidak ada negara ditemukan.</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="atlas-footer">
+          <span class="footer-brand">VEXILLO</span>
+          <span class="footer-note">Data: PBB, 2024</span>
+        </footer>
+      </div>
+    </section>
+
+    <!-- Country Detail View -->
+    <section class="country-detail-view hidden" id="country-detail-view">
+      <button class="back-btn" id="back-btn">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Kembali
+      </button>
+      <div class="country-detail-content" id="country-detail-content"></div>
+    </section>
+
+    <!-- Quiz View -->
+    <section class="quiz-view hidden" id="quiz-view">
+      <!-- Landing state -->
+      <div class="quiz-landing" id="quiz-landing">
+        <div class="quiz-landing-content">
+          <h2 class="quiz-landing-title">QUICK WORLD CHALLANGE</h2>
+          <p class="quiz-landing-sub">Uji Pengetahuanmu dengan menjawab soal!</p>
+          <button class="quiz-start-btn" id="quiz-start-btn">MULAI</button>
+        </div>
+      </div>
+
+      <!-- Playing state -->
+      <div class="quiz-playing hidden" id="quiz-playing">
+        <div class="quiz-panel">
+          <div class="quiz-panel-header">
+            <span class="quiz-progress-label" id="quiz-progress-label">Soal 1</span>
+            <span class="quiz-score-label">Skor: <span id="quiz-score">0</span></span>
+          </div>
+          <div class="quiz-timer-container">
+            <div class="quiz-timer-bar" id="quiz-timer-bar"></div>
+          </div>
+          <div class="quiz-question-text" id="quiz-question-text"></div>
+
+          <!-- Tambahan elemen gambar bendera -->
+          <div class="quiz-question-image" id="quiz-question-image"></div>
+
+          <div class="quiz-options" id="quiz-options"></div>
+          <div class="quiz-feedback" id="quiz-feedback"></div>
+        </div>
+      </div>
+
+      <!-- Game over state -->
+      <div class="quiz-gameover hidden" id="quiz-gameover">
+        <div class="quiz-panel">
+          <span class="quiz-gameover-label">GAME OVER</span>
+          <h2 class="quiz-gameover-title">QUIZ OVER</h2>
+          <div class="quiz-final-score-label">Skor Akhir</div>
+          <div class="quiz-final-score" id="quiz-final-score">0</div>
+          <div class="quiz-gameover-actions">
+            <button class="quiz-retry-btn" id="quiz-retry-btn">COBA LAGI</button>
+            <button class="quiz-back-btn" id="quiz-back-btn">KEMBALI</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Profile View -->
+    <section class="profile-view hidden" id="profile-view">
+      <div class="profile-container" id="profile-content">
+        <!-- Konten akan dirender oleh JavaScript -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

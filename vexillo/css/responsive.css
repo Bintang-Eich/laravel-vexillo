@@ -1,0 +1,267 @@
+/* ============================================================
+   VEXILLO — responsive.css
+   Responsive adjustments untuk mobile
+   ============================================================ */
+
+@media (max-width: 768px) {
+
+  /* ---------- Global ---------- */
+  body {
+    font-size: 15px;
+  }
+
+  /* ---------- Navbar ---------- */
+  .navbar {
+    padding: var(--space-2);
+  }
+  .navbar-links {
+    gap: var(--space-2);
+  }
+  .nav-link {
+    font-size: 0.85rem;
+    padding: var(--space-1) var(--space-2);
+  }
+  .backsound-btn {
+    font-size: 1rem;
+  }
+
+  /* ---------- Hero ---------- */
+  .hero-section {
+    height: 120vh; /* sesuaikan jika perlu */
+  }
+  .hero-title {
+    font-size: clamp(3rem, 10vw, 5rem);
+  }
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  .scroll-indicator {
+    font-size: 0.7rem;
+  }
+  .scroll-line {
+    height: 30px;
+  }
+
+  /* ---------- Storytelling ---------- */
+  .storytelling-section {
+    height: 600vh; /* tetap panjang untuk storytelling */
+  }
+  .storytelling-pin {
+    padding: 0 var(--space-3);
+  }
+
+  /* Fase Unsur-unsur Negara: lebarkan, jangan sempit */
+  #layer-unsur {
+    justify-content: flex-start;
+    padding-left: 1rem;
+    padding-right: 1rem;   /* hilangkan padding kanan besar */
+    text-align: left;
+  }
+
+  #layer-unsur .story-content {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  #layer-unsur .story-title {
+    font-size: clamp(1.6rem, 4vw, 2.2rem);
+    margin-bottom: 1.2rem;
+  }
+
+  #layer-unsur .story-item {
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-bottom: 0.8rem;
+  }
+
+  #layer-unsur .story-label {
+    font-size: 1.1rem;
+  }
+
+  #layer-unsur .story-desc {
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+
+  /* Fase Quotes */
+  #layer-quotes .story-title {
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+  }
+  .quote-selector-btn {
+    font-size: 0.75rem;
+    padding: 0.4rem 1rem;
+  }
+  .quote-display {
+    font-size: 0.85rem;
+  }
+
+  /* Fase Definisi */
+  #layer-definisi .story-definisi-text {
+    font-size: clamp(1.2rem, 3vw, 1.8rem);
+  }
+  .story-big-number {
+    font-size: clamp(4rem, 15vw, 8rem);
+  }
+
+  /* Fase Video */
+  .story-video-wrapper {
+    max-width: 400px; /* cukup untuk mobile */
+    max-height: 50vh;
+  }
+  .story-video-title {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+  }
+
+  /* ---------- Explore / Atlas ---------- */
+  .atlas-header {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding-top: 4rem;
+  }
+  .atlas-title {
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+  }
+  .stats-bar {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .filter-container {
+    gap: 0.3rem;
+  }
+  .filter-btn {
+    font-size: 0.7rem;
+    padding: 0.3rem 0.8rem;
+  }
+  .sort-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .sort-select {
+    width: 100%;
+  }
+  .country-grid {
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 0.7rem;
+  }
+  .country-card {
+    padding: 1rem;
+  }
+  .country-flag {
+    height: 90px;
+  }
+  .country-card-stats {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* ---------- Country Detail ---------- */
+  .country-detail-view {
+    padding: 60px 1rem 2rem;
+  }
+  .detail-hero {
+    height: 30vh;
+  }
+  .detail-title-row {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .detail-title-row .detail-flag {
+    width: 48px;
+    height: 32px;
+  }
+  .facts-list {
+    grid-template-columns: 1fr;
+  }
+
+  /* ---------- Quiz ---------- */
+  .quiz-view {
+    padding-top: 60px;
+  }
+  .quiz-landing-content {
+    padding: 0 1rem;
+  }
+  .quiz-landing-title {
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+  }
+  .quiz-landing-sub {
+    font-size: 0.9rem;
+  }
+  .quiz-start-btn {
+    font-size: 0.8rem;
+    padding: 0.8rem 2rem;
+  }
+  .quiz-playing,
+  .quiz-gameover {
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 0 1rem;
+  }
+  .quiz-options {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  .quiz-question-text {
+    font-size: 1rem;
+  }
+  .quiz-question-image img {
+    width: 120px;
+  }
+
+  /* ---------- Profile ---------- */
+  .profile-view {
+    padding-top: 60px;
+  }
+  .profile-container {
+    padding: 0 1rem;
+  }
+  .profile-username {
+    font-size: clamp(2rem, 5vw, 3rem);
+  }
+  .profile-meta {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .profile-meta > div {
+    align-items: center;
+    text-align: center;
+  }
+  .saved-slot-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+  }
+  .saved-slot {
+    padding: 0.4rem;
+    font-size: 0.8rem;
+  }
+  .auth-form {
+    padding: 1.5rem;
+  }
+  #register-form {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: clamp(2.5rem, 8vw, 4rem);
+  }
+  .country-grid {
+    grid-template-columns: 1fr;
+  }
+  .country-flag {
+    height: 80px;
+  }
+  .stats-bar {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+  }
+  .filter-btn {
+    font-size: 0.65rem;
+  }
+  .saved-slot-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .quiz-question-text {
+    font-size: 0.9rem;
+  }
+}
